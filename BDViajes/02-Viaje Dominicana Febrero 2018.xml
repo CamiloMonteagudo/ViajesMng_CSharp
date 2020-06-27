@@ -1,0 +1,7512 @@
+<?xml version="1.0" standalone="yes"?>
+<DataBase xmlns="http://tempuri.org/DataBase.xsd">
+  <Presupuesto>
+    <id>1</id>
+    <source>De mi Reserva</source>
+    <value>690</value>
+    <moneda>0</moneda>
+    <cambio>0.935</cambio>
+  </Presupuesto>
+  <Presupuesto>
+    <id>2</id>
+    <source>Dinero de Sonia</source>
+    <value>1510</value>
+    <moneda>1</moneda>
+    <cambio>0.935</cambio>
+  </Presupuesto>
+  <Gastos>
+    <id>1</id>
+    <descric>Pago de pasajes</descric>
+    <cuc>690</cuc>
+    <value>690 cuc</value>
+  </Gastos>
+  <Gastos>
+    <id>2</id>
+    <descric>Transporte hacia el hotel</descric>
+    <cuc>9.350</cuc>
+    <value>10 usd</value>
+  </Gastos>
+  <Gastos>
+    <id>3</id>
+    <descric>Pago del hotel</descric>
+    <cuc>67.320</cuc>
+    <value>72 usd</value>
+  </Gastos>
+  <Gastos>
+    <id>4</id>
+    <descric>Comida primer día</descric>
+    <cuc>7.85400</cuc>
+    <value>8.4 usd</value>
+  </Gastos>
+  <Gastos>
+    <id>5</id>
+    <descric>Tarjeta de turista en Dominicana</descric>
+    <cuc>18.700</cuc>
+    <value>20 usd</value>
+  </Gastos>
+  <Gastos>
+    <id>6</id>
+    <descric>Comida segundo día segudo día </descric>
+    <cuc>6.4185450819672131147540983645</cuc>
+    <value>335 dop</value>
+  </Gastos>
+  <Gastos>
+    <id>7</id>
+    <descric>Cosas de comer para la casa</descric>
+    <cuc>5.4605532786885245901639344295</cuc>
+    <value>285 dop</value>
+  </Gastos>
+  <Gastos>
+    <id>8</id>
+    <descric>Comida tercer día</descric>
+    <cuc>6.2269467213114754098360655775</cuc>
+    <value>325 dop</value>
+  </Gastos>
+  <Gastos>
+    <id>9</id>
+    <descric>Viaje de regreso al Aeropuerdo</descric>
+    <cuc>9.350</cuc>
+    <value>10 usd</value>
+  </Gastos>
+  <Gastos>
+    <id>10</id>
+    <descric>Envoltura del equipaje</descric>
+    <cuc>7.6639344262295081967213114800</cuc>
+    <value>400 dop</value>
+  </Gastos>
+  <Gastos>
+    <id>11</id>
+    <descric>Javas para empacar</descric>
+    <cuc>3.4487704918032786885245901660</cuc>
+    <value>180 dop</value>
+  </Gastos>
+  <Gastos>
+    <id>12</id>
+    <descric>Arreglo del reloj</descric>
+    <cuc>5</cuc>
+    <value>5 cuc</value>
+  </Gastos>
+  <Compras>
+    <id>1</id>
+    <item>_Diclofenac Sodico + Complejo B</item>
+    <count>20</count>
+    <value>380 dop</value>
+    <valItem>19 dop</valItem>
+    <valCUC>7.2807377049180327868852459060</valCUC>
+    <valCucItem>0.3640368852459016393442622953</valCucItem>
+    <moneda>0</moneda>
+    <precio>2</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>2</id>
+    <item>_Diclofenac en Crema (con Mentol)</item>
+    <count>20</count>
+    <value>500 dop</value>
+    <valItem>25 dop</valItem>
+    <valCUC>9.579918032786885245901639350</valCUC>
+    <valCucItem>0.4789959016393442622950819675</valCucItem>
+    <moneda>0</moneda>
+    <precio>4</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>3</id>
+    <item>_Omega 3,6,9</item>
+    <count>2</count>
+    <value>390 dop</value>
+    <valItem>195 dop</valItem>
+    <valCUC>7.4723360655737704918032786930</valCUC>
+    <valCucItem>3.7361680327868852459016393465</valCucItem>
+    <moneda>0</moneda>
+    <precio>10</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>4</id>
+    <item>_Sildenafil (Viagra)</item>
+    <count>96</count>
+    <value>2640 dop</value>
+    <valItem>27.5 dop</valItem>
+    <valCUC>50.581967213114754098360655768</valCUC>
+    <valCucItem>0.5268954918032786885245901642</valCucItem>
+    <moneda>0</moneda>
+    <precio>3</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>5</id>
+    <item>Visimax Gotas</item>
+    <count>2</count>
+    <value>220 dop</value>
+    <valItem>110 dop</valItem>
+    <valCUC>4.2151639344262295081967213140</valCUC>
+    <valCucItem>2.1075819672131147540983606570</valCucItem>
+    <moneda>0</moneda>
+    <precio>5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>6</id>
+    <item>Shores Bermudas de Mezclilla de hombre</item>
+    <count>7</count>
+    <value>2100 dop</value>
+    <valItem>300 dop</valItem>
+    <valCUC>40.235655737704918032786885270</valCUC>
+    <valCucItem>5.747950819672131147540983610</valCucItem>
+    <moneda>0</moneda>
+    <precio>15</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>7</id>
+    <item>Vestido con rayas</item>
+    <count>6</count>
+    <value>1400 dop</value>
+    <valItem>233.33 dop</valItem>
+    <valCUC>26.823770491803278688524590180</valCUC>
+    <valCucItem>4.4706284153005464480874316967</valCucItem>
+    <moneda>0</moneda>
+    <precio>12</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>8</id>
+    <item>Vestido con tull</item>
+    <count>6</count>
+    <value>1500 dop</value>
+    <valItem>250 dop</valItem>
+    <valCUC>28.739754098360655737704918050</valCUC>
+    <valCucItem>4.789959016393442622950819675</valCucItem>
+    <moneda>0</moneda>
+    <precio>15</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>9</id>
+    <item>Blusa de tela bordada</item>
+    <count>4</count>
+    <value>880 dop</value>
+    <valItem>220 dop</valItem>
+    <valCUC>16.860655737704918032786885256</valCUC>
+    <valCucItem>4.215163934426229508196721314</valCucItem>
+    <moneda>0</moneda>
+    <precio>13</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>10</id>
+    <item>Camiceritos</item>
+    <count>6</count>
+    <value>1350 dop</value>
+    <valItem>225 dop</valItem>
+    <valCUC>25.865778688524590163934426245</valCUC>
+    <valCucItem>4.3109631147540983606557377075</valCucItem>
+    <moneda>0</moneda>
+    <precio>12</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>11</id>
+    <item>Short de colores con rotico de mujer</item>
+    <count>6</count>
+    <value>1740 dop</value>
+    <valItem>290 dop</valItem>
+    <valCUC>33.338114754098360655737704938</valCUC>
+    <valCucItem>5.556352459016393442622950823</valCucItem>
+    <moneda>0</moneda>
+    <precio>12</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>12</id>
+    <item>Pitusas de mezclilla elastico</item>
+    <count>6</count>
+    <value>2280 dop</value>
+    <valItem>380 dop</valItem>
+    <valCUC>43.684426229508196721311475436</valCUC>
+    <valCucItem>7.280737704918032786885245906</valCucItem>
+    <moneda>0</moneda>
+    <precio>18</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>13</id>
+    <item>Monos largos</item>
+    <count>3</count>
+    <value>810 dop</value>
+    <valItem>270 dop</valItem>
+    <valCUC>15.519467213114754098360655747</valCUC>
+    <valCucItem>5.173155737704918032786885249</valCucItem>
+    <moneda>0</moneda>
+    <precio>13</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>14</id>
+    <item>Shorts pequeños</item>
+    <count>16</count>
+    <value>2140 dop</value>
+    <valItem>133.75 dop</valItem>
+    <valCUC>41.002049180327868852459016418</valCUC>
+    <valCucItem>2.5626280737704918032786885261</valCucItem>
+    <moneda>0</moneda>
+    <precio>5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>15</id>
+    <item>Calzoncillos "Men"</item>
+    <count>48</count>
+    <value>1520 dop</value>
+    <valItem>31.67 dop</valItem>
+    <valCUC>29.122950819672131147540983624</valCUC>
+    <valCucItem>0.6067281420765027322404371588</valCucItem>
+    <moneda>2</moneda>
+    <precio>50.00</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>16</id>
+    <item>Cola Loka</item>
+    <count>24</count>
+    <value>70 dop</value>
+    <valItem>2.92 dop</valItem>
+    <valCUC>1.3411885245901639344262295090</valCUC>
+    <valCucItem>0.0558828551912568306010928962</valCucItem>
+    <moneda>2</moneda>
+    <precio>10</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>17</id>
+    <item>Gomas de Borrar Jumbo</item>
+    <count>5</count>
+    <value>40 dop</value>
+    <valItem>8 dop</valItem>
+    <valCUC>0.7663934426229508196721311480</valCUC>
+    <valCucItem>0.1532786885245901639344262296</valCucItem>
+    <moneda>0</moneda>
+    <precio>0.25</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>18</id>
+    <item>Presinta</item>
+    <count>1</count>
+    <value>40 dop</value>
+    <valItem>40 dop</valItem>
+    <valCUC>0.7663934426229508196721311480</valCUC>
+    <valCucItem>0.7663934426229508196721311480</valCucItem>
+    <moneda>0</moneda>
+    <precio>1.9</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>19</id>
+    <item>Pasta Colgate (grande)</item>
+    <count>4</count>
+    <value>560 dop</value>
+    <valItem>140 dop</valItem>
+    <valCUC>10.729508196721311475409836072</valCUC>
+    <valCucItem>2.682377049180327868852459018</valCucItem>
+    <moneda>0</moneda>
+    <precio>5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>20</id>
+    <item>Alambres de fregar</item>
+    <count>24</count>
+    <value>120 dop</value>
+    <valItem>5 dop</valItem>
+    <valCUC>2.2991803278688524590163934440</valCUC>
+    <valCucItem>0.0957991803278688524590163935</valCucItem>
+    <moneda>2</moneda>
+    <precio>10</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>21</id>
+    <item>Blusas variadas</item>
+    <count>4</count>
+    <value>400 dop</value>
+    <valItem>100 dop</valItem>
+    <valCUC>7.6639344262295081967213114800</valCUC>
+    <valCucItem>1.9159836065573770491803278700</valCucItem>
+    <moneda>0</moneda>
+    <precio>5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>22</id>
+    <item>Blusitas de vuelo</item>
+    <count>6</count>
+    <value>970 dop</value>
+    <valItem>161.67 dop</valItem>
+    <valCUC>18.585040983606557377049180339</valCUC>
+    <valCucItem>3.0975068306010928961748633898</valCucItem>
+    <moneda>0</moneda>
+    <precio>11</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>23</id>
+    <item>Vestidos de Rayas negras</item>
+    <count>12</count>
+    <value>2040 dop</value>
+    <valItem>170 dop</valItem>
+    <valCUC>39.086065573770491803278688548</valCUC>
+    <valCucItem>3.257172131147540983606557379</valCucItem>
+    <moneda>0</moneda>
+    <precio>12</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>24</id>
+    <item>Medias</item>
+    <count>48</count>
+    <value>700 dop</value>
+    <valItem>14.58 dop</valItem>
+    <valCUC>13.411885245901639344262295090</valCUC>
+    <valCucItem>0.279414275956284153005464481</valCucItem>
+    <moneda>2</moneda>
+    <precio>25</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>25</id>
+    <item>Plantillas de mujer</item>
+    <count>10</count>
+    <value>120 dop</value>
+    <valItem>12 dop</valItem>
+    <valCUC>2.2991803278688524590163934440</valCUC>
+    <valCucItem>0.2299180327868852459016393444</valCucItem>
+    <moneda>0</moneda>
+    <precio>0.5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>26</id>
+    <item>Batas de dormir</item>
+    <count>12</count>
+    <value>1585 dop</value>
+    <valItem>132.08 dop</valItem>
+    <valCUC>30.368340163934426229508196740</valCUC>
+    <valCucItem>2.5306950136612021857923497283</valCucItem>
+    <moneda>0</moneda>
+    <precio>10</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>27</id>
+    <item>Ropones con blumer</item>
+    <count>12</count>
+    <value>2745 dop</value>
+    <valItem>228.75 dop</valItem>
+    <valCUC>52.593750000000000000000000032</valCUC>
+    <valCucItem>4.3828125000000000000000000027</valCucItem>
+    <moneda>0</moneda>
+    <precio>10</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>28</id>
+    <item>Ropones con shorts</item>
+    <count>24</count>
+    <value>4860 dop</value>
+    <valItem>202.5 dop</valItem>
+    <valCUC>93.11680327868852459016393448</valCUC>
+    <valCucItem>3.8798668032786885245901639367</valCucItem>
+    <moneda>0</moneda>
+    <precio>9</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>29</id>
+    <item>Calzoncillos de niños</item>
+    <count>12</count>
+    <value>370 dop</value>
+    <valItem>30.83 dop</valItem>
+    <valCUC>7.0891393442622950819672131190</valCUC>
+    <valCucItem>0.5907616120218579234972677599</valCucItem>
+    <moneda>2</moneda>
+    <precio>30</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>30</id>
+    <item>Blumers</item>
+    <count>36</count>
+    <value>1260 dop</value>
+    <valItem>35 dop</valItem>
+    <valCUC>24.141393442622950819672131162</valCUC>
+    <valCucItem>0.6705942622950819672131147545</valCucItem>
+    <moneda>0</moneda>
+    <precio>2</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>31</id>
+    <item>Blumers sin costura</item>
+    <count>12</count>
+    <value>475 dop</value>
+    <valItem>39.58 dop</valItem>
+    <valCUC>9.100922131147540983606557382</valCUC>
+    <valCucItem>0.7584101775956284153005464485</valCucItem>
+    <moneda>0</moneda>
+    <precio>2</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>32</id>
+    <item>Blumers de señora</item>
+    <count>12</count>
+    <value>475 dop</value>
+    <valItem>39.58 dop</valItem>
+    <valCUC>9.100922131147540983606557382</valCUC>
+    <valCucItem>0.7584101775956284153005464485</valCucItem>
+    <moneda>0</moneda>
+    <precio>2</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>33</id>
+    <item>Ropones con blumer (segundo tipo)</item>
+    <count>2</count>
+    <value>460 dop</value>
+    <valItem>230 dop</valItem>
+    <valCUC>8.813524590163934426229508202</valCUC>
+    <valCucItem>4.406762295081967213114754101</valCucItem>
+    <moneda>0</moneda>
+    <precio>10</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>34</id>
+    <item>Ajustadores (para las jimaguas)</item>
+    <count>3</count>
+    <value>225 dop</value>
+    <valItem>75 dop</valItem>
+    <valCUC>4.3109631147540983606557377075</valCUC>
+    <valCucItem>1.4369877049180327868852459025</valCucItem>
+    <moneda>0</moneda>
+    <precio>3</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>35</id>
+    <item>Blusas "SUPER"</item>
+    <count>6</count>
+    <value>1200 dop</value>
+    <valItem>200 dop</valItem>
+    <valCUC>22.991803278688524590163934440</valCUC>
+    <valCucItem>3.831967213114754098360655740</valCucItem>
+    <moneda>0</moneda>
+    <precio>12</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>36</id>
+    <item>Blusas "VOYAGE"</item>
+    <count>6</count>
+    <value>1135 dop</value>
+    <valItem>189.17 dop</valItem>
+    <valCUC>21.746413934426229508196721324</valCUC>
+    <valCucItem>3.624402322404371584699453554</valCucItem>
+    <moneda>0</moneda>
+    <precio>12</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>37</id>
+    <item>Blusas de señora</item>
+    <count>6</count>
+    <value>1250 dop</value>
+    <valItem>208.33 dop</valItem>
+    <valCUC>23.949795081967213114754098375</valCUC>
+    <valCucItem>3.9916325136612021857923497292</valCucItem>
+    <moneda>0</moneda>
+    <precio>13</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>38</id>
+    <item>Blusas "FLAMINGO"</item>
+    <count>6</count>
+    <value>1090 dop</value>
+    <valItem>181.67 dop</valItem>
+    <valCUC>20.884221311475409836065573783</valCUC>
+    <valCucItem>3.4807035519125683060109289638</valCucItem>
+    <moneda>0</moneda>
+    <precio>9</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>39</id>
+    <item>Blusas con hojitas</item>
+    <count>6</count>
+    <value>1250 dop</value>
+    <valItem>208.33 dop</valItem>
+    <valCUC>23.949795081967213114754098375</valCUC>
+    <valCucItem>3.9916325136612021857923497292</valCucItem>
+    <moneda>0</moneda>
+    <precio>12</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>40</id>
+    <item>Mono shorts</item>
+    <count>12</count>
+    <value>3000 dop</value>
+    <valItem>250 dop</valItem>
+    <valCUC>57.479508196721311475409836100</valCUC>
+    <valCucItem>4.789959016393442622950819675</valCucItem>
+    <moneda>0</moneda>
+    <precio>12</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>41</id>
+    <item>Alfombras "Bienvenido"</item>
+    <count>5</count>
+    <value>450 dop</value>
+    <valItem>90 dop</valItem>
+    <valCUC>8.621926229508196721311475415</valCUC>
+    <valCucItem>1.724385245901639344262295083</valCucItem>
+    <moneda>0</moneda>
+    <precio>4</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>42</id>
+    <item>Toallas pequeñas</item>
+    <count>12</count>
+    <value>100 dop</value>
+    <valItem>8.33 dop</valItem>
+    <valCUC>1.9159836065573770491803278700</valCUC>
+    <valCucItem>0.1596653005464480874316939892</valCucItem>
+    <moneda>2</moneda>
+    <precio>15</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>43</id>
+    <item>Toallitas medianas</item>
+    <count>24</count>
+    <value>500 dop</value>
+    <valItem>20.83 dop</valItem>
+    <valCUC>9.579918032786885245901639350</valCUC>
+    <valCucItem>0.3991632513661202185792349729</valCucItem>
+    <moneda>2</moneda>
+    <precio>30</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>44</id>
+    <item>Mantel de 4 sillas</item>
+    <count>4</count>
+    <value>440 dop</value>
+    <valItem>110 dop</valItem>
+    <valCUC>8.430327868852459016393442628</valCUC>
+    <valCucItem>2.107581967213114754098360657</valCucItem>
+    <moneda>0</moneda>
+    <precio>8</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>45</id>
+    <item>Mantel de 6 sillas</item>
+    <count>3</count>
+    <value>450 dop</value>
+    <valItem>150 dop</valItem>
+    <valCUC>8.621926229508196721311475415</valCUC>
+    <valCucItem>2.873975409836065573770491805</valCucItem>
+    <moneda>0</moneda>
+    <precio>10</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>46</id>
+    <item>Shores de hombre "Sports"</item>
+    <count>12</count>
+    <value>1680 dop</value>
+    <valItem>140 dop</valItem>
+    <valCUC>32.188524590163934426229508216</valCUC>
+    <valCucItem>2.682377049180327868852459018</valCucItem>
+    <moneda>0</moneda>
+    <precio>5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>47</id>
+    <item>Zandalias</item>
+    <count>3</count>
+    <value>735 dop</value>
+    <valItem>245 dop</valItem>
+    <valCUC>14.082479508196721311475409844</valCUC>
+    <valCucItem>4.6941598360655737704918032813</valCucItem>
+    <moneda>0</moneda>
+    <precio>12</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>48</id>
+    <item>Zandalias</item>
+    <count>1</count>
+    <value>250 dop</value>
+    <valItem>250 dop</valItem>
+    <valCUC>4.7899590163934426229508196750</valCUC>
+    <valCucItem>4.7899590163934426229508196750</valCucItem>
+    <moneda>0</moneda>
+    <precio>12</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>50</id>
+    <item>Plantillas de hombre</item>
+    <count>12</count>
+    <value>160 dop</value>
+    <valItem>13.33 dop</valItem>
+    <valCUC>3.0655737704918032786885245920</valCUC>
+    <valCucItem>0.2554644808743169398907103827</valCucItem>
+    <moneda>2</moneda>
+    <precio>20</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>51</id>
+    <item>Lamparas recalgable multifunción</item>
+    <count>3</count>
+    <value>1380 dop</value>
+    <valItem>460 dop</valItem>
+    <valCUC>26.440573770491803278688524606</valCUC>
+    <valCucItem>8.813524590163934426229508202</valCucItem>
+    <moneda>0</moneda>
+    <precio>22</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>52</id>
+    <item>Carteritas</item>
+    <count>6</count>
+    <value>360 dop</value>
+    <valItem>60 dop</valItem>
+    <valCUC>6.8975409836065573770491803320</valCUC>
+    <valCucItem>1.1495901639344262295081967220</valCucItem>
+    <moneda>0</moneda>
+    <precio>5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>53</id>
+    <item>Gorras</item>
+    <count>12</count>
+    <value>1500 dop</value>
+    <valItem>125 dop</valItem>
+    <valCUC>28.739754098360655737704918050</valCUC>
+    <valCucItem>2.3949795081967213114754098375</valCucItem>
+    <moneda>0</moneda>
+    <precio>4</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>54</id>
+    <item>Pompones de corazon</item>
+    <count>24</count>
+    <value>720 dop</value>
+    <valItem>30 dop</valItem>
+    <valCUC>13.795081967213114754098360664</valCUC>
+    <valCucItem>0.574795081967213114754098361</valCucItem>
+    <moneda>2</moneda>
+    <precio>50.00</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>55</id>
+    <item>Relojes "Addidas"</item>
+    <count>8</count>
+    <value>18.4 cuc</value>
+    <valItem>2.3 cuc</valItem>
+    <valCUC>18.4</valCUC>
+    <valCucItem>2.3</valCucItem>
+    <moneda>0</moneda>
+    <precio>10</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>56</id>
+    <item>Relojes grandes</item>
+    <count>3</count>
+    <value>330 dop</value>
+    <valItem>110 dop</valItem>
+    <valCUC>6.3227459016393442622950819710</valCUC>
+    <valCucItem>2.1075819672131147540983606570</valCucItem>
+    <moneda>0</moneda>
+    <precio>10</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>57</id>
+    <item>Ganchito de manicure</item>
+    <count>4</count>
+    <value>40 dop</value>
+    <valItem>10 dop</valItem>
+    <valCUC>0.7663934426229508196721311480</valCUC>
+    <valCucItem>0.1915983606557377049180327870</valCucItem>
+    <moneda>0</moneda>
+    <precio>0.5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>58</id>
+    <item>Corrector de ojeras</item>
+    <count>1</count>
+    <value>105 dop</value>
+    <valItem>105 dop</valItem>
+    <valCUC>2.0117827868852459016393442635</valCUC>
+    <valCucItem>2.0117827868852459016393442635</valCucItem>
+    <moneda>0</moneda>
+    <precio>3.28</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>59</id>
+    <item>Creyones labiales</item>
+    <count>3</count>
+    <value>69 dop</value>
+    <valItem>23 dop</valItem>
+    <valCUC>1.3220286885245901639344262303</valCUC>
+    <valCucItem>0.4406762295081967213114754101</valCucItem>
+    <moneda>0</moneda>
+    <precio>1</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>60</id>
+    <item>Macara de pestañas</item>
+    <count>6</count>
+    <value>168 dop</value>
+    <valItem>28 dop</valItem>
+    <valCUC>3.2188524590163934426229508216</valCUC>
+    <valCucItem>0.5364754098360655737704918036</valCucItem>
+    <moneda>0</moneda>
+    <precio>1.50</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>61</id>
+    <item>Delineador de ojo</item>
+    <count>8</count>
+    <value>80 dop</value>
+    <valItem>10 dop</valItem>
+    <valCUC>1.5327868852459016393442622960</valCUC>
+    <valCucItem>0.1915983606557377049180327870</valCucItem>
+    <moneda>0</moneda>
+    <precio>1</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>62</id>
+    <item>Mentol chino</item>
+    <count>6</count>
+    <value>30 dop</value>
+    <valItem>5 dop</valItem>
+    <valCUC>0.5747950819672131147540983610</valCUC>
+    <valCucItem>0.0957991803278688524590163935</valCucItem>
+    <moneda>2</moneda>
+    <precio>12</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>63</id>
+    <item>Chucerias para las niñas</item>
+    <count>1</count>
+    <value>500 dop</value>
+    <valItem>500 dop</valItem>
+    <valCUC>9.579918032786885245901639350</valCUC>
+    <valCucItem>9.579918032786885245901639350</valCucItem>
+    <moneda>0</moneda>
+    <precio>15.64</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>64</id>
+    <item>Pullover de hombre</item>
+    <count>12</count>
+    <value>1200 dop</value>
+    <valItem>100 dop</valItem>
+    <valCUC>22.991803278688524590163934440</valCUC>
+    <valCucItem>1.915983606557377049180327870</valCucItem>
+    <moneda>0</moneda>
+    <precio>7</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>65</id>
+    <item>Spiners</item>
+    <count>10</count>
+    <value>500 dop</value>
+    <valItem>50 dop</valItem>
+    <valCUC>9.579918032786885245901639350</valCUC>
+    <valCucItem>0.957991803278688524590163935</valCucItem>
+    <moneda>0</moneda>
+    <precio>2</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>66</id>
+    <item>Pullover de jovencita</item>
+    <count>12</count>
+    <value>1900 dop</value>
+    <valItem>158.33 dop</valItem>
+    <valCUC>36.403688524590163934426229530</valCUC>
+    <valCucItem>3.0336407103825136612021857942</valCucItem>
+    <moneda>0</moneda>
+    <precio>8</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>67</id>
+    <item>Pilas de reloj</item>
+    <count>20</count>
+    <value>100 dop</value>
+    <valItem>5 dop</valItem>
+    <valCUC>1.9159836065573770491803278700</valCUC>
+    <valCucItem>0.0957991803278688524590163935</valCucItem>
+    <moneda>2</moneda>
+    <precio>10.00</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>68</id>
+    <item>Gomas de borrar chiquitas</item>
+    <count>15</count>
+    <value>75 dop</value>
+    <valItem>5 dop</valItem>
+    <valCUC>1.4369877049180327868852459025</valCUC>
+    <valCucItem>0.0957991803278688524590163935</valCucItem>
+    <moneda>0</moneda>
+    <precio>0.24</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>69</id>
+    <item>Chancletas Color Entero</item>
+    <count>8</count>
+    <value>850 dop</value>
+    <valItem>106.25 dop</valItem>
+    <valCUC>16.285860655737704918032786895</valCUC>
+    <valCucItem>2.0357325819672131147540983619</valCucItem>
+    <moneda>0</moneda>
+    <precio>6</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>70</id>
+    <item>Chancletas de 2 colores</item>
+    <count>3</count>
+    <value>300 dop</value>
+    <valItem>100 dop</valItem>
+    <valCUC>5.7479508196721311475409836100</valCUC>
+    <valCucItem>1.9159836065573770491803278700</valCucItem>
+    <moneda>0</moneda>
+    <precio>7</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>71</id>
+    <item>Bocinas Bluetooth</item>
+    <count>3</count>
+    <value>1110 dop</value>
+    <valItem>370 dop</valItem>
+    <valCUC>21.267418032786885245901639357</valCUC>
+    <valCucItem>7.089139344262295081967213119</valCucItem>
+    <moneda>0</moneda>
+    <precio>20</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>72</id>
+    <item>Extensión de varias tomas</item>
+    <count>1</count>
+    <value>210 dop</value>
+    <valItem>210 dop</valItem>
+    <valCUC>4.0235655737704918032786885270</valCUC>
+    <valCucItem>4.0235655737704918032786885270</valCucItem>
+    <moneda>0</moneda>
+    <precio>7.82</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>73</id>
+    <item>Pitusas de Felix</item>
+    <count>1</count>
+    <value>550 dop</value>
+    <valItem>550 dop</valItem>
+    <valCUC>10.537909836065573770491803285</valCUC>
+    <valCucItem>10.537909836065573770491803285</valCucItem>
+    <moneda>0</moneda>
+    <precio>20</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>74</id>
+    <item>Shores de mezclilla de jovencita</item>
+    <count>6</count>
+    <value>2010 dop</value>
+    <valItem>335 dop</valItem>
+    <valCUC>38.511270491803278688524590187</valCUC>
+    <valCucItem>6.4185450819672131147540983645</valCucItem>
+    <moneda>0</moneda>
+    <precio>13</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>75</id>
+    <item>Reloj Sonia </item>
+    <count>1</count>
+    <value>7.3 cuc</value>
+    <valItem>7.3 cuc</valItem>
+    <valCUC>7.30</valCUC>
+    <valCucItem>7.30</valCucItem>
+    <moneda>0</moneda>
+    <precio>10</precio>
+    <comentario />
+  </Compras>
+  <Ventas>
+    <id>1</id>
+    <idProd>17</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>5</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Para las niñas</comentario>
+  </Ventas>
+  <Ventas>
+    <id>2</id>
+    <idProd>18</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>3</id>
+    <idProd>57</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>4</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>4</id>
+    <idProd>68</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>15</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>5</id>
+    <idProd>63</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>7</id>
+    <idProd>8</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>8</id>
+    <idProd>7</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>9</id>
+    <idProd>10</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Para las niñas</comentario>
+  </Ventas>
+  <Ventas>
+    <id>11</id>
+    <idProd>14</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>6</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Para las niñas</comentario>
+  </Ventas>
+  <Ventas>
+    <id>13</id>
+    <idProd>22</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Para las niñas</comentario>
+  </Ventas>
+  <Ventas>
+    <id>14</id>
+    <idProd>35</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-07-18T00:00:00-04:00</fecha>
+    <comentario>Para las niñas</comentario>
+  </Ventas>
+  <Ventas>
+    <id>15</id>
+    <idProd>36</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Para las niñas</comentario>
+  </Ventas>
+  <Ventas>
+    <id>16</id>
+    <idProd>39</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Para las niñas</comentario>
+  </Ventas>
+  <Ventas>
+    <id>17</id>
+    <idProd>66</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>4</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Para las niñas</comentario>
+  </Ventas>
+  <Ventas>
+    <id>18</id>
+    <idProd>21</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>2</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Para las niñas</comentario>
+  </Ventas>
+  <Ventas>
+    <id>19</id>
+    <idProd>65</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Para las niñas</comentario>
+  </Ventas>
+  <Ventas>
+    <id>20</id>
+    <idProd>72</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Para la casa</comentario>
+  </Ventas>
+  <Ventas>
+    <id>21</id>
+    <idProd>58</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>22</id>
+    <idProd>61</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>8</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>23</id>
+    <idProd>59</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>3</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>25</id>
+    <idProd>60</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>3</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>26</id>
+    <idProd>67</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>10</count>
+    <precio>0</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>27</id>
+    <idProd>62</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>4</count>
+    <precio>12</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>28</id>
+    <idProd>73</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>500</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>29</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>30</id>
+    <idProd>25</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>5</count>
+    <precio>0.5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>31</id>
+    <idProd>66</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia {08/04/2018 Devolvio 3}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>32</id>
+    <idProd>39</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia {09/05/2018 Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>33</id>
+    <idProd>35</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia {09/05/2018 Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>34</id>
+    <idProd>36</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia {09/05/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>35</id>
+    <idProd>40</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia {09/05/2018 Devolvio 3}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>36</id>
+    <idProd>9</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia {09/05/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>37</id>
+    <idProd>23</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario>Oblidia {09/05/2018 Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>38</id>
+    <idProd>64</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>2</count>
+    <precio>7</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia {09/05/2018 Devolvio 4}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>39</id>
+    <idProd>50</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>3</count>
+    <precio>20</precio>
+    <moneda>2</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario>Oblidia {09/05/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>40</id>
+    <idProd>24</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>4</count>
+    <precio>25</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>41</id>
+    <idProd>46</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia {09/05/2018 Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>42</id>
+    <idProd>15</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>2</count>
+    <precio>50</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia {09/05/2018 Devolvio 8}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>43</id>
+    <idProd>74</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>1</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>44</id>
+    <idProd>11</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia {09/05/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>45</id>
+    <idProd>6</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>2</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>46</id>
+    <idProd>69</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>2</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>47</id>
+    <idProd>70</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>1</count>
+    <precio>7</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>48</id>
+    <idProd>47</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia {09/05/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>49</id>
+    <idProd>53</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia {09/05/2018 Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>50</id>
+    <idProd>1</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia {08/04/2018 Devolvio 6}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>51</id>
+    <idProd>21</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>52</id>
+    <idProd>37</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario>Oblidia {09/05/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>53</id>
+    <idProd>52</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>54</id>
+    <idProd>37</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario> {09/05/2018 Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>55</id>
+    <idProd>1</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>8</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>56</id>
+    <idProd>42</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>2</count>
+    <precio>15</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>57</id>
+    <idProd>53</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>2</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario> {09/05/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>58</id>
+    <idProd>15</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>10</count>
+    <precio>50</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>59</id>
+    <idProd>51</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>1</count>
+    <precio>22</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>60</id>
+    <idProd>6</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario> {09/05/2018 Devolvio 3}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>61</id>
+    <idProd>16</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>22</count>
+    <precio>10</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>62</id>
+    <idProd>64</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>2</count>
+    <precio>7</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>63</id>
+    <idProd>23</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>2</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>64</id>
+    <idProd>9</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario> {09/05/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>66</id>
+    <idProd>40</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario> {09/05/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>67</id>
+    <idProd>50</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>20</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario> {09/05/2018 Devolvio 6}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>68</id>
+    <idProd>24</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>5</count>
+    <precio>25</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario> {09/05/2018 Devolvio 5}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>69</id>
+    <idProd>14</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario> {09/05/2018 Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>70</id>
+    <idProd>38</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario> {09/05/2018 Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>71</id>
+    <idProd>36</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>72</id>
+    <idProd>39</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario> {09/05/2018 Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>73</id>
+    <idProd>66</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario> {08/04/2018 Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>74</id>
+    <idProd>35</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario> {09/05/2018 Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>75</id>
+    <idProd>21</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>76</id>
+    <idProd>29</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>5</count>
+    <precio>30</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>77</id>
+    <idProd>46</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario> {09/05/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>78</id>
+    <idProd>27</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>79</id>
+    <idProd>28</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>80</id>
+    <idProd>11</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>0</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario> {09/05/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>81</id>
+    <idProd>69</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>2</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>82</id>
+    <idProd>70</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>1</count>
+    <precio>7</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>84</id>
+    <idProd>37</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Para Sonia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>85</id>
+    <idProd>16</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>2</count>
+    <precio>0</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Para la casa</comentario>
+  </Ventas>
+  <Ventas>
+    <id>86</id>
+    <idProd>43</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>2</count>
+    <precio>0</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Para la casa</comentario>
+  </Ventas>
+  <Ventas>
+    <id>87</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>3</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-25T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>88</id>
+    <idProd>71</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>20</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Jorge</comentario>
+  </Ventas>
+  <Ventas>
+    <id>89</id>
+    <idProd>71</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>1</count>
+    <precio>20</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>90</id>
+    <idProd>71</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>20</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Iliana</comentario>
+  </Ventas>
+  <Ventas>
+    <id>91</id>
+    <idProd>51</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Para las niñas</comentario>
+  </Ventas>
+  <Ventas>
+    <id>92</id>
+    <idProd>51</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>20</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>93</id>
+    <idProd>65</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>5</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-07-01T00:00:00-04:00</fecha>
+    <comentario>Jorge {05/03/2018 Devolvio 4}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>94</id>
+    <idProd>53</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Jorge {05/03/2018 Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>95</id>
+    <idProd>54</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>0</count>
+    <precio>50</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Estefania {05/03/2018 Devolvio 5}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>96</id>
+    <idProd>20</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>10</count>
+    <precio>10</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Oddilia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>97</id>
+    <idProd>2</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>3</count>
+    <precio>4</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>98</id>
+    <idProd>42</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>9</count>
+    <precio>15</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Iliana {21/04/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>99</id>
+    <idProd>43</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>5</count>
+    <precio>30</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Iliana {21/04/2018 Devolvio 5}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>100</id>
+    <idProd>6</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Iliana</comentario>
+  </Ventas>
+  <Ventas>
+    <id>101</id>
+    <idProd>55</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>0</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Iliana {22/03/2018 Devolvio 9}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>102</id>
+    <idProd>56</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>0</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Iliana {22/03/2018 Devolvio 3}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>103</id>
+    <idProd>9</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Iliana {21/04/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>104</id>
+    <idProd>37</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>2</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Iliana</comentario>
+  </Ventas>
+  <Ventas>
+    <id>105</id>
+    <idProd>64</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+    <comentario>Iliana {21/04/2018 Devolvio 3}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>106</id>
+    <idProd>48</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Iliana</comentario>
+  </Ventas>
+  <Ventas>
+    <id>107</id>
+    <idProd>34</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>2</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Iliana</comentario>
+  </Ventas>
+  <Ventas>
+    <id>108</id>
+    <idProd>20</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>6</count>
+    <precio>10</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Iliana</comentario>
+  </Ventas>
+  <Ventas>
+    <id>109</id>
+    <idProd>52</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>0</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Iliana {21/04/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>110</id>
+    <idProd>30</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>5</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Iliana</comentario>
+  </Ventas>
+  <Ventas>
+    <id>111</id>
+    <idProd>32</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>7</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Iliana</comentario>
+  </Ventas>
+  <Ventas>
+    <id>112</id>
+    <idProd>2</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>4</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Iliana</comentario>
+  </Ventas>
+  <Ventas>
+    <id>113</id>
+    <idProd>1</idProd>
+    <vendedor>Evelin</vendedor>
+    <count>1</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario> {08/04/2018 Devolvio 4}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>114</id>
+    <idProd>1</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Se la di a Jorge</comentario>
+  </Ventas>
+  <Ventas>
+    <id>115</id>
+    <idProd>46</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Hoelito (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>116</id>
+    <idProd>46</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Sonia se quedo con 1</comentario>
+  </Ventas>
+  <Ventas>
+    <id>117</id>
+    <idProd>53</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>118</id>
+    <idProd>46</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>4</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>119</id>
+    <idProd>20</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>8</count>
+    <precio>10</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>122</id>
+    <idProd>28</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>123</id>
+    <idProd>15</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>8</count>
+    <precio>50</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>124</id>
+    <idProd>40</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>125</id>
+    <idProd>15</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>50</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Mirtica</comentario>
+  </Ventas>
+  <Ventas>
+    <id>126</id>
+    <idProd>7</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>127</id>
+    <idProd>23</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>128</id>
+    <idProd>69</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>129</id>
+    <idProd>30</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>8</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Maricela {09/05/2018 Devolvio 4}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>130</id>
+    <idProd>27</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>131</id>
+    <idProd>28</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>132</id>
+    <idProd>12</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>18</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>133</id>
+    <idProd>12</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>18</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Loreta (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>134</id>
+    <idProd>30</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>60</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Loreta (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>135</id>
+    <idProd>27</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>136</id>
+    <idProd>28</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>137</id>
+    <idProd>26</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>5</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-04T00:00:00-05:00</fecha>
+    <comentario>Maricela {3 jul. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>138</id>
+    <idProd>2</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>4</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>139</id>
+    <idProd>41</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>5</count>
+    <precio>4</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Eleanis</comentario>
+  </Ventas>
+  <Ventas>
+    <id>140</id>
+    <idProd>44</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>141</id>
+    <idProd>45</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>142</id>
+    <idProd>15</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>14</count>
+    <precio>50</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>143</id>
+    <idProd>43</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>7</count>
+    <precio>30</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>144</id>
+    <idProd>11</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>3</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario> {2 dic. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>145</id>
+    <idProd>74</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>3</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>146</id>
+    <idProd>74</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Para las niñas</comentario>
+  </Ventas>
+  <Ventas>
+    <id>147</id>
+    <idProd>35</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>0</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario> {21/04/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>148</id>
+    <idProd>39</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>149</id>
+    <idProd>14</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>6</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>150</id>
+    <idProd>31</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>10</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario> {22/03/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>152</id>
+    <idProd>13</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>3</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>153</id>
+    <idProd>2</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>10</count>
+    <precio>4</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>154</id>
+    <idProd>10</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>5</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>155</id>
+    <idProd>22</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>0</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario> {22/03/2018 Devolvio 4}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>156</id>
+    <idProd>22</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Mirtica</comentario>
+  </Ventas>
+  <Ventas>
+    <id>157</id>
+    <idProd>8</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>4</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario> {2 dic. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>158</id>
+    <idProd>40</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>3</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>159</id>
+    <idProd>40</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Para las niñas</comentario>
+  </Ventas>
+  <Ventas>
+    <id>160</id>
+    <idProd>36</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>2</count>
+    <precio>11</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>161</id>
+    <idProd>7</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>2</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>162</id>
+    <idProd>7</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-11T00:00:00-04:00</fecha>
+    <comentario>Marta</comentario>
+  </Ventas>
+  <Ventas>
+    <id>163</id>
+    <idProd>23</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>4</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>164</id>
+    <idProd>23</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>14</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-08T00:00:00-05:00</fecha>
+    <comentario>Dayami</comentario>
+  </Ventas>
+  <Ventas>
+    <id>165</id>
+    <idProd>23</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-04T00:00:00-05:00</fecha>
+    <comentario>Aime</comentario>
+  </Ventas>
+  <Ventas>
+    <id>166</id>
+    <idProd>47</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario> {21/04/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>167</id>
+    <idProd>50</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>2</count>
+    <precio>20</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>168</id>
+    <idProd>24</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>20</count>
+    <precio>25</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>169</id>
+    <idProd>26</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>170</id>
+    <idProd>12</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>2</count>
+    <precio>18</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>171</id>
+    <idProd>70</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>7</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>172</id>
+    <idProd>69</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>0</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario> {21/04/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>173</id>
+    <idProd>54</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>11</count>
+    <precio>50</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario> {21/04/2018 Devolvio 1} {06/05/2018 Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>174</id>
+    <idProd>54</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>50</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Acala</comentario>
+  </Ventas>
+  <Ventas>
+    <id>176</id>
+    <idProd>28</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>18</count>
+    <precio>9</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>177</id>
+    <idProd>27</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>6</count>
+    <precio>9</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-04T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>178</id>
+    <idProd>33</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>9</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-04T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>180</id>
+    <idProd>31</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>2.5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-13T00:00:00-04:00</fecha>
+    <comentario>Acala</comentario>
+  </Ventas>
+  <Ventas>
+    <id>181</id>
+    <idProd>30</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>2.5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-13T00:00:00-04:00</fecha>
+    <comentario>Acala</comentario>
+  </Ventas>
+  <Ventas>
+    <id>182</id>
+    <idProd>30</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>60</precio>
+    <moneda>2</moneda>
+    <fecha>2018-03-13T00:00:00-04:00</fecha>
+    <comentario>Dayami</comentario>
+  </Ventas>
+  <Ventas>
+    <id>183</id>
+    <idProd>30</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>3</count>
+    <precio>60</precio>
+    <moneda>2</moneda>
+    <fecha>2018-03-13T00:00:00-04:00</fecha>
+    <comentario>Yairis</comentario>
+  </Ventas>
+  <Ventas>
+    <id>184</id>
+    <idProd>30</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>6</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-04T00:00:00-05:00</fecha>
+    <comentario>Martica {22/03/2018 Devolvio 3}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>187</id>
+    <idProd>40</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-09T00:00:00-04:00</fecha>
+    <comentario>Diosmira</comentario>
+  </Ventas>
+  <Ventas>
+    <id>188</id>
+    <idProd>29</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>7</count>
+    <precio>30</precio>
+    <moneda>2</moneda>
+    <fecha>2018-03-04T00:00:00-05:00</fecha>
+    <comentario>Martica</comentario>
+  </Ventas>
+  <Ventas>
+    <id>189</id>
+    <idProd>43</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>4</count>
+    <precio>1.25</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+    <comentario>Martica</comentario>
+  </Ventas>
+  <Ventas>
+    <id>190</id>
+    <idProd>14</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Martica</comentario>
+  </Ventas>
+  <Ventas>
+    <id>191</id>
+    <idProd>66</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+    <comentario>Martica</comentario>
+  </Ventas>
+  <Ventas>
+    <id>193</id>
+    <idProd>24</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>5</count>
+    <precio>25</precio>
+    <moneda>2</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Martica</comentario>
+  </Ventas>
+  <Ventas>
+    <id>194</id>
+    <idProd>24</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>25</precio>
+    <moneda>2</moneda>
+    <fecha>2018-03-04T00:00:00-05:00</fecha>
+    <comentario>Sonia trabajo</comentario>
+  </Ventas>
+  <Ventas>
+    <id>195</id>
+    <idProd>12</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>18</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Martica</comentario>
+  </Ventas>
+  <Ventas>
+    <id>202</id>
+    <idProd>34</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Para las niñas</comentario>
+  </Ventas>
+  <Ventas>
+    <id>203</id>
+    <idProd>32</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Francis</comentario>
+  </Ventas>
+  <Ventas>
+    <id>204</id>
+    <idProd>32</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>3</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Clarita</comentario>
+  </Ventas>
+  <Ventas>
+    <id>205</id>
+    <idProd>46</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+    <comentario>Clarita</comentario>
+  </Ventas>
+  <Ventas>
+    <id>207</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>3</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-02T00:00:00-05:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>208</id>
+    <idProd>24</idProd>
+    <vendedor>Maite</vendedor>
+    <count>6</count>
+    <precio>1</precio>
+    <moneda>0</moneda>
+    <fecha>2018-06-01T00:00:00-04:00</fecha>
+    <comentario>Maite 2</comentario>
+  </Ventas>
+  <Ventas>
+    <id>209</id>
+    <idProd>54</idProd>
+    <vendedor>Maite</vendedor>
+    <count>2</count>
+    <precio>50</precio>
+    <moneda>2</moneda>
+    <fecha>2018-06-01T00:00:00-04:00</fecha>
+    <comentario> {11/04/2018 Devolvio 2} Talia 1 popom</comentario>
+  </Ventas>
+  <Ventas>
+    <id>210</id>
+    <idProd>6</idProd>
+    <vendedor>Maite</vendedor>
+    <count>0</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-03T00:00:00-05:00</fecha>
+    <comentario> {16/03/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>211</id>
+    <idProd>74</idProd>
+    <vendedor>Maite</vendedor>
+    <count>1</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2018-06-01T00:00:00-04:00</fecha>
+    <comentario>Talia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>213</id>
+    <idProd>52</idProd>
+    <vendedor>Maite</vendedor>
+    <count>0</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-03T00:00:00-05:00</fecha>
+    <comentario> {16/03/2018 Devolvio 4}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>214</id>
+    <idProd>27</idProd>
+    <vendedor>Maite</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-06-01T00:00:00-04:00</fecha>
+    <comentario>Talia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>215</id>
+    <idProd>26</idProd>
+    <vendedor>Maite</vendedor>
+    <count>0</count>
+    <precio>9</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-03T00:00:00-05:00</fecha>
+    <comentario> {16/03/2018 Devolvio 3}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>216</id>
+    <idProd>38</idProd>
+    <vendedor>Maite</vendedor>
+    <count>0</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-03T00:00:00-05:00</fecha>
+    <comentario> {16/03/2018 Devolvio 4}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>217</id>
+    <idProd>69</idProd>
+    <vendedor>Maite</vendedor>
+    <count>0</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-03T00:00:00-05:00</fecha>
+    <comentario> {16/03/2018 Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>218</id>
+    <idProd>44</idProd>
+    <vendedor>Maite</vendedor>
+    <count>0</count>
+    <precio>7</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-17T00:00:00-04:00</fecha>
+    <comentario> {16/03/2018 Devolvio 3}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>219</id>
+    <idProd>45</idProd>
+    <vendedor>Maite</vendedor>
+    <count>1</count>
+    <precio>9</precio>
+    <moneda>0</moneda>
+    <fecha>2018-06-01T00:00:00-04:00</fecha>
+    <comentario> {16/03/2018 Devolvio 1} Talia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>221</id>
+    <idProd>25</idProd>
+    <vendedor>Maite</vendedor>
+    <count>3</count>
+    <precio>0.5</precio>
+    <moneda>0</moneda>
+    <fecha>2019-02-22T00:00:00-05:00</fecha>
+    <comentario>Talia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>222</id>
+    <idProd>53</idProd>
+    <vendedor>Maite</vendedor>
+    <count>0</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-03T00:00:00-05:00</fecha>
+    <comentario> {16/03/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>223</id>
+    <idProd>2</idProd>
+    <vendedor>Maite</vendedor>
+    <count>1</count>
+    <precio>4</precio>
+    <moneda>0</moneda>
+    <fecha>2018-06-01T00:00:00-04:00</fecha>
+    <comentario> {16/03/2018 Devolvio 4} Talia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>224</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>4</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-03T00:00:00-05:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>225</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-03T00:00:00-05:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>226</id>
+    <idProd>36</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-04T00:00:00-05:00</fecha>
+    <comentario>Ivete</comentario>
+  </Ventas>
+  <Ventas>
+    <id>227</id>
+    <idProd>30</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>2.25</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-10T00:00:00-04:00</fecha>
+    <comentario>Ivete</comentario>
+  </Ventas>
+  <Ventas>
+    <id>228</id>
+    <idProd>24</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>1</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-10T00:00:00-04:00</fecha>
+    <comentario>Ivete</comentario>
+  </Ventas>
+  <Ventas>
+    <id>229</id>
+    <idProd>25</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>0.5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-04T00:00:00-05:00</fecha>
+    <comentario>Ivete</comentario>
+  </Ventas>
+  <Ventas>
+    <id>230</id>
+    <idProd>24</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>2</moneda>
+    <fecha>2018-03-04T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>231</id>
+    <idProd>15</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>3</count>
+    <precio>50</precio>
+    <moneda>2</moneda>
+    <fecha>2018-03-04T00:00:00-05:00</fecha>
+    <comentario>Martica</comentario>
+  </Ventas>
+  <Ventas>
+    <id>232</id>
+    <idProd>67</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>2</moneda>
+    <fecha>2018-03-04T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>233</id>
+    <idProd>25</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-04T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>234</id>
+    <idProd>62</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>2</count>
+    <precio>0</precio>
+    <moneda>2</moneda>
+    <fecha>2018-03-04T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>235</id>
+    <idProd>3</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>236</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>238</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>239</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>240</id>
+    <idProd>3</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>241</id>
+    <idProd>30</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-06T00:00:00-05:00</fecha>
+    <comentario>Clarita</comentario>
+  </Ventas>
+  <Ventas>
+    <id>242</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>6</count>
+    <precio>75</precio>
+    <moneda>2</moneda>
+    <fecha>2018-03-13T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>243</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>75</precio>
+    <moneda>2</moneda>
+    <fecha>2018-03-15T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>244</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-15T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>246</id>
+    <idProd>26</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-16T00:00:00-04:00</fecha>
+    <comentario>Regalo de Maite por el dia de las madres</comentario>
+  </Ventas>
+  <Ventas>
+    <id>247</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>8</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-16T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>248</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>3</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-16T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>249</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-17T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>250</id>
+    <idProd>6</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>0</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-17T00:00:00-04:00</fecha>
+    <comentario>Maricela {09/05/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>251</id>
+    <idProd>45</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-17T00:00:00-04:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>252</id>
+    <idProd>44</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>0</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-17T00:00:00-04:00</fecha>
+    <comentario>Maricela {09/05/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>253</id>
+    <idProd>52</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-17T00:00:00-04:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>254</id>
+    <idProd>19</idProd>
+    <vendedor>Maite</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-02T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>255</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-19T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>256</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>70</precio>
+    <moneda>2</moneda>
+    <fecha>2018-03-19T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>257</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>75</precio>
+    <moneda>2</moneda>
+    <fecha>2018-03-20T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>258</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-20T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>259</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-21T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>260</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-21T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>261</id>
+    <idProd>66</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+    <comentario>Martica</comentario>
+  </Ventas>
+  <Ventas>
+    <id>262</id>
+    <idProd>2</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>3</count>
+    <precio>4</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>263</id>
+    <idProd>65</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>0</count>
+    <precio>4</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+    <comentario> {21/04/2018 Devolvio 4}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>264</id>
+    <idProd>31</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>265</id>
+    <idProd>60</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>3</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>266</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-23T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>267</id>
+    <idProd>2</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>7</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-23T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>268</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>4</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-23T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>269</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-25T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>270</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-26T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>271</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>5</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-26T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>272</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-26T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>273</id>
+    <idProd>22</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>3</count>
+    <precio>11</precio>
+    <moneda>0</moneda>
+    <fecha>2018-06-18T00:00:00-04:00</fecha>
+    <comentario>Maricela {09/05/2018 Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>274</id>
+    <idProd>54</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>3</count>
+    <precio>50</precio>
+    <moneda>2</moneda>
+    <fecha>2018-04-13T00:00:00-04:00</fecha>
+    <comentario>Maricela {09/05/2018 Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>275</id>
+    <idProd>30</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>0</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-13T00:00:00-04:00</fecha>
+    <comentario>Maricela {09/05/2018 Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>276</id>
+    <idProd>30</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-26T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>277</id>
+    <idProd>52</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-26T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>278</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-26T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>280</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-27T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>281</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>4</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-28T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>282</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-28T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>283</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-28T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>284</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-29T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>285</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>286</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>287</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-03-31T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>289</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>75</precio>
+    <moneda>2</moneda>
+    <fecha>2018-03-31T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>290</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-01T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>291</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-01T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>292</id>
+    <idProd>44</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-02T00:00:00-04:00</fecha>
+    <comentario>Encrucijada</comentario>
+  </Ventas>
+  <Ventas>
+    <id>293</id>
+    <idProd>44</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>200</precio>
+    <moneda>2</moneda>
+    <fecha>2018-04-02T00:00:00-04:00</fecha>
+    <comentario>Encrucijada</comentario>
+  </Ventas>
+  <Ventas>
+    <id>295</id>
+    <idProd>55</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>3</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-24T00:00:00-04:00</fecha>
+    <comentario>Clarita {26 jul. Devolvio 5}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>296</id>
+    <idProd>56</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>3</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-02T00:00:00-04:00</fecha>
+    <comentario>Martica</comentario>
+  </Ventas>
+  <Ventas>
+    <id>297</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>4</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-02T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>298</id>
+    <idProd>52</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-02T00:00:00-04:00</fecha>
+    <comentario>Encrucijada</comentario>
+  </Ventas>
+  <Ventas>
+    <id>299</id>
+    <idProd>69</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-02T00:00:00-04:00</fecha>
+    <comentario>Clarita</comentario>
+  </Ventas>
+  <Ventas>
+    <id>300</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-03T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>301</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-03T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>302</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>3</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-03T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>303</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>3</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-03T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>305</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>3</count>
+    <precio>3.3333</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-03T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>306</id>
+    <idProd>4</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>7</count>
+    <precio>2.5714</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-03T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>307</id>
+    <idProd>38</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>9</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-13T00:00:00-04:00</fecha>
+    <comentario>Lucia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>310</id>
+    <idProd>75</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-17T00:00:00-04:00</fecha>
+    <comentario>Lucia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>311</id>
+    <idProd>26</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>3</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-15T00:00:00-04:00</fecha>
+    <comentario>Iliana</comentario>
+  </Ventas>
+  <Ventas>
+    <id>312</id>
+    <idProd>1</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-22T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>313</id>
+    <idProd>42</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>15</precio>
+    <moneda>2</moneda>
+    <fecha>2018-04-23T00:00:00-04:00</fecha>
+    <comentario>Dayami (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>314</id>
+    <idProd>64</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>7</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-24T00:00:00-04:00</fecha>
+    <comentario>Martica {6 jun. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>315</id>
+    <idProd>66</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>4</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-24T00:00:00-04:00</fecha>
+    <comentario>Martica</comentario>
+  </Ventas>
+  <Ventas>
+    <id>316</id>
+    <idProd>54</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>3</count>
+    <precio>50</precio>
+    <moneda>2</moneda>
+    <fecha>2018-04-24T00:00:00-04:00</fecha>
+    <comentario>Clarita</comentario>
+  </Ventas>
+  <Ventas>
+    <id>317</id>
+    <idProd>38</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>0</count>
+    <precio>9</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-24T00:00:00-04:00</fecha>
+    <comentario>Clarita {26 jul. Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>318</id>
+    <idProd>43</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>5</count>
+    <precio>30</precio>
+    <moneda>2</moneda>
+    <fecha>2018-04-24T00:00:00-04:00</fecha>
+    <comentario>Martica</comentario>
+  </Ventas>
+  <Ventas>
+    <id>319</id>
+    <idProd>47</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-24T00:00:00-04:00</fecha>
+    <comentario>Clarita</comentario>
+  </Ventas>
+  <Ventas>
+    <id>320</id>
+    <idProd>9</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-24T00:00:00-04:00</fecha>
+    <comentario>Clarita</comentario>
+  </Ventas>
+  <Ventas>
+    <id>321</id>
+    <idProd>35</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-24T00:00:00-04:00</fecha>
+    <comentario>Las niñas</comentario>
+  </Ventas>
+  <Ventas>
+    <id>322</id>
+    <idProd>65</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>0</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-28T00:00:00-04:00</fecha>
+    <comentario>Jorge {1 jul. Devolvio 4}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>323</id>
+    <idProd>1</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>3</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-28T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>324</id>
+    <idProd>1</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>5</count>
+    <precio>2.2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-04-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>325</id>
+    <idProd>69</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-07T00:00:00-04:00</fecha>
+    <comentario>Clarita</comentario>
+  </Ventas>
+  <Ventas>
+    <id>326</id>
+    <idProd>37</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario>Maricela {18 jul. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>327</id>
+    <idProd>9</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>328</id>
+    <idProd>11</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>0</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario>Maricela {3 jul. Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>329</id>
+    <idProd>40</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario>Maricela {3 jul. Devolvio 1} {18 jul. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>330</id>
+    <idProd>23</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>331</id>
+    <idProd>38</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>9</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>332</id>
+    <idProd>35</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>11</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario>Maricela {3 jul. Devolvio 1} {18 jul. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>333</id>
+    <idProd>36</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>11</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>334</id>
+    <idProd>39</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>3</count>
+    <precio>11</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario>Maricela {18 jul. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>335</id>
+    <idProd>24</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>5</count>
+    <precio>25</precio>
+    <moneda>2</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>336</id>
+    <idProd>50</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>7</count>
+    <precio>20</precio>
+    <moneda>2</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>337</id>
+    <idProd>46</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>3</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>338</id>
+    <idProd>64</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>4</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>339</id>
+    <idProd>47</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>340</id>
+    <idProd>6</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario>Maricela {3 jul. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>341</id>
+    <idProd>14</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+    <comentario>Maricela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>342</id>
+    <idProd>15</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>50</precio>
+    <moneda>2</moneda>
+    <fecha>2018-05-10T00:00:00-04:00</fecha>
+    <comentario>Ivete (Ajuste)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>343</id>
+    <idProd>30</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-11T00:00:00-04:00</fecha>
+    <comentario>Fracis (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>344</id>
+    <idProd>54</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>50</precio>
+    <moneda>2</moneda>
+    <fecha>2018-05-11T00:00:00-04:00</fecha>
+    <comentario>Yanet (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>345</id>
+    <idProd>15</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>5</count>
+    <precio>50</precio>
+    <moneda>2</moneda>
+    <fecha>2018-05-11T00:00:00-04:00</fecha>
+    <comentario>Vladimir</comentario>
+  </Ventas>
+  <Ventas>
+    <id>346</id>
+    <idProd>15</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>3</count>
+    <precio>50</precio>
+    <moneda>2</moneda>
+    <fecha>2018-05-11T00:00:00-04:00</fecha>
+    <comentario>Minorki</comentario>
+  </Ventas>
+  <Ventas>
+    <id>347</id>
+    <idProd>30</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-11T00:00:00-04:00</fecha>
+    <comentario>Diosmira</comentario>
+  </Ventas>
+  <Ventas>
+    <id>348</id>
+    <idProd>30</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-11T00:00:00-04:00</fecha>
+    <comentario>Dinora</comentario>
+  </Ventas>
+  <Ventas>
+    <id>349</id>
+    <idProd>30</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-11T00:00:00-04:00</fecha>
+    <comentario>Para Fara</comentario>
+  </Ventas>
+  <Ventas>
+    <id>350</id>
+    <idProd>19</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>2</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-10-26T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>351</id>
+    <idProd>44</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>0</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-17T00:00:00-04:00</fecha>
+    <comentario>Iliena {30 jun. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>352</id>
+    <idProd>53</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>0</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-05-17T00:00:00-04:00</fecha>
+    <comentario> {30 jun. Devolvio 3}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>353</id>
+    <idProd>6</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-06-29T00:00:00-04:00</fecha>
+    <comentario>Consuelo</comentario>
+  </Ventas>
+  <Ventas>
+    <id>354</id>
+    <idProd>54</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>0</count>
+    <precio>40</precio>
+    <moneda>2</moneda>
+    <fecha>2018-06-18T00:00:00-04:00</fecha>
+    <comentario>Clarita {26 jul. Devolvio 3}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>355</id>
+    <idProd>64</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>0</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2018-06-18T00:00:00-04:00</fecha>
+    <comentario>Clarita {26 jul. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>356</id>
+    <idProd>52</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-06-18T00:00:00-04:00</fecha>
+    <comentario>Clarita</comentario>
+  </Ventas>
+  <Ventas>
+    <id>357</id>
+    <idProd>22</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>0</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-06-18T00:00:00-04:00</fecha>
+    <comentario>Clarita {26 jul. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>359</id>
+    <idProd>53</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>0</count>
+    <precio>4</precio>
+    <moneda>0</moneda>
+    <fecha>2018-08-13T00:00:00-04:00</fecha>
+    <comentario>Mamita {6 oct. Devolvio 3}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>360</id>
+    <idProd>35</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>0</count>
+    <precio>9</precio>
+    <moneda>0</moneda>
+    <fecha>2018-07-15T00:00:00-04:00</fecha>
+    <comentario> {26 ene. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>361</id>
+    <idProd>26</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-07-15T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>362</id>
+    <idProd>6</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-07-15T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>363</id>
+    <idProd>40</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2018-07-15T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>364</id>
+    <idProd>26</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-07-15T00:00:00-04:00</fecha>
+    <comentario>Regalo Sara</comentario>
+  </Ventas>
+  <Ventas>
+    <id>365</id>
+    <idProd>37</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-07-23T00:00:00-04:00</fecha>
+    <comentario>Amalia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>366</id>
+    <idProd>55</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-07-29T00:00:00-04:00</fecha>
+    <comentario>Francis</comentario>
+  </Ventas>
+  <Ventas>
+    <id>367</id>
+    <idProd>5</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>2</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-07-31T00:00:00-04:00</fecha>
+    <comentario>Para Sonia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>368</id>
+    <idProd>35</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>9</precio>
+    <moneda>0</moneda>
+    <fecha>2018-08-10T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>370</id>
+    <idProd>39</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>9</precio>
+    <moneda>0</moneda>
+    <fecha>2018-08-10T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>371</id>
+    <idProd>55</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>4</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2018-08-11T00:00:00-04:00</fecha>
+    <comentario>Mamita</comentario>
+  </Ventas>
+  <Ventas>
+    <id>372</id>
+    <idProd>44</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>0</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2018-08-11T00:00:00-04:00</fecha>
+    <comentario>Mamita {6 oct. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>373</id>
+    <idProd>64</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-08-11T00:00:00-04:00</fecha>
+    <comentario>Yoyi</comentario>
+  </Ventas>
+  <Ventas>
+    <id>374</id>
+    <idProd>22</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>0</count>
+    <precio>9</precio>
+    <moneda>0</moneda>
+    <fecha>2018-08-13T00:00:00-04:00</fecha>
+    <comentario>Mamita {6 oct. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>375</id>
+    <idProd>40</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2018-08-11T00:00:00-04:00</fecha>
+    <comentario>Mamita</comentario>
+  </Ventas>
+  <Ventas>
+    <id>376</id>
+    <idProd>65</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-08-31T00:00:00-04:00</fecha>
+    <comentario>Vivian</comentario>
+  </Ventas>
+  <Ventas>
+    <id>377</id>
+    <idProd>54</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>0</count>
+    <precio>40</precio>
+    <moneda>2</moneda>
+    <fecha>2018-08-31T00:00:00-04:00</fecha>
+    <comentario>Vivian {6 sep. Devolvio 3}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>378</id>
+    <idProd>30</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-09-17T00:00:00-04:00</fecha>
+    <comentario>Martica - Lo tenia clarita</comentario>
+  </Ventas>
+  <Ventas>
+    <id>379</id>
+    <idProd>22</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-10-12T00:00:00-04:00</fecha>
+    <comentario>Yanet (Karla)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>380</id>
+    <idProd>19</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2018-10-26T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>381</id>
+    <idProd>44</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2018-12-02T00:00:00-05:00</fecha>
+    <comentario>Ledys</comentario>
+  </Ventas>
+  <Ventas>
+    <id>382</id>
+    <idProd>53</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2018-12-04T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>383</id>
+    <idProd>65</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2018-12-13T00:00:00-05:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>384</id>
+    <idProd>8</idProd>
+    <vendedor>Maricela</vendedor>
+    <count>0</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2018-12-21T00:00:00-05:00</fecha>
+    <comentario> {24 ene. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>385</id>
+    <idProd>65</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2019-01-21T00:00:00-05:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>386</id>
+    <idProd>65</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>7</precio>
+    <moneda>0</moneda>
+    <fecha>2019-01-28T00:00:00-05:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>387</id>
+    <idProd>8</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2019-02-02T00:00:00-05:00</fecha>
+    <comentario>Diosmira</comentario>
+  </Ventas>
+  <Ventas>
+    <id>388</id>
+    <idProd>35</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2019-02-16T00:00:00-05:00</fecha>
+    <comentario>Vivian</comentario>
+  </Ventas>
+  <Ventas>
+    <id>389</id>
+    <idProd>38</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2019-02-16T00:00:00-05:00</fecha>
+    <comentario>Vivian</comentario>
+  </Ventas>
+  <Ventas>
+    <id>390</id>
+    <idProd>66</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-03-05T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>391</id>
+    <idProd>11</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2019-06-18T00:00:00-04:00</fecha>
+    <comentario>Niuma</comentario>
+  </Ventas>
+  <Ventas>
+    <id>392</id>
+    <idProd>54</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>2</moneda>
+    <fecha>2019-08-21T00:00:00-04:00</fecha>
+    <comentario>Gilda cumple (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>393</id>
+    <idProd>11</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-07T00:00:00-04:00</fecha>
+    <comentario>Yaumara</comentario>
+  </Ventas>
+  <Ventas>
+    <id>394</id>
+    <idProd>38</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2020-05-01T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Pagos>
+    <id>1</id>
+    <idVent>27</idVent>
+    <count>4</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>2</id>
+    <idVent>28</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>500</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>3</id>
+    <idVent>29</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-02-24T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>4</id>
+    <idVent>87</idVent>
+    <count>3</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario />
+    <fecha>2018-02-25T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>5</id>
+    <idVent>115</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-02-26T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>6</id>
+    <idVent>133</idVent>
+    <count>1</count>
+    <cuc>18</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>7</id>
+    <idVent>134</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>60</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>9</id>
+    <idVent>119</idVent>
+    <count>7</count>
+    <cuc>0</cuc>
+    <cup>75</cup>
+    <comentario>Maricela</comentario>
+    <fecha>2018-02-27T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>10</id>
+    <idVent>88</idVent>
+    <count>1</count>
+    <cuc>20</cuc>
+    <cup>0</cup>
+    <comentario />
+    <fecha>2018-02-28T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>11</id>
+    <idVent>93</idVent>
+    <count>2</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario />
+    <fecha>2018-02-28T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>12</id>
+    <idVent>94</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario />
+    <fecha>2018-02-28T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>13</id>
+    <idVent>207</idVent>
+    <count>3</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-02T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>14</id>
+    <idVent>97</idVent>
+    <count>3</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario />
+    <fecha>2018-03-02T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>15</id>
+    <idVent>46</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario />
+    <fecha>2018-03-02T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>16</id>
+    <idVent>208</idVent>
+    <count>2</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-03T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>17</id>
+    <idVent>209</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario />
+    <fecha>2018-03-03T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>18</id>
+    <idVent>224</idVent>
+    <count>2</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-03T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>19</id>
+    <idVent>225</idVent>
+    <count>2</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-03T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>20</id>
+    <idVent>236</idVent>
+    <count>2</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>21</id>
+    <idVent>93</idVent>
+    <count>3</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>93 - Jorge</comentario>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>22</id>
+    <idVent>92</idVent>
+    <count>1</count>
+    <cuc>20</cuc>
+    <cup>0</cup>
+    <comentario>92</comentario>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>23</id>
+    <idVent>238</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>24</id>
+    <idVent>123</idVent>
+    <count>5</count>
+    <cuc>0</cuc>
+    <cup>250</cup>
+    <comentario>123 - Maricela</comentario>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>25</id>
+    <idVent>130</idVent>
+    <count>2</count>
+    <cuc>20</cuc>
+    <cup>0</cup>
+    <comentario>130 - Maricela</comentario>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>26</id>
+    <idVent>135</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>500</cup>
+    <comentario>135 - Maricela</comentario>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>27</id>
+    <idVent>126</idVent>
+    <count>1</count>
+    <cuc>13</cuc>
+    <cup>0</cup>
+    <comentario>126 - Maricela</comentario>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>28</id>
+    <idVent>129</idVent>
+    <count>2</count>
+    <cuc>2</cuc>
+    <cup>50</cup>
+    <comentario>129 - Maricela</comentario>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>29</id>
+    <idVent>239</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>30</id>
+    <idVent>235</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>235 - Sonia</comentario>
+    <fecha>2018-03-05T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>31</id>
+    <idVent>194</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>25</cup>
+    <comentario>194 - Sonia trabajo</comentario>
+    <fecha>2018-03-06T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>32</id>
+    <idVent>204</idVent>
+    <count>3</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>204 - Clarita</comentario>
+    <fecha>2018-03-06T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>33</id>
+    <idVent>203</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>203 - Francis</comentario>
+    <fecha>2018-03-07T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>34</id>
+    <idVent>241</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>241 - Clarita</comentario>
+    <fecha>2018-03-07T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>35</id>
+    <idVent>205</idVent>
+    <count>1.4</count>
+    <cuc>5</cuc>
+    <cup>50</cup>
+    <comentario>205 - Clarita</comentario>
+    <fecha>2018-03-07T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>36</id>
+    <idVent>63</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>63</comentario>
+    <fecha>2018-03-08T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>37</id>
+    <idVent>125</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>125 - Mirtica</comentario>
+    <fecha>2018-03-09T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>38</id>
+    <idVent>156</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>156 - Mirtica</comentario>
+    <fecha>2018-03-09T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>39</id>
+    <idVent>205</idVent>
+    <count>0.6</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>205 - Clarita</comentario>
+    <fecha>2018-03-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>40</id>
+    <idVent>164</idVent>
+    <count>1</count>
+    <cuc>14</cuc>
+    <cup>0</cup>
+    <comentario>164 - Dayami</comentario>
+    <fecha>2018-03-13T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>41</id>
+    <idVent>182</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>20</cup>
+    <comentario>182 - Dayami</comentario>
+    <fecha>2018-03-13T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>42</id>
+    <idVent>242</idVent>
+    <count>6</count>
+    <cuc>0</cuc>
+    <cup>450</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-13T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>43</id>
+    <idVent>180</idVent>
+    <count>1</count>
+    <cuc>2.5</cuc>
+    <cup>0</cup>
+    <comentario>180 - Acala</comentario>
+    <fecha>2018-03-13T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>44</id>
+    <idVent>181</idVent>
+    <count>1</count>
+    <cuc>2.5</cuc>
+    <cup>0</cup>
+    <comentario>181 - Acala</comentario>
+    <fecha>2018-03-13T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>45</id>
+    <idVent>183</idVent>
+    <count>3</count>
+    <cuc>1</cuc>
+    <cup>155</cup>
+    <comentario>183 - Yairis</comentario>
+    <fecha>2018-03-14T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>46</id>
+    <idVent>243</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>75</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-15T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>47</id>
+    <idVent>244</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-15T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>48</id>
+    <idVent>247</idVent>
+    <count>8</count>
+    <cuc>24</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-16T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>49</id>
+    <idVent>248</idVent>
+    <count>3</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-16T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>50</id>
+    <idVent>249</idVent>
+    <count>2</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>51</id>
+    <idVent>131</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>131 - Maricela</comentario>
+    <fecha>2018-03-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>52</id>
+    <idVent>240</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>240 - Maricela</comentario>
+    <fecha>2018-03-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>53</id>
+    <idVent>123</idVent>
+    <count>3</count>
+    <cuc>0</cuc>
+    <cup>150</cup>
+    <comentario>123 - Maricela</comentario>
+    <fecha>2018-03-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>54</id>
+    <idVent>58</idVent>
+    <count>4</count>
+    <cuc>4</cuc>
+    <cup>100</cup>
+    <comentario>58</comentario>
+    <fecha>2018-03-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>55</id>
+    <idVent>57</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>57</comentario>
+    <fecha>2018-03-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>56</id>
+    <idVent>55</idVent>
+    <count>3</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>55</comentario>
+    <fecha>2018-03-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>57</id>
+    <idVent>68</idVent>
+    <count>1</count>
+    <cuc>1</cuc>
+    <cup>0</cup>
+    <comentario>68</comentario>
+    <fecha>2018-03-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>58</id>
+    <idVent>30</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>12.5</cup>
+    <comentario>30 - Oblidia</comentario>
+    <fecha>2018-03-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>59</id>
+    <idVent>58</idVent>
+    <count>2</count>
+    <cuc>3</cuc>
+    <cup>25</cup>
+    <comentario>58</comentario>
+    <fecha>2018-03-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>61</id>
+    <idVent>55</idVent>
+    <count>2</count>
+    <cuc>3</cuc>
+    <cup>25</cup>
+    <comentario>55</comentario>
+    <fecha>2018-03-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>62</id>
+    <idVent>124</idVent>
+    <count>2</count>
+    <cuc>24</cuc>
+    <cup>0</cup>
+    <comentario>124 - Maricela</comentario>
+    <fecha>2018-03-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>63</id>
+    <idVent>128</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>128 - Maricela</comentario>
+    <fecha>2018-03-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>64</id>
+    <idVent>137</idVent>
+    <count>2</count>
+    <cuc>20</cuc>
+    <cup>0</cup>
+    <comentario>137 - Maricela</comentario>
+    <fecha>2018-03-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>65</id>
+    <idVent>129</idVent>
+    <count>4</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>129 - Maricela</comentario>
+    <fecha>2018-03-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>66</id>
+    <idVent>118</idVent>
+    <count>2</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>118 - Maricela</comentario>
+    <fecha>2018-03-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>67</id>
+    <idVent>255</idVent>
+    <count>1</count>
+    <cuc>1</cuc>
+    <cup>50</cup>
+    <comentario>255</comentario>
+    <fecha>2018-03-19T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>68</id>
+    <idVent>256</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>70</cup>
+    <comentario>256</comentario>
+    <fecha>2018-03-19T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>69</id>
+    <idVent>257</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>75</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-20T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>70</id>
+    <idVent>258</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-20T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>71</id>
+    <idVent>259</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>72</id>
+    <idVent>260</idVent>
+    <count>2</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>73</id>
+    <idVent>165</idVent>
+    <count>0.5</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>165 - Aime</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>74</id>
+    <idVent>184</idVent>
+    <count>6</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>184 - Martica</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>75</id>
+    <idVent>189</idVent>
+    <count>4</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>189 - Martica</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>76</id>
+    <idVent>190</idVent>
+    <count>2</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>190 - Martica</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>77</id>
+    <idVent>191</idVent>
+    <count>2</count>
+    <cuc>16</cuc>
+    <cup>0</cup>
+    <comentario>191 - Martica</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>78</id>
+    <idVent>193</idVent>
+    <count>5</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>193 - Martica</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>79</id>
+    <idVent>195</idVent>
+    <count>1</count>
+    <cuc>18</cuc>
+    <cup>0</cup>
+    <comentario>195 - Martica</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>80</id>
+    <idVent>231</idVent>
+    <count>3</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>231 - Martica</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>81</id>
+    <idVent>188</idVent>
+    <count>7</count>
+    <cuc>8.4</cuc>
+    <cup>0</cup>
+    <comentario>188 - Martica</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>82</id>
+    <idVent>157</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>157</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>83</id>
+    <idVent>176</idVent>
+    <count>7</count>
+    <cuc>63</cuc>
+    <cup>0</cup>
+    <comentario>176</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>84</id>
+    <idVent>104</idVent>
+    <count>2</count>
+    <cuc>26</cuc>
+    <cup>0</cup>
+    <comentario>104 - Iliana</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>85</id>
+    <idVent>145</idVent>
+    <count>2</count>
+    <cuc>26</cuc>
+    <cup>0</cup>
+    <comentario>145</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>86</id>
+    <idVent>149</idVent>
+    <count>3</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>149</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>87</id>
+    <idVent>139</idVent>
+    <count>3</count>
+    <cuc>11</cuc>
+    <cup>25</cup>
+    <comentario>139 - Eleanis</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>88</id>
+    <idVent>265</idVent>
+    <count>3</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>265</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>89</id>
+    <idVent>111</idVent>
+    <count>7</count>
+    <cuc>14</cuc>
+    <cup>0</cup>
+    <comentario>111 - Iliana</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>90</id>
+    <idVent>110</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>110 - Iliana</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>91</id>
+    <idVent>107</idVent>
+    <count>2</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>107 - Iliana</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>92</id>
+    <idVent>163</idVent>
+    <count>2</count>
+    <cuc>24</cuc>
+    <cup>0</cup>
+    <comentario>163</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>93</id>
+    <idVent>161</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>161</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>94</id>
+    <idVent>148</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>148</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>95</id>
+    <idVent>152</idVent>
+    <count>1</count>
+    <cuc>13</cuc>
+    <cup>0</cup>
+    <comentario>152</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>96</id>
+    <idVent>160</idVent>
+    <count>1</count>
+    <cuc>11</cuc>
+    <cup>0</cup>
+    <comentario>160</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>98</id>
+    <idVent>90</idVent>
+    <count>1</count>
+    <cuc>20</cuc>
+    <cup>0</cup>
+    <comentario>90 - Iliana</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>99</id>
+    <idVent>105</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>105 - Iliana</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>100</id>
+    <idVent>106</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>106 - Iliana</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>101</id>
+    <idVent>169</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>169</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>102</id>
+    <idVent>144</idVent>
+    <count>2</count>
+    <cuc>24</cuc>
+    <cup>0</cup>
+    <comentario>144</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>103</id>
+    <idVent>143</idVent>
+    <count>6</count>
+    <cuc>0</cuc>
+    <cup>180</cup>
+    <comentario>143</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>104</id>
+    <idVent>98</idVent>
+    <count>6</count>
+    <cuc>0</cuc>
+    <cup>90</cup>
+    <comentario>98 - Iliana</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>106</id>
+    <idVent>108</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>20</cup>
+    <comentario>108 - Iliana</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>107</id>
+    <idVent>167</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>40</cup>
+    <comentario>167</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>108</id>
+    <idVent>112</idVent>
+    <count>1</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>112 - Iliana</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>109</id>
+    <idVent>168</idVent>
+    <count>18</count>
+    <cuc>0</cuc>
+    <cup>450</cup>
+    <comentario>168</comentario>
+    <fecha>2018-03-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>110</id>
+    <idVent>266</idVent>
+    <count>2</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-23T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>111</id>
+    <idVent>267</idVent>
+    <count>1</count>
+    <cuc>7</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-23T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>112</id>
+    <idVent>268</idVent>
+    <count>4</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-23T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>113</id>
+    <idVent>94</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>94 - Jorge</comentario>
+    <fecha>2018-03-23T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>114</id>
+    <idVent>269</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-25T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>115</id>
+    <idVent>89</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>250</cup>
+    <comentario>89</comentario>
+    <fecha>2018-03-25T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>116</id>
+    <idVent>270</idVent>
+    <count>2</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-26T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>117</id>
+    <idVent>271</idVent>
+    <count>5</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-26T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>118</id>
+    <idVent>272</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-26T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>119</id>
+    <idVent>117</idVent>
+    <count>2</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>117 - Maricela</comentario>
+    <fecha>2018-03-26T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>120</id>
+    <idVent>251</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>251 - Maricela</comentario>
+    <fecha>2018-03-26T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>121</id>
+    <idVent>278</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-26T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>123</id>
+    <idVent>280</idVent>
+    <count>1</count>
+    <cuc>1</cuc>
+    <cup>50</cup>
+    <comentario>280</comentario>
+    <fecha>2018-03-27T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>124</id>
+    <idVent>281</idVent>
+    <count>4</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-28T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>125</id>
+    <idVent>282</idVent>
+    <count>2</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-28T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>126</id>
+    <idVent>283</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-28T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>127</id>
+    <idVent>284</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-29T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>128</id>
+    <idVent>165</idVent>
+    <count>0.5</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>165 - Aime</comentario>
+    <fecha>2018-03-29T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>129</id>
+    <idVent>285</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>130</id>
+    <idVent>286</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>131</id>
+    <idVent>287</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-31T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>132</id>
+    <idVent>289</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>75</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-03-31T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>133</id>
+    <idVent>290</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-04-01T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>134</id>
+    <idVent>291</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-04-01T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>135</id>
+    <idVent>293</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>200</cup>
+    <comentario>293 - Encrucijada</comentario>
+    <fecha>2018-04-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>136</id>
+    <idVent>297</idVent>
+    <count>4</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-04-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>137</id>
+    <idVent>302</idVent>
+    <count>3</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-04-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>138</id>
+    <idVent>301</idVent>
+    <count>1</count>
+    <cuc>1</cuc>
+    <cup>50</cup>
+    <comentario>301</comentario>
+    <fecha>2018-04-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>139</id>
+    <idVent>300</idVent>
+    <count>1</count>
+    <cuc>1</cuc>
+    <cup>50</cup>
+    <comentario>300</comentario>
+    <fecha>2018-04-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>140</id>
+    <idVent>303</idVent>
+    <count>3</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario>303</comentario>
+    <fecha>2018-04-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>141</id>
+    <idVent>305</idVent>
+    <count>3</count>
+    <cuc>9.9999</cuc>
+    <cup>0</cup>
+    <comentario>305</comentario>
+    <fecha>2018-04-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>142</id>
+    <idVent>306</idVent>
+    <count>7</count>
+    <cuc>17.9998</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-04-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>143</id>
+    <idVent>174</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>174 - Acala</comentario>
+    <fecha>2018-04-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>145</id>
+    <idVent>127</idVent>
+    <count>2</count>
+    <cuc>14</cuc>
+    <cup>300</cup>
+    <comentario>127 - Maricela</comentario>
+    <fecha>2018-04-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>146</id>
+    <idVent>187</idVent>
+    <count>0.9</count>
+    <cuc>13</cuc>
+    <cup>0</cup>
+    <comentario>187 - Diosmira</comentario>
+    <fecha>2018-04-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>147</id>
+    <idVent>187</idVent>
+    <count>0.1</count>
+    <cuc>0</cuc>
+    <cup>50</cup>
+    <comentario>187 - Diosmira</comentario>
+    <fecha>2018-04-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>148</id>
+    <idVent>162</idVent>
+    <count>1</count>
+    <cuc>13</cuc>
+    <cup>50</cup>
+    <comentario>162 - Marta</comentario>
+    <fecha>2018-04-11T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>149</id>
+    <idVent>208</idVent>
+    <count>2</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>208</comentario>
+    <fecha>2018-04-11T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>150</id>
+    <idVent>118</idVent>
+    <count>2</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>118 - Maricela</comentario>
+    <fecha>2018-04-13T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>152</id>
+    <idVent>126</idVent>
+    <count>1</count>
+    <cuc>9</cuc>
+    <cup>100</cup>
+    <comentario>126 - Maricela</comentario>
+    <fecha>2018-04-13T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>153</id>
+    <idVent>158</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>158</comentario>
+    <fecha>2018-04-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>154</id>
+    <idVent>163</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>163</comentario>
+    <fecha>2018-04-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>155</id>
+    <idVent>178</idVent>
+    <count>1</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario>178</comentario>
+    <fecha>2018-04-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>156</id>
+    <idVent>177</idVent>
+    <count>1</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario>177</comentario>
+    <fecha>2018-04-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>157</id>
+    <idVent>110</idVent>
+    <count>4</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>110 - Iliana</comentario>
+    <fecha>2018-04-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>158</id>
+    <idVent>140</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>140</comentario>
+    <fecha>2018-04-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>159</id>
+    <idVent>141</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>141</comentario>
+    <fecha>2018-04-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>160</id>
+    <idVent>170</idVent>
+    <count>1</count>
+    <cuc>18</cuc>
+    <cup>0</cup>
+    <comentario>170</comentario>
+    <fecha>2018-04-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>161</id>
+    <idVent>142</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>142</comentario>
+    <fecha>2018-04-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>162</id>
+    <idVent>157</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>157</comentario>
+    <fecha>2018-04-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>163</id>
+    <idVent>139</idVent>
+    <count>2</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>139 - Eleanis</comentario>
+    <fecha>2018-04-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>164</id>
+    <idVent>98</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>30</cup>
+    <comentario>98 - Iliana {21/04/2018 Devolvio 1}</comentario>
+    <fecha>2018-04-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>165</id>
+    <idVent>99</idVent>
+    <count>3</count>
+    <cuc>0</cuc>
+    <cup>90</cup>
+    <comentario>99 - Iliana {21/04/2018 Devolvio 5}</comentario>
+    <fecha>2018-04-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>166</id>
+    <idVent>312</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-04-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>167</id>
+    <idVent>313</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>15</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-04-23T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>168</id>
+    <idVent>299</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>300</cup>
+    <comentario>299 - Clarita</comentario>
+    <fecha>2018-04-23T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>169</id>
+    <idVent>296</idVent>
+    <count>3</count>
+    <cuc>30</cuc>
+    <cup>0</cup>
+    <comentario>296 - Martica</comentario>
+    <fecha>2018-04-24T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>170</id>
+    <idVent>295</idVent>
+    <count>3</count>
+    <cuc>30</cuc>
+    <cup>0</cup>
+    <comentario>295 - Martica</comentario>
+    <fecha>2018-04-24T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>171</id>
+    <idVent>323</idVent>
+    <count>3</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-04-28T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>172</id>
+    <idVent>324</idVent>
+    <count>5</count>
+    <cuc>11.0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-04-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>173</id>
+    <idVent>254</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>254</comentario>
+    <fecha>2018-05-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>174</id>
+    <idVent>176</idVent>
+    <count>10</count>
+    <cuc>90</cuc>
+    <cup>0</cup>
+    <comentario>176</comentario>
+    <fecha>2018-05-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>175</id>
+    <idVent>142</idVent>
+    <count>5</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>142</comentario>
+    <fecha>2018-05-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>176</id>
+    <idVent>149</idVent>
+    <count>2</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>149</comentario>
+    <fecha>2018-05-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>177</id>
+    <idVent>161</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>161</comentario>
+    <fecha>2018-05-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>178</id>
+    <idVent>144</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>144</comentario>
+    <fecha>2018-05-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>179</id>
+    <idVent>153</idVent>
+    <count>10</count>
+    <cuc>40</cuc>
+    <cup>0</cup>
+    <comentario>153</comentario>
+    <fecha>2018-05-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>180</id>
+    <idVent>262</idVent>
+    <count>3</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>262</comentario>
+    <fecha>2018-05-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>181</id>
+    <idVent>152</idVent>
+    <count>2</count>
+    <cuc>26</cuc>
+    <cup>0</cup>
+    <comentario>152</comentario>
+    <fecha>2018-05-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>182</id>
+    <idVent>100</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>100 - Iliana</comentario>
+    <fecha>2018-05-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>183</id>
+    <idVent>154</idVent>
+    <count>5</count>
+    <cuc>60</cuc>
+    <cup>0</cup>
+    <comentario>154</comentario>
+    <fecha>2018-05-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>184</id>
+    <idVent>173</idVent>
+    <count>6</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>173 -  {21/04/2018 Devolvio 1}</comentario>
+    <fecha>2018-05-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>185</id>
+    <idVent>150</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>150 -  {22/03/2018 Devolvio 1}</comentario>
+    <fecha>2018-05-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>186</id>
+    <idVent>143</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>30</cup>
+    <comentario>143</comentario>
+    <fecha>2018-05-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>187</id>
+    <idVent>98</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>15</cup>
+    <comentario>98 - Iliana {21/04/2018 Devolvio 1}</comentario>
+    <fecha>2018-05-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>188</id>
+    <idVent>226</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>226 - Ivete</comentario>
+    <fecha>2018-05-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>189</id>
+    <idVent>227</idVent>
+    <count>2</count>
+    <cuc>4.5</cuc>
+    <cup>0</cup>
+    <comentario>227 - Ivete</comentario>
+    <fecha>2018-05-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>191</id>
+    <idVent>229</idVent>
+    <count>1</count>
+    <cuc>0.5</cuc>
+    <cup>0</cup>
+    <comentario>229 - Ivete</comentario>
+    <fecha>2018-05-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>194</id>
+    <idVent>138</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>100</cup>
+    <comentario>138 - Maricela</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>195</id>
+    <idVent>132</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>900</cup>
+    <comentario>132 - Maricela</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>196</id>
+    <idVent>274</idVent>
+    <count>3</count>
+    <cuc>0</cuc>
+    <cup>150</cup>
+    <comentario>274 - Maricela</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>197</id>
+    <idVent>30</idVent>
+    <count>4</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>30 - Oblidia</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>198</id>
+    <idVent>62</idVent>
+    <count>2</count>
+    <cuc>14</cuc>
+    <cup>0</cup>
+    <comentario>62</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>199</id>
+    <idVent>38</idVent>
+    <count>2</count>
+    <cuc>14</cuc>
+    <cup>0</cup>
+    <comentario>38 - Oblidia {09/05/2018 Devolvio 4}</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>200</id>
+    <idVent>39</idVent>
+    <count>3</count>
+    <cuc>0</cuc>
+    <cup>60</cup>
+    <comentario>39 - Oblidia {09/05/2018 Devolvio 1}</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>201</id>
+    <idVent>40</idVent>
+    <count>4</count>
+    <cuc>0</cuc>
+    <cup>100</cup>
+    <comentario>40 - Oblidia</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>202</id>
+    <idVent>68</idVent>
+    <count>4</count>
+    <cuc>0</cuc>
+    <cup>100</cup>
+    <comentario>68 -  {09/05/2018 Devolvio 5}</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>203</id>
+    <idVent>77</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>77 -  {09/05/2018 Devolvio 1}</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>204</id>
+    <idVent>42</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>100</cup>
+    <comentario>42 - Oblidia {09/05/2018 Devolvio 8}</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>205</id>
+    <idVent>58</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>50</cup>
+    <comentario>58</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>206</id>
+    <idVent>45</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>45 - Oblidia</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>207</id>
+    <idVent>46</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>46 - Oblidia</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>208</id>
+    <idVent>47</idVent>
+    <count>1</count>
+    <cuc>7</cuc>
+    <cup>0</cup>
+    <comentario>47 - Oblidia</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>209</id>
+    <idVent>75</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>75</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>210</id>
+    <idVent>51</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>51 - Oblidia</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>211</id>
+    <idVent>53</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>53</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>212</id>
+    <idVent>56</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>30</cup>
+    <comentario>56</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>213</id>
+    <idVent>76</idVent>
+    <count>3</count>
+    <cuc>0</cuc>
+    <cup>90</cup>
+    <comentario>76</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>214</id>
+    <idVent>78</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>78</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>215</id>
+    <idVent>79</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>79</comentario>
+    <fecha>2018-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>216</id>
+    <idVent>228</idVent>
+    <count>1</count>
+    <cuc>1</cuc>
+    <cup>0</cup>
+    <comentario>228 - Ivete</comentario>
+    <fecha>2018-05-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>217</id>
+    <idVent>342</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>342 - Ivete (Ajuste)</comentario>
+    <fecha>2018-05-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>218</id>
+    <idVent>343</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>(Franci) Pago directo</comentario>
+    <fecha>2018-05-11T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>219</id>
+    <idVent>344</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>50</cup>
+    <comentario>Yanet,  Pago directo</comentario>
+    <fecha>2018-05-11T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>220</id>
+    <idVent>345</idVent>
+    <count>5</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>345 - Vladimir</comentario>
+    <fecha>2018-05-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>221</id>
+    <idVent>311</idVent>
+    <count>2</count>
+    <cuc>20</cuc>
+    <cup>0</cup>
+    <comentario>311 - Iliana</comentario>
+    <fecha>2018-05-28T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>222</id>
+    <idVent>149</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>149</comentario>
+    <fecha>2018-05-28T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>223</id>
+    <idVent>177</idVent>
+    <count>3</count>
+    <cuc>27</cuc>
+    <cup>0</cup>
+    <comentario>177</comentario>
+    <fecha>2018-05-28T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>224</id>
+    <idVent>150</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>150 -  {22/03/2018 Devolvio 1}</comentario>
+    <fecha>2018-05-28T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>225</id>
+    <idVent>158</idVent>
+    <count>2</count>
+    <cuc>24</cuc>
+    <cup>0</cup>
+    <comentario>158</comentario>
+    <fecha>2018-05-28T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>226</id>
+    <idVent>157</idVent>
+    <count>2</count>
+    <cuc>30</cuc>
+    <cup>0</cup>
+    <comentario>157</comentario>
+    <fecha>2018-05-28T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>227</id>
+    <idVent>171</idVent>
+    <count>1</count>
+    <cuc>7</cuc>
+    <cup>0</cup>
+    <comentario>171</comentario>
+    <fecha>2018-05-28T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>228</id>
+    <idVent>170</idVent>
+    <count>1</count>
+    <cuc>18</cuc>
+    <cup>0</cup>
+    <comentario>170</comentario>
+    <fecha>2018-05-28T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>229</id>
+    <idVent>103</idVent>
+    <count>1</count>
+    <cuc>13</cuc>
+    <cup>0</cup>
+    <comentario>103 - Iliana {21/04/2018 Devolvio 1}</comentario>
+    <fecha>2018-05-28T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>230</id>
+    <idVent>173</idVent>
+    <count>5</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>173 -  {21/04/2018 Devolvio 1} {06/05/2018 Devolvio 2}</comentario>
+    <fecha>2018-05-28T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>231</id>
+    <idVent>168</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>50</cup>
+    <comentario>168</comentario>
+    <fecha>2018-05-28T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>232</id>
+    <idVent>99</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>60</cup>
+    <comentario>99 - Iliana {21/04/2018 Devolvio 5}</comentario>
+    <fecha>2018-05-28T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>233</id>
+    <idVent>261</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>261 - Martica</comentario>
+    <fecha>2018-06-01T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>235</id>
+    <idVent>346</idVent>
+    <count>3</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>346 - Minorki</comentario>
+    <fecha>2018-06-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>236</id>
+    <idVent>331</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>450</cup>
+    <comentario>331 - Maricela</comentario>
+    <fecha>2018-06-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>237</id>
+    <idVent>137</idVent>
+    <count>3</count>
+    <cuc>0</cuc>
+    <cup>750</cup>
+    <comentario>137 - Maricela</comentario>
+    <fecha>2018-06-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>238</id>
+    <idVent>129</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>100</cup>
+    <comentario>129 - Maricela {09/05/2018 Devolvio 4}</comentario>
+    <fecha>2018-06-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>239</id>
+    <idVent>253</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>125</cup>
+    <comentario>253 - Maricela</comentario>
+    <fecha>2018-06-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>240</id>
+    <idVent>335</idVent>
+    <count>5</count>
+    <cuc>0</cuc>
+    <cup>125</cup>
+    <comentario>335 - Maricela</comentario>
+    <fecha>2018-06-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>241</id>
+    <idVent>336</idVent>
+    <count>7</count>
+    <cuc>0</cuc>
+    <cup>140</cup>
+    <comentario>336 - Maricela</comentario>
+    <fecha>2018-06-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>242</id>
+    <idVent>341</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>250</cup>
+    <comentario>341 - Maricela</comentario>
+    <fecha>2018-06-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>243</id>
+    <idVent>314</idVent>
+    <count>2</count>
+    <cuc>14</cuc>
+    <cup>0</cup>
+    <comentario>314 - Martica {6 jun. Devolvio 1}</comentario>
+    <fecha>2018-06-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>244</id>
+    <idVent>315</idVent>
+    <count>3</count>
+    <cuc>24</cuc>
+    <cup>0</cup>
+    <comentario>315 - Martica</comentario>
+    <fecha>2018-06-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>245</id>
+    <idVent>318</idVent>
+    <count>5</count>
+    <cuc>0</cuc>
+    <cup>150</cup>
+    <comentario>318 - Martica</comentario>
+    <fecha>2018-06-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>246</id>
+    <idVent>347</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>347 - Diosmira</comentario>
+    <fecha>2018-06-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>247</id>
+    <idVent>292</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>292 - Encrucijada</comentario>
+    <fecha>2018-06-13T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>248</id>
+    <idVent>119</idVent>
+    <count>0.5</count>
+    <cuc>0</cuc>
+    <cup>5</cup>
+    <comentario>119 - Maricela</comentario>
+    <fecha>2018-06-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>249</id>
+    <idVent>327</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>650</cup>
+    <comentario>327 - Maricela</comentario>
+    <fecha>2018-06-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>250</id>
+    <idVent>273</idVent>
+    <count>3</count>
+    <cuc>11</cuc>
+    <cup>550</cup>
+    <comentario>273 - Maricela {09/05/2018 Devolvio 1}</comentario>
+    <fecha>2018-06-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>251</id>
+    <idVent>338</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>300</cup>
+    <comentario>338 - Maricela</comentario>
+    <fecha>2018-06-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>252</id>
+    <idVent>337</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>300</cup>
+    <comentario>337 - Maricela</comentario>
+    <fecha>2018-06-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>253</id>
+    <idVent>131</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>250</cup>
+    <comentario>131 - Maricela</comentario>
+    <fecha>2018-06-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>254</id>
+    <idVent>338</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>300</cup>
+    <comentario>338 - Maricela</comentario>
+    <fecha>2018-06-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>256</id>
+    <idVent>311</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>311 - Iliana</comentario>
+    <fecha>2018-06-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>257</id>
+    <idVent>145</idVent>
+    <count>1</count>
+    <cuc>13</cuc>
+    <cup>0</cup>
+    <comentario>145</comentario>
+    <fecha>2018-06-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>258</id>
+    <idVent>166</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>166 -  {21/04/2018 Devolvio 1}</comentario>
+    <fecha>2018-06-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>259</id>
+    <idVent>163</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>163</comentario>
+    <fecha>2018-06-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>260</id>
+    <idVent>150</idVent>
+    <count>7</count>
+    <cuc>14</cuc>
+    <cup>0</cup>
+    <comentario>150 -  {22/03/2018 Devolvio 1}</comentario>
+    <fecha>2018-06-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>261</id>
+    <idVent>142</idVent>
+    <count>7</count>
+    <cuc>14</cuc>
+    <cup>0</cup>
+    <comentario>142</comentario>
+    <fecha>2018-06-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>262</id>
+    <idVent>160</idVent>
+    <count>1</count>
+    <cuc>11</cuc>
+    <cup>0</cup>
+    <comentario>160</comentario>
+    <fecha>2018-06-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>263</id>
+    <idVent>177</idVent>
+    <count>2</count>
+    <cuc>18</cuc>
+    <cup>0</cup>
+    <comentario>177</comentario>
+    <fecha>2018-06-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>264</id>
+    <idVent>108</idVent>
+    <count>4</count>
+    <cuc>0</cuc>
+    <cup>40</cup>
+    <comentario>108 - Iliana</comentario>
+    <fecha>2018-06-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>265</id>
+    <idVent>348</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>348 - Dinora</comentario>
+    <fecha>2018-06-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>266</id>
+    <idVent>298</idVent>
+    <count>2</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>298 - Encrucijada</comentario>
+    <fecha>2018-06-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>267</id>
+    <idVent>353</idVent>
+    <count>0.8333</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>353 - Consuelo</comentario>
+    <fecha>2018-06-29T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>268</id>
+    <idVent>176</idVent>
+    <count>1</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario>176</comentario>
+    <fecha>2018-06-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>269</id>
+    <idVent>337</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>337 - Maricela</comentario>
+    <fecha>2018-07-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>270</id>
+    <idVent>339</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>339 - Maricela</comentario>
+    <fecha>2018-07-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>271</id>
+    <idVent>330</idVent>
+    <count>2</count>
+    <cuc>26</cuc>
+    <cup>0</cup>
+    <comentario>330 - Maricela</comentario>
+    <fecha>2018-07-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>272</id>
+    <idVent>340</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>340 - Maricela</comentario>
+    <fecha>2018-07-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>273</id>
+    <idVent>333</idVent>
+    <count>1</count>
+    <cuc>11</cuc>
+    <cup>0</cup>
+    <comentario>333 - Maricela</comentario>
+    <fecha>2018-07-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>274</id>
+    <idVent>307</idVent>
+    <count>2</count>
+    <cuc>18</cuc>
+    <cup>0</cup>
+    <comentario>307 - Lucia</comentario>
+    <fecha>2018-07-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>276</id>
+    <idVent>310</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>310 - Lucia</comentario>
+    <fecha>2018-07-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>277</id>
+    <idVent>223</idVent>
+    <count>1</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>223 -  {16/03/2018 Devolvio 4} Talia</comentario>
+    <fecha>2018-07-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>278</id>
+    <idVent>208</idVent>
+    <count>2</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>208 - Maite 2</comentario>
+    <fecha>2018-07-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>279</id>
+    <idVent>122</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>122 - Maricela</comentario>
+    <fecha>2018-07-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>280</id>
+    <idVent>136</idVent>
+    <count>2</count>
+    <cuc>20</cuc>
+    <cup>0</cup>
+    <comentario>136 - Maricela</comentario>
+    <fecha>2018-07-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>281</id>
+    <idVent>43</idVent>
+    <count>1</count>
+    <cuc>13</cuc>
+    <cup>0</cup>
+    <comentario>43 - Oblidia</comentario>
+    <fecha>2018-07-23T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>282</id>
+    <idVent>45</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>45 - Oblidia</comentario>
+    <fecha>2018-07-23T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>283</id>
+    <idVent>55</idVent>
+    <count>3</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>55</comentario>
+    <fecha>2018-07-23T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>284</id>
+    <idVent>57</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>57 -  {09/05/2018 Devolvio 1}</comentario>
+    <fecha>2018-07-23T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>285</id>
+    <idVent>63</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>63</comentario>
+    <fecha>2018-07-23T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>286</id>
+    <idVent>66</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>66 -  {09/05/2018 Devolvio 1}</comentario>
+    <fecha>2018-07-23T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>287</id>
+    <idVent>71</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>71</comentario>
+    <fecha>2018-07-23T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>288</id>
+    <idVent>81</idVent>
+    <count>2</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>81</comentario>
+    <fecha>2018-07-23T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>289</id>
+    <idVent>82</idVent>
+    <count>1</count>
+    <cuc>7</cuc>
+    <cup>0</cup>
+    <comentario>82</comentario>
+    <fecha>2018-07-23T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>290</id>
+    <idVent>113</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>113 -  {08/04/2018 Devolvio 4}</comentario>
+    <fecha>2018-07-23T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>295</id>
+    <idVent>59</idVent>
+    <count>1</count>
+    <cuc>22</cuc>
+    <cup>0</cup>
+    <comentario>59</comentario>
+    <fecha>2018-07-23T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>296</id>
+    <idVent>316</idVent>
+    <count>3</count>
+    <cuc>0</cuc>
+    <cup>150</cup>
+    <comentario>316 - Clarita</comentario>
+    <fecha>2018-07-25T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>297</id>
+    <idVent>319</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>319 - Clarita</comentario>
+    <fecha>2018-07-25T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>298</id>
+    <idVent>325</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>325 - Clarita</comentario>
+    <fecha>2018-07-25T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>299</id>
+    <idVent>366</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>366 - Francis</comentario>
+    <fecha>2018-07-29T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>300</id>
+    <idVent>365</idVent>
+    <count>0.5</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>365 - Amalia</comentario>
+    <fecha>2018-07-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>301</id>
+    <idVent>365</idVent>
+    <count>0.5</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>365 - Amalia</comentario>
+    <fecha>2018-08-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>302</id>
+    <idVent>362</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>362</comentario>
+    <fecha>2018-08-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>303</id>
+    <idVent>353</idVent>
+    <count>0.17</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>353 - Consuelo</comentario>
+    <fecha>2018-08-13T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>304</id>
+    <idVent>315</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>315 - Martica</comentario>
+    <fecha>2018-08-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>305</id>
+    <idVent>211</idVent>
+    <count>1</count>
+    <cuc>13</cuc>
+    <cup>0</cup>
+    <comentario>211 - Talia</comentario>
+    <fecha>2018-08-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>307</id>
+    <idVent>368</idVent>
+    <count>1</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario>368</comentario>
+    <fecha>2018-09-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>308</id>
+    <idVent>326</idVent>
+    <count>2</count>
+    <cuc>26</cuc>
+    <cup>0</cup>
+    <comentario>326 - Maricela {18 jul. Devolvio 1}</comentario>
+    <fecha>2018-09-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>309</id>
+    <idVent>329</idVent>
+    <count>2</count>
+    <cuc>24</cuc>
+    <cup>0</cup>
+    <comentario>329 - Maricela {3 jul. Devolvio 1} {18 jul. Devolvio 1}</comentario>
+    <fecha>2018-09-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>310</id>
+    <idVent>332</idVent>
+    <count>2</count>
+    <cuc>22</cuc>
+    <cup>0</cup>
+    <comentario>332 - Maricela {3 jul. Devolvio 1} {18 jul. Devolvio 1}</comentario>
+    <fecha>2018-09-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>311</id>
+    <idVent>334</idVent>
+    <count>3</count>
+    <cuc>33</cuc>
+    <cup>0</cup>
+    <comentario>334 - Maricela {18 jul. Devolvio 1}</comentario>
+    <fecha>2018-09-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>312</id>
+    <idVent>340</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>340 - Maricela {3 jul. Devolvio 1}</comentario>
+    <fecha>2018-09-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>313</id>
+    <idVent>356</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>356 - Clarita</comentario>
+    <fecha>2018-09-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>314</id>
+    <idVent>320</idVent>
+    <count>1</count>
+    <cuc>13</cuc>
+    <cup>0</cup>
+    <comentario>320 - Clarita</comentario>
+    <fecha>2018-09-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>315</id>
+    <idVent>376</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>376 - Vivian</comentario>
+    <fecha>2018-09-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>316</id>
+    <idVent>58</idVent>
+    <count>3</count>
+    <cuc>0</cuc>
+    <cup>150</cup>
+    <comentario>58</comentario>
+    <fecha>2018-10-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>317</id>
+    <idVent>61</idVent>
+    <count>22</count>
+    <cuc>0</cuc>
+    <cup>220</cup>
+    <comentario>61</comentario>
+    <fecha>2018-10-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>318</id>
+    <idVent>76</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>60</cup>
+    <comentario>76</comentario>
+    <fecha>2018-10-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>319</id>
+    <idVent>96</idVent>
+    <count>10</count>
+    <cuc>0</cuc>
+    <cup>100</cup>
+    <comentario>96 - Oddilia</comentario>
+    <fecha>2018-10-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>320</id>
+    <idVent>361</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>361</comentario>
+    <fecha>2018-10-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>321</id>
+    <idVent>370</idVent>
+    <count>1</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario>370</comentario>
+    <fecha>2018-10-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>322</id>
+    <idVent>363</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>363</comentario>
+    <fecha>2018-10-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>323</id>
+    <idVent>380</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>380</comentario>
+    <fecha>2018-10-26T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>324</id>
+    <idVent>383</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2018-12-13T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>325</id>
+    <idVent>381</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>381 - Ledys</comentario>
+    <fecha>2018-12-18T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>326</id>
+    <idVent>214</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>214 - Talia</comentario>
+    <fecha>2019-01-09T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>327</id>
+    <idVent>385</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-01-21T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>328</id>
+    <idVent>386</idVent>
+    <count>1</count>
+    <cuc>7</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-01-28T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>329</id>
+    <idVent>387</idVent>
+    <count>0.6667</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>387 - Diosmira</comentario>
+    <fecha>2019-02-07T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>330</id>
+    <idVent>387</idVent>
+    <count>0.33</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>387 - Diosmira</comentario>
+    <fecha>2019-02-16T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>331</id>
+    <idVent>388</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>388 - Vivian</comentario>
+    <fecha>2019-04-13T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>332</id>
+    <idVent>389</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>389 - Vivian</comentario>
+    <fecha>2019-04-16T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>333</id>
+    <idVent>371</idVent>
+    <count>4</count>
+    <cuc>32</cuc>
+    <cup>0</cup>
+    <comentario>371 - Mamita</comentario>
+    <fecha>2019-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>334</id>
+    <idVent>375</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>375 - Mamita</comentario>
+    <fecha>2019-05-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>335</id>
+    <idVent>391</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>391 - Niuma</comentario>
+    <fecha>2019-07-04T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>336</id>
+    <idVent>378</idVent>
+    <count>0.6</count>
+    <cuc>1.20</cuc>
+    <cup>0</cup>
+    <comentario>378 - Martica - Lo tenia clarita</comentario>
+    <fecha>2019-08-14T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>337</id>
+    <idVent>392</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-08-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>338</id>
+    <idVent>393</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>393 - Yaumara</comentario>
+    <fecha>2019-09-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>339</id>
+    <idVent>378</idVent>
+    <count>0.4</count>
+    <cuc>0.8</cuc>
+    <cup>0</cup>
+    <comentario>378 - Martica - Lo tenia clarita</comentario>
+    <fecha>2019-09-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>340</id>
+    <idVent>209</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>50</cup>
+    <comentario>209 -  {11/04/2018 Devolvio 2} Talia 1 popom</comentario>
+    <fecha>2020-03-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>341</id>
+    <idVent>219</idVent>
+    <count>1</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario>219 -  {16/03/2018 Devolvio 1} Talia</comentario>
+    <fecha>2020-03-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>342</id>
+    <idVent>221</idVent>
+    <count>3</count>
+    <cuc>1.5</cuc>
+    <cup>0</cup>
+    <comentario>221 - Talia</comentario>
+    <fecha>2020-03-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>343</id>
+    <idVent>394</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>394</comentario>
+    <fecha>2020-05-01T00:00:00-04:00</fecha>
+  </Pagos>
+</DataBase>

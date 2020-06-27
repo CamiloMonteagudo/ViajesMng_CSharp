@@ -1,0 +1,116 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Diagnostics;
+using System.IO;
+using System.Text;
+using System.Text.RegularExpressions;
+using System.Windows.Forms;
+using static MngViajes.DataBase;
+
+namespace MngViajes
+  {
+  public static class App
+    {
+    public static string[] Vendedores = new string[0];
+    public static string   Titulo =  "";
+
+    const string ConfigFile = "ViajesConfig.ini";
+    const string DatosFile  = "DataBase.xml";
+
+    public static List<Viaje> Viajes;
+
+    private static HashSet<string> VendSet = new HashSet<string> {"Consumo"};
+    //--------------------------------------------------------------------------------------------------------------------------------------
+    /// <summary>Carga todas la variable de comfiguración desde un fichero</summary>
+    internal static void CargaViajes()
+      {
+      Viajes = new List<Viaje>();
+
+      if( !File.Exists(ConfigFile) ) return;
+
+      var lines = File.ReadAllLines(ConfigFile);
+      foreach( var line in lines )
+        {
+        var path = line + '\\';
+        var viaje = new Viaje( Viajes.Count, path );
+
+        if( viaje.Load() )
+          {
+          Viajes.Add( viaje );
+          AddVendedores( viaje.Vendedores );
+          }
+        else
+          MessageBox.Show( "No se puedo cargar el viaje '" + path + "' " );
+        }
+
+      Vendedores = new string[VendSet.Count];
+      VendSet.CopyTo( Vendedores );
+      }
+
+    //--------------------------------------------------------------------------------------------------------------------------------------
+    private static void AddVendedores( string[] vendedores )
+      {
+      foreach( string sVend in vendedores )
+        if( !VendSet.Contains(sVend) )
+          VendSet.Add( sVend );
+      }
+
+    //--------------------------------------------------------------------------------------------------------------------------------------
+    /// <summary></summary>
+    public static void SaveGrids( DataGridView Grid1, DataGridView Grid2 )
+      {
+      var dlg = new SaveFileDialog();
+
+     dlg.Filter = "Fichero de resultados (*.txt)|*.txt"  ;
+     dlg.FilterIndex = 2 ;
+     dlg.RestoreDirectory = true ;
+
+     if( dlg.ShowDialog() != DialogResult.OK ) return;
+
+      var txt = new StringBuilder();
+
+      for( int i=0; i<Grid1.Columns.Count; ++i )
+        {
+        var Col = Grid1.Columns[i];
+
+        txt.Append( Col.HeaderText );
+        txt.Append( '\t' );
+        }
+
+      txt.Append( "\r\n" );
+
+      foreach( DataGridViewRow Row in Grid1.Rows )
+        ApendRowText( Row, txt );
+
+      ApendRowText( Grid2.Rows[0], txt );
+
+      File.WriteAllText( dlg.FileName, txt.ToString(), Encoding.Default );
+      }
+
+    //--------------------------------------------------------------------------------------------------------------------------------------
+    /// <summary></summary>
+    private static void ApendRowText( DataGridViewRow Row, StringBuilder txt )
+      {
+      var count = Row.Cells.Count;
+      for( int i = 0; i<count; ++i )
+        {
+        string sVal = "";
+
+        var Cell = Row.Cells[i];
+        var Val  = Cell.Value;
+        if( Val != null )
+          {
+          if( Val.GetType()==typeof(decimal) ) sVal = ((decimal)Val).ToString( "0.00" );
+          else sVal = Val.ToString();
+          }
+
+        txt.Append( sVal );
+
+        if( i<count-1 )  txt.Append( '\t' );
+        }
+
+      txt.Append( "\r\n" );
+      }
+    }
+  }

@@ -1,0 +1,146 @@
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Reflection;
+using System.Runtime.InteropServices;
+using System.Text;
+using System.Linq;
+
+using static MngViajes.DataBase;
+using System.Windows.Forms;
+
+namespace MngViajes
+  {
+  //--------------------------------------------------------------------------------------------------------------------------------------
+  /// <summary> Maneja los nombre de los items usados en todos los viajes</summary>
+  internal class MngItemsName
+    {
+    static string[] Names;
+    static List<string> Paths;
+
+    //--------------------------------------------------------------------------------------------------------------------------------------
+    /// <summary> Actualiza globalmente todos los nombres de los Items utilizados en todos los modulos registrados </summary>
+    internal static void UpdateNames()
+      { 
+      var Items = new SortedSet<string>();
+      Paths = new List<string>();
+
+      for( int i=0; i<App.Viajes.Count; ++i )
+        {
+        var viaje = App.Viajes[i];
+
+        foreach( ComprasRow row in viaje.tableCompras )
+          {
+          var Item = row.item;
+          if( !Items.Contains(Item) ) 
+            Items.Add( Item );
+          }
+
+        Paths.Add( viaje.DBFile );
+        }
+
+      SaveItems( Items );
+      // ProcesaItems();
+      }
+
+    //--------------------------------------------------------------------------------------------------------------------------------------
+    /// <summary> Guarda la lista global de items en cada uno de los viajes configurados </summary>
+    private static void SaveItems( SortedSet<string> items )
+      {
+      Names = items.ToArray();
+
+      foreach( string path in Paths )
+        File.WriteAllLines( path + "Items.txt", Names );
+      }
+
+    //--------------------------------------------------------------------------------------------------------------------------------------
+    /// <summary> Procesa todas las palabras que componen los nombres de los Items </summary>
+    private static void ProcesaItems()
+      { 
+      var idxWords = CreateWodsIndex();
+      if( idxWords != null )
+        {
+        var Lines   = GetTxtLines( idxWords ); 
+
+        foreach( string path in Paths )
+          File.WriteAllLines( path + "Words.idx", Lines );
+        }
+      }
+
+    ///-----------------------------------------------------------------------------------------------------------------------------------
+    /// <summary>Convierte el diccionario indices de palabras en un arreglo de lineas de texto </summary>
+    private static string[] GetTxtLines( SortedDictionary<string, string> idxWords )
+      { 
+      var Lines = new List<string>();
+      
+      foreach( var item in idxWords )
+        Lines.Add( item.Key + '|' + item.Value );
+
+      return Lines.ToArray();
+      }
+
+    ///-----------------------------------------------------------------------------------------------------------------------------------
+    static Dictionary<char,char> Acentos = new Dictionary<char,char>{ {'á','a'},{'é','e'},{'í','i'},{'ó','o'},{'ú','u'} };
+    ///-----------------------------------------------------------------------------------------------------------------------------------
+    /// <summary>Crea un diccionario con los indices de todas la palabras que forman las llaves</summary>
+    private static SortedDictionary<string,string> CreateWodsIndex()
+      {
+      var WrdDicc = new SortedDictionary<string,string>();
+
+      try
+        {
+        for( int i=0; i<Names.Length; ++i )
+          {
+          var Name = new StringBuilder( Names[i].ToLower() );
+          var len  = Name.Length;
+
+          char c=' ';
+          for( int j=0; j<len; )                                                      // Recorre todos los caracteres
+            {
+            for( ;j<len; ++j )                                                        // Salta los caracteres que no son letras
+              {
+              c = Name[j];
+              if( char.IsLetter(c) ) break;
+              }
+
+            if( j>=len ) break;                                                       // Llego al final de la cadena
+
+            var iWrd = j;                                                             // Inicio de la palabra  
+            var Word = new StringBuilder(20);                                         // Crea una palabra vacia
+            for(;;)                                                                   // Obtiene todas las letras seguidas
+              {
+              if( Acentos.ContainsKey(c) ) c = Acentos[c];                            // Si es una vocal acentuada quita el acento
+              Word.Append(c);                                                         // Agrega la letra a la palabra
+
+              if( ++j >= len ) break;                                                 // Llego al final de la cadena
+
+              c = Name[j];                                                            // Obtine el proximo caracter
+              if( !char.IsLetter(c) ) break;                                          // El caracter no es una letra
+              }
+
+            if( Word.Length<=2 )  continue;                                           // Ignora las palabras de 2 letras o menos
+
+            var wrd = Word.ToString();                                                // Convierte la palabra a 'string'
+            if( i>0xFFF || j>0xFF ) continue;                                         // Indices demasiado grande
+
+            var Dato = i.ToString("X3") + iWrd.ToString("X2");                        // Indice del nombre y al inicio de la palabra
+            if( WrdDicc.ContainsKey(wrd) )                                            // Si ya la palabra existe
+              Dato = WrdDicc[wrd] + Dato;                                             // Agrega el dato
+            
+            WrdDicc[wrd] = Dato;                                                      // Pone la palabra y los indices en el diccionario
+            }
+          }
+
+        return WrdDicc;
+        }
+      catch( Exception ex)
+        {
+        MessageBox.Show( "*** SE PRODUJO UN ERROR CREANDO EL INDICE DE LAS PALABRAS:\r\n*** " + ex.Message );
+        }
+
+      return null;
+      }
+
+    
+    } // End class
+  } // End namespace

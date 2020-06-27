@@ -1,0 +1,6424 @@
+<?xml version="1.0" standalone="yes"?>
+<DataBase xmlns="http://tempuri.org/DataBase.xsd">
+  <Presupuesto>
+    <id>1</id>
+    <source>Pasaje</source>
+    <value>488</value>
+    <moneda>0</moneda>
+    <cambio>1</cambio>
+  </Presupuesto>
+  <Presupuesto>
+    <id>2</id>
+    <source>Compras del viaje anterior</source>
+    <value>133</value>
+    <moneda>0</moneda>
+    <cambio>1</cambio>
+  </Presupuesto>
+  <Presupuesto>
+    <id>3</id>
+    <source>Sobrante del viaje anterior (200 dop)</source>
+    <value>8.00</value>
+    <moneda>0</moneda>
+    <cambio>1</cambio>
+  </Presupuesto>
+  <Presupuesto>
+    <id>4</id>
+    <source>Para hacer compras</source>
+    <value>1057</value>
+    <moneda>1</moneda>
+    <cambio>1</cambio>
+  </Presupuesto>
+  <Presupuesto>
+    <id>5</id>
+    <source>De la Pupa para una caltera</source>
+    <value>20</value>
+    <moneda>1</moneda>
+    <cambio>1</cambio>
+  </Presupuesto>
+  <Presupuesto>
+    <id>6</id>
+    <source>Sobrante en USD</source>
+    <value>-26</value>
+    <moneda>0</moneda>
+    <cambio>1</cambio>
+  </Presupuesto>
+  <Presupuesto>
+    <id>7</id>
+    <source>Sobrante en Dominicanos (6400)</source>
+    <value>-123.0769</value>
+    <moneda>0</moneda>
+    <cambio>1</cambio>
+  </Presupuesto>
+  <Presupuesto>
+    <id>8</id>
+    <source>Compra para viajes posteriores</source>
+    <value>-96.92</value>
+    <moneda>0</moneda>
+    <cambio>1</cambio>
+  </Presupuesto>
+  <Gastos>
+    <id>1</id>
+    <descric>Pasaje</descric>
+    <cuc>488</cuc>
+    <value>488 cuc</value>
+  </Gastos>
+  <Gastos>
+    <id>2</id>
+    <descric>Hotel Primera noche</descric>
+    <cuc>8</cuc>
+    <value>8 usd</value>
+  </Gastos>
+  <Gastos>
+    <id>3</id>
+    <descric>Transporte del aeropuerto al hotel</descric>
+    <cuc>6.25</cuc>
+    <value>6.25 usd</value>
+  </Gastos>
+  <Gastos>
+    <id>4</id>
+    <descric>Comida del Jueves ????</descric>
+    <cuc>0</cuc>
+    <value>0 usd</value>
+  </Gastos>
+  <Gastos>
+    <id>5</id>
+    <descric>Almuerzo del Viernes</descric>
+    <cuc>4.3269230769230769230769230700</cuc>
+    <value>225 dop</value>
+  </Gastos>
+  <Gastos>
+    <id>6</id>
+    <descric>Comida del Viernes</descric>
+    <cuc>2.8846153846153846153846153800</cuc>
+    <value>150 dop</value>
+  </Gastos>
+  <Gastos>
+    <id>7</id>
+    <descric>Taxis de las lavadoras y de las medicinas</descric>
+    <cuc>1.9230769230769230769230769200</cuc>
+    <value>100 dop</value>
+  </Gastos>
+  <Gastos>
+    <id>8</id>
+    <descric>Por cargar las cajas</descric>
+    <cuc>0.9615384615384615384615384600</cuc>
+    <value>50 dop</value>
+  </Gastos>
+  <Gastos>
+    <id>9</id>
+    <descric>Almuerzo del Sabado</descric>
+    <cuc>3.0769230769230769230769230720</cuc>
+    <value>160 dop</value>
+  </Gastos>
+  <Gastos>
+    <id>10</id>
+    <descric>Empaque de equipajes</descric>
+    <cuc>2.8846153846153846153846153800</cuc>
+    <value>150 dop</value>
+  </Gastos>
+  <Gastos>
+    <id>11</id>
+    <descric>Hospedaje</descric>
+    <cuc>20.192307692307692307692307660</cuc>
+    <value>1050 dop</value>
+  </Gastos>
+  <Gastos>
+    <id>12</id>
+    <descric>Comida del Sabado????</descric>
+    <cuc>0</cuc>
+    <value>0 usd</value>
+  </Gastos>
+  <Gastos>
+    <id>13</id>
+    <descric>Transporte del Hotel al Aeropuerto</descric>
+    <cuc>6.7307692307692307692307692200</cuc>
+    <value>350 dop</value>
+  </Gastos>
+  <Compras>
+    <id>1</id>
+    <item>Chancletas</item>
+    <count>1</count>
+    <value>50 dop</value>
+    <valItem>50 dop</valItem>
+    <valCUC>0.976781894370805942741045350</valCUC>
+    <valCucItem>0.976781894370805942741045350</valCucItem>
+    <moneda>0</moneda>
+    <precio>5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>2</id>
+    <item>Chancletas</item>
+    <count>1</count>
+    <value>66.67 dop</value>
+    <valItem>66.67 dop</valItem>
+    <valCUC>1.3024409779540326440509098697</valCUC>
+    <valCucItem>1.3024409779540326440509098697</valCucItem>
+    <moneda>0</moneda>
+    <precio>5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>3</id>
+    <item>Tapazoles</item>
+    <count>6</count>
+    <value>1440 dop</value>
+    <valItem>240 dop</valItem>
+    <valCUC>28.131318557879211150942106080</valCUC>
+    <valCucItem>4.688553092979868525157017680</valCucItem>
+    <moneda>0</moneda>
+    <precio>12</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>4</id>
+    <item>Tenis de hombre</item>
+    <count>1</count>
+    <value>340 dop</value>
+    <valItem>340 dop</valItem>
+    <valCUC>6.5384615384615384615384615280</valCUC>
+    <valCucItem>6.5384615384615384615384615280</valCucItem>
+    <moneda>0</moneda>
+    <precio>18</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>5</id>
+    <item>Tenis de mujer</item>
+    <count>5</count>
+    <value>1575 dop</value>
+    <valItem>315 dop</valItem>
+    <valCUC>30.288461538461538461538461490</valCUC>
+    <valCucItem>6.057692307692307692307692298</valCucItem>
+    <moneda>0</moneda>
+    <precio>15</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>6</id>
+    <item>Sandalias</item>
+    <count>2</count>
+    <value>680 dop</value>
+    <valItem>340 dop</valItem>
+    <valCUC>13.076923076923076923076923056</valCUC>
+    <valCucItem>6.538461538461538461538461528</valCucItem>
+    <moneda>0</moneda>
+    <precio>14</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>7</id>
+    <item>'Manguera de desague de lavadora automatica</item>
+    <count>6</count>
+    <value>1200 dop</value>
+    <valItem>200 dop</valItem>
+    <valCUC>23.076923076923076923076923040</valCUC>
+    <valCucItem>3.846153846153846153846153840</valCucItem>
+    <moneda>0</moneda>
+    <precio>12</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>8</id>
+    <item>'Manguera de entrada de lavadora (doble rosca)</item>
+    <count>6</count>
+    <value>810 dop</value>
+    <valItem>135 dop</valItem>
+    <valCUC>15.576923076923076923076923052</valCUC>
+    <valCucItem>2.596153846153846153846153842</valCucItem>
+    <moneda>0</moneda>
+    <precio>15</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>9</id>
+    <item>'Manguera de bomba de drenaje (corta)</item>
+    <count>6</count>
+    <value>1260 dop</value>
+    <valItem>210 dop</valItem>
+    <valCUC>24.230769230769230769230769192</valCUC>
+    <valCucItem>4.038461538461538461538461532</valCucItem>
+    <moneda>0</moneda>
+    <precio>13</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>10</id>
+    <item>'Capacitor 25 + 5</item>
+    <count>2</count>
+    <value>300 dop</value>
+    <valItem>150 dop</valItem>
+    <valCUC>5.7692307692307692307692307600</valCUC>
+    <valCucItem>2.8846153846153846153846153800</valCucItem>
+    <moneda>0</moneda>
+    <precio>10</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>11</id>
+    <item>'Correa de lavadora A620</item>
+    <count>5</count>
+    <value>250 dop</value>
+    <valItem>50 dop</valItem>
+    <valCUC>4.8076923076923076923076923000</valCUC>
+    <valCucItem>0.9615384615384615384615384600</valCucItem>
+    <moneda>0</moneda>
+    <precio>5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>12</id>
+    <item>'Correa de lavadora A700</item>
+    <count>5</count>
+    <value>250 dop</value>
+    <valItem>50 dop</valItem>
+    <valCUC>4.8076923076923076923076923000</valCUC>
+    <valCucItem>0.9615384615384615384615384600</valCucItem>
+    <moneda>0</moneda>
+    <precio>5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>13</id>
+    <item>'Correa de lavadora A785</item>
+    <count>5</count>
+    <value>250 dop</value>
+    <valItem>50 dop</valItem>
+    <valCUC>4.8076923076923076923076923000</valCUC>
+    <valCucItem>0.9615384615384615384615384600</valCucItem>
+    <moneda>0</moneda>
+    <precio>5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>14</id>
+    <item>'Correa de lavadora M20.5</item>
+    <count>2</count>
+    <value>80 dop</value>
+    <valItem>40 dop</valItem>
+    <valCUC>1.5384615384615384615384615360</valCUC>
+    <valCucItem>0.7692307692307692307692307680</valCucItem>
+    <moneda>0</moneda>
+    <precio>5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>15</id>
+    <item>'Correa de lavadora M22</item>
+    <count>2</count>
+    <value>80 dop</value>
+    <valItem>40 dop</valItem>
+    <valCUC>1.5384615384615384615384615360</valCUC>
+    <valCucItem>0.7692307692307692307692307680</valCucItem>
+    <moneda>0</moneda>
+    <precio>5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>16</id>
+    <item>'Sellos universales de lavadoras</item>
+    <count>2</count>
+    <value>140 dop</value>
+    <valItem>70 dop</valItem>
+    <valCUC>2.6923076923076923076923076880</valCUC>
+    <valCucItem>1.3461538461538461538461538440</valCucItem>
+    <moneda>0</moneda>
+    <precio>6</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>17</id>
+    <item>'Tapon de desague de lavadora con muelle</item>
+    <count>4</count>
+    <value>228 dop</value>
+    <valItem>57 dop</valItem>
+    <valCUC>4.3846153846153846153846153776</valCUC>
+    <valCucItem>1.0961538461538461538461538444</valCucItem>
+    <moneda>0</moneda>
+    <precio>4</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>18</id>
+    <item>'Trasmisión (Busing) de lavadora LG</item>
+    <count>5</count>
+    <value>750 dop</value>
+    <valItem>150 dop</valItem>
+    <valCUC>14.423076923076923076923076900</valCUC>
+    <valCucItem>2.884615384615384615384615380</valCucItem>
+    <moneda>0</moneda>
+    <precio>8</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>19</id>
+    <item>'Trasmisión (Busing) de lavadora LG</item>
+    <count>5</count>
+    <value>750 dop</value>
+    <valItem>150 dop</valItem>
+    <valCUC>14.423076923076923076923076900</valCUC>
+    <valCucItem>2.884615384615384615384615380</valCucItem>
+    <moneda>0</moneda>
+    <precio>8</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>20</id>
+    <item>'Timer de lavado de lavadora  (de 7 cables)</item>
+    <count>6</count>
+    <value>810 dop</value>
+    <valItem>135 dop</valItem>
+    <valCUC>15.576923076923076923076923052</valCUC>
+    <valCucItem>2.596153846153846153846153842</valCucItem>
+    <moneda>0</moneda>
+    <precio>8</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>21</id>
+    <item>'Timer de secado de lavadora</item>
+    <count>6</count>
+    <value>540 dop</value>
+    <valItem>90 dop</valItem>
+    <valCUC>10.384615384615384615384615368</valCUC>
+    <valCucItem>1.730769230769230769230769228</valCucItem>
+    <moneda>0</moneda>
+    <precio>7</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>22</id>
+    <item>Refresco Zuco </item>
+    <count>22</count>
+    <value>220 dop</value>
+    <valItem>10 dop</valItem>
+    <valCUC>4.2307692307692307692307692240</valCUC>
+    <valCucItem>0.1923076923076923076923076920</valCucItem>
+    <moneda>0</moneda>
+    <precio>0.35</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>23</id>
+    <item>Galleticas</item>
+    <count>5</count>
+    <value>45 dop</value>
+    <valItem>9 dop</valItem>
+    <valCUC>0.8653846153846153846153846140</valCUC>
+    <valCucItem>0.1730769230769230769230769228</valCucItem>
+    <moneda>0</moneda>
+    <precio>0.3</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>24</id>
+    <item>Ajo en polvo*</item>
+    <count>1</count>
+    <value>179 dop</value>
+    <valItem>179 dop</valItem>
+    <valCUC>3.4423076923076923076923076868</valCUC>
+    <valCucItem>3.4423076923076923076923076868</valCucItem>
+    <moneda>0</moneda>
+    <precio>6</precio>
+    <comentario>Habias puesto 175 pero para el total de 446 tiene que ser ese número</comentario>
+  </Compras>
+  <Compras>
+    <id>25</id>
+    <item>_Sildenafil (Viagra)</item>
+    <count>72</count>
+    <value>1740 dop</value>
+    <valItem>24.17 dop</valItem>
+    <valCUC>33.461538461538461538461538408</valCUC>
+    <valCucItem>0.464743589743589743589743589</valCucItem>
+    <moneda>0</moneda>
+    <precio>3</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>26</id>
+    <item>_Diclofenac Potasico</item>
+    <count>60</count>
+    <value>750 dop</value>
+    <valItem>12.5 dop</valItem>
+    <valCUC>14.423076923076923076923076900</valCUC>
+    <valCucItem>0.240384615384615384615384615</valCucItem>
+    <moneda>0</moneda>
+    <precio>2</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>27</id>
+    <item>_Diclofenac Sodico + Complejo B</item>
+    <count>20</count>
+    <value>450 dop</value>
+    <valItem>22.5 dop</valItem>
+    <valCUC>8.653846153846153846153846140</valCUC>
+    <valCucItem>0.432692307692307692307692307</valCucItem>
+    <moneda>0</moneda>
+    <precio>2</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>28</id>
+    <item>_Glucosamina en Crema (Artritol)</item>
+    <count>3</count>
+    <value>210 dop</value>
+    <valItem>70 dop</valItem>
+    <valCUC>4.0384615384615384615384615320</valCUC>
+    <valCucItem>1.3461538461538461538461538440</valCucItem>
+    <moneda>0</moneda>
+    <precio>6</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>29</id>
+    <item>_Prueba de Embarazo</item>
+    <count>10</count>
+    <value>150 dop</value>
+    <valItem>15 dop</valItem>
+    <valCUC>2.8846153846153846153846153800</valCUC>
+    <valCucItem>0.2884615384615384615384615380</valCucItem>
+    <moneda>0</moneda>
+    <precio>3</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>30</id>
+    <item>_Atenolol 50mg</item>
+    <count>30</count>
+    <value>210 dop</value>
+    <valItem>7 dop</valItem>
+    <valCUC>4.0384615384615384615384615320</valCUC>
+    <valCucItem>0.1346153846153846153846153844</valCucItem>
+    <moneda>2</moneda>
+    <precio>15</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>31</id>
+    <item>_Omeprazol 20 mg</item>
+    <count>80</count>
+    <value>680 dop</value>
+    <valItem>8.5 dop</valItem>
+    <valCUC>13.076923076923076923076923056</valCUC>
+    <valCucItem>0.1634615384615384615384615382</valCucItem>
+    <moneda>0</moneda>
+    <precio>1</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>32</id>
+    <item>_Diclofenac Inyectable</item>
+    <count>40</count>
+    <value>152 dop</value>
+    <valItem>3.8 dop</valItem>
+    <valCUC>2.9230769230769230769230769184</valCUC>
+    <valCucItem>0.073076923076923076923076923</valCucItem>
+    <moneda>0</moneda>
+    <precio>1</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>33</id>
+    <item>_Diclofenac en Gel</item>
+    <count>6</count>
+    <value>180 dop</value>
+    <valItem>30 dop</valItem>
+    <valCUC>3.4615384615384615384615384560</valCUC>
+    <valCucItem>0.5769230769230769230769230760</valCucItem>
+    <moneda>0</moneda>
+    <precio>4</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>34</id>
+    <item>_Mambo 36</item>
+    <count>104</count>
+    <value>1768 dop</value>
+    <valItem>17 dop</valItem>
+    <valCUC>33.999999999999999999999999946</valCUC>
+    <valCucItem>0.3269230769230769230769230764</valCucItem>
+    <moneda>0</moneda>
+    <precio>1</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>35</id>
+    <item>_Multivitamina + Minerales</item>
+    <count>5</count>
+    <value>750 dop</value>
+    <valItem>150 dop</valItem>
+    <valCUC>14.423076923076923076923076900</valCUC>
+    <valCucItem>2.884615384615384615384615380</valCucItem>
+    <moneda>0</moneda>
+    <precio>12</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>36</id>
+    <item>_Azitromicina</item>
+    <count>10</count>
+    <value>280 dop</value>
+    <valItem>28 dop</valItem>
+    <valCUC>5.3846153846153846153846153760</valCUC>
+    <valCucItem>0.5384615384615384615384615376</valCucItem>
+    <moneda>0</moneda>
+    <precio>2</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>37</id>
+    <item>_Diclofenac Sodico</item>
+    <count>10</count>
+    <value>95 dop</value>
+    <valItem>9.5 dop</valItem>
+    <valCUC>1.8269230769230769230769230740</valCUC>
+    <valCucItem>0.1826923076923076923076923074</valCucItem>
+    <moneda>0</moneda>
+    <precio>1.5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>38</id>
+    <item>_Acido Folico</item>
+    <count>5</count>
+    <value>150 dop</value>
+    <valItem>30 dop</valItem>
+    <valCUC>2.8846153846153846153846153800</valCUC>
+    <valCucItem>0.5769230769230769230769230760</valCucItem>
+    <moneda>0</moneda>
+    <precio>8</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>39</id>
+    <item>_Diclofenac Potasico + Complejo B</item>
+    <count>60</count>
+    <value>1740 dop</value>
+    <valItem>29 dop</valItem>
+    <valCUC>33.461538461538461538461538408</valCUC>
+    <valCucItem>0.5576923076923076923076923068</valCucItem>
+    <moneda>0</moneda>
+    <precio>2.5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>40</id>
+    <item>_Permetrina en Crema</item>
+    <count>4</count>
+    <value>260 dop</value>
+    <valItem>65 dop</valItem>
+    <valCUC>4.9999999999999999999999999920</valCUC>
+    <valCucItem>1.2499999999999999999999999980</valCucItem>
+    <moneda>0</moneda>
+    <precio>4</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>41</id>
+    <item>_Vitamina E 1000 IU</item>
+    <count>2</count>
+    <value>520 dop</value>
+    <valItem>260 dop</valItem>
+    <valCUC>9.999999999999999999999999984</valCUC>
+    <valCucItem>4.999999999999999999999999992</valCucItem>
+    <moneda>0</moneda>
+    <precio>15</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>42</id>
+    <item>_Pildora del dia Despues (Seguidet)</item>
+    <count>5</count>
+    <value>210 dop</value>
+    <valItem>42 dop</valItem>
+    <valCUC>4.0384615384615384615384615320</valCUC>
+    <valCucItem>0.8076923076923076923076923064</valCucItem>
+    <moneda>0</moneda>
+    <precio>5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>43</id>
+    <item>_Pildora del dia después (AfterD)</item>
+    <count>5</count>
+    <value>250 dop</value>
+    <valItem>50 dop</valItem>
+    <valCUC>4.8076923076923076923076923000</valCUC>
+    <valCucItem>0.9615384615384615384615384600</valCucItem>
+    <moneda>0</moneda>
+    <precio>5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>44</id>
+    <item>_Pepto-Bismol 8 oz</item>
+    <count>1</count>
+    <value>210 dop</value>
+    <valItem>210 dop</valItem>
+    <valCUC>4.0384615384615384615384615320</valCUC>
+    <valCucItem>4.0384615384615384615384615320</valCucItem>
+    <moneda>0</moneda>
+    <precio>10</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>45</id>
+    <item>_Shampu Ketoconazol</item>
+    <count>6</count>
+    <value>270 dop</value>
+    <valItem>45 dop</valItem>
+    <valCUC>5.1923076923076923076923076840</valCUC>
+    <valCucItem>0.8653846153846153846153846140</valCucItem>
+    <moneda>0</moneda>
+    <precio>3</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>46</id>
+    <item>_Diclofenac con paracetamol</item>
+    <count>20</count>
+    <value>110 dop</value>
+    <valItem>5.5 dop</valItem>
+    <valCUC>2.1153846153846153846153846120</valCUC>
+    <valCucItem>0.1057692307692307692307692306</valCucItem>
+    <moneda>0</moneda>
+    <precio>2</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>47</id>
+    <item>_Chanca Piedra</item>
+    <count>6</count>
+    <value>1440 dop</value>
+    <valItem>240 dop</valItem>
+    <valCUC>27.692307692307692307692307648</valCUC>
+    <valCucItem>4.615384615384615384615384608</valCucItem>
+    <moneda>0</moneda>
+    <precio>12</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>48</id>
+    <item>_Omega 3</item>
+    <count>4</count>
+    <value>680 dop</value>
+    <valItem>170 dop</valItem>
+    <valCUC>13.076923076923076923076923056</valCUC>
+    <valCucItem>3.269230769230769230769230764</valCucItem>
+    <moneda>0</moneda>
+    <precio>10</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>49</id>
+    <item>_Omega 3,6,9</item>
+    <count>2</count>
+    <value>370 dop</value>
+    <valItem>185 dop</valItem>
+    <valCUC>7.1153846153846153846153846040</valCUC>
+    <valCucItem>3.5576923076923076923076923020</valCucItem>
+    <moneda>0</moneda>
+    <precio>12</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>50</id>
+    <item>_Vitamina C 500 mg</item>
+    <count>10</count>
+    <value>180 dop</value>
+    <valItem>18 dop</valItem>
+    <valCUC>3.4615384615384615384615384560</valCUC>
+    <valCucItem>0.3461538461538461538461538456</valCucItem>
+    <moneda>0</moneda>
+    <precio>1</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>51</id>
+    <item>_Tadalafil</item>
+    <count>60</count>
+    <value>600 dop</value>
+    <valItem>10 dop</valItem>
+    <valCUC>11.538461538461538461538461520</valCUC>
+    <valCucItem>0.192307692307692307692307692</valCucItem>
+    <moneda>0</moneda>
+    <precio>3</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>52</id>
+    <item>_Ranitidina </item>
+    <count>60</count>
+    <value>600 dop</value>
+    <valItem>10 dop</valItem>
+    <valCUC>11.538461538461538461538461520</valCUC>
+    <valCucItem>0.192307692307692307692307692</valCucItem>
+    <moneda>0</moneda>
+    <precio>1</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>53</id>
+    <item>_Glucosamina &amp; Chondritina</item>
+    <count>6</count>
+    <value>2340 dop</value>
+    <valItem>390 dop</valItem>
+    <valCUC>44.999999999999999999999999928</valCUC>
+    <valCucItem>7.499999999999999999999999988</valCucItem>
+    <moneda>0</moneda>
+    <precio>18</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>54</id>
+    <item>_Ibuprofeno 800 mg</item>
+    <count>10</count>
+    <value>175 dop</value>
+    <valItem>17.5 dop</valItem>
+    <valCUC>3.3653846153846153846153846100</valCUC>
+    <valCucItem>0.3365384615384615384615384610</valCucItem>
+    <moneda>0</moneda>
+    <precio>1.5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>55</id>
+    <item>_Ibuprofeno 600 mg</item>
+    <count>46</count>
+    <value>680 dop</value>
+    <valItem>14.78 dop</valItem>
+    <valCUC>13.076923076923076923076923056</valCUC>
+    <valCucItem>0.2842809364548494983277591969</valCucItem>
+    <moneda>0</moneda>
+    <precio>1</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>56</id>
+    <item>Pullover</item>
+    <count>9</count>
+    <value>900 dop</value>
+    <valItem>100 dop</valItem>
+    <valCUC>17.307692307692307692307692280</valCUC>
+    <valCucItem>1.923076923076923076923076920</valCucItem>
+    <moneda>0</moneda>
+    <precio>6</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>57</id>
+    <item>Pullover</item>
+    <count>2</count>
+    <value>220 dop</value>
+    <valItem>110 dop</valItem>
+    <valCUC>4.2307692307692307692307692240</valCUC>
+    <valCucItem>2.1153846153846153846153846120</valCucItem>
+    <moneda>0</moneda>
+    <precio>6</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>58</id>
+    <item>Aretes</item>
+    <count>18</count>
+    <value>810 dop</value>
+    <valItem>45 dop</valItem>
+    <valCUC>15.576923076923076923076923052</valCUC>
+    <valCucItem>0.865384615384615384615384614</valCucItem>
+    <moneda>0</moneda>
+    <precio>2</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>59</id>
+    <item>Cadenas de Mujer</item>
+    <count>4</count>
+    <value>300 dop</value>
+    <valItem>75 dop</valItem>
+    <valCUC>5.7692307692307692307692307600</valCUC>
+    <valCucItem>1.4423076923076923076923076900</valCucItem>
+    <moneda>0</moneda>
+    <precio>8</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>60</id>
+    <item>Cadenas de Hombre</item>
+    <count>2</count>
+    <value>240 dop</value>
+    <valItem>120 dop</valItem>
+    <valCUC>4.6153846153846153846153846080</valCUC>
+    <valCucItem>2.3076923076923076923076923040</valCucItem>
+    <moneda>0</moneda>
+    <precio>10</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>61</id>
+    <item>Cadenas de pie</item>
+    <count>4</count>
+    <value>200 dop</value>
+    <valItem>50 dop</valItem>
+    <valCUC>3.8461538461538461538461538400</valCUC>
+    <valCucItem>0.9615384615384615384615384600</valCucItem>
+    <moneda>2</moneda>
+    <precio>60</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>62</id>
+    <item>Sandalias sin correas</item>
+    <count>13</count>
+    <value>1300 dop</value>
+    <valItem>100 dop</valItem>
+    <valCUC>24.999999999999999999999999960</valCUC>
+    <valCucItem>1.923076923076923076923076920</valCucItem>
+    <moneda>0</moneda>
+    <precio>8</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>63</id>
+    <item>Sandalias practico</item>
+    <count>6</count>
+    <value>1320 dop</value>
+    <valItem>220 dop</valItem>
+    <valCUC>25.384615384615384615384615344</valCUC>
+    <valCucItem>4.230769230769230769230769224</valCucItem>
+    <moneda>0</moneda>
+    <precio>14</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>64</id>
+    <item>Pasta Colgate Total</item>
+    <count>2</count>
+    <value>330 dop</value>
+    <valItem>165 dop</valItem>
+    <valCUC>6.3461538461538461538461538360</valCUC>
+    <valCucItem>3.1730769230769230769230769180</valCucItem>
+    <moneda>0</moneda>
+    <precio>5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>65</id>
+    <item>Scolt Tape</item>
+    <count>1</count>
+    <value>40 dop</value>
+    <valItem>40 dop</valItem>
+    <valCUC>0.7692307692307692307692307680</valCUC>
+    <valCucItem>0.7692307692307692307692307680</valCucItem>
+    <moneda>0</moneda>
+    <precio>1.25</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>66</id>
+    <item>Sombrillas</item>
+    <count>4</count>
+    <value>560 dop</value>
+    <valItem>140 dop</valItem>
+    <valCUC>10.769230769230769230769230752</valCUC>
+    <valCucItem>2.692307692307692307692307688</valCucItem>
+    <moneda>0</moneda>
+    <precio>10</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>67</id>
+    <item>Bocinas Bluetooth</item>
+    <count>2</count>
+    <value>540 dop</value>
+    <valItem>270 dop</valItem>
+    <valCUC>10.384615384615384615384615368</valCUC>
+    <valCucItem>5.192307692307692307692307684</valCucItem>
+    <moneda>0</moneda>
+    <precio>22</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>68</id>
+    <item>Lamparas recargable</item>
+    <count>4</count>
+    <value>720 dop</value>
+    <valItem>180 dop</valItem>
+    <valCUC>13.846153846153846153846153824</valCUC>
+    <valCucItem>3.461538461538461538461538456</valCucItem>
+    <moneda>0</moneda>
+    <precio>15</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>69</id>
+    <item>Cuchillos de 6"</item>
+    <count>3</count>
+    <value>105 dop</value>
+    <valItem>35 dop</valItem>
+    <valCUC>2.0192307692307692307692307660</valCUC>
+    <valCucItem>0.6730769230769230769230769220</valCucItem>
+    <moneda>0</moneda>
+    <precio>3</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>70</id>
+    <item>Cucharas</item>
+    <count>6</count>
+    <value>100 dop</value>
+    <valItem>16.67 dop</valItem>
+    <valCUC>1.9230769230769230769230769200</valCUC>
+    <valCucItem>0.3205128205128205128205128200</valCucItem>
+    <moneda>0</moneda>
+    <precio>0.55</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>71</id>
+    <item>Rejilla de desague</item>
+    <count>3</count>
+    <value>180 dop</value>
+    <valItem>60 dop</valItem>
+    <valCUC>3.4615384615384615384615384560</valCUC>
+    <valCucItem>1.1538461538461538461538461520</valCucItem>
+    <moneda>0</moneda>
+    <precio>6</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>72</id>
+    <item>Palanganita</item>
+    <count>1</count>
+    <value>120 dop</value>
+    <valItem>120 dop</valItem>
+    <valCUC>2.3076923076923076923076923040</valCUC>
+    <valCucItem>2.3076923076923076923076923040</valCucItem>
+    <moneda>0</moneda>
+    <precio>3.7</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>73</id>
+    <item>Caltera Negra</item>
+    <count>1</count>
+    <value>650 dop</value>
+    <valItem>650 dop</valItem>
+    <valCUC>12.499999999999999999999999980</valCUC>
+    <valCucItem>12.499999999999999999999999980</valCucItem>
+    <moneda>0</moneda>
+    <precio>15</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>75</id>
+    <item>Aretes</item>
+    <count>36</count>
+    <value>1620.19 dop</value>
+    <valItem>45.01 dop</valItem>
+    <valCUC>31.157499999999999999999999950</valCUC>
+    <valCucItem>0.8654861111111111111111111097</valCucItem>
+    <moneda>0</moneda>
+    <precio>2</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>76</id>
+    <item>Reloj de mujer</item>
+    <count>1</count>
+    <value>285.01 dop</value>
+    <valItem>285.01 dop</valItem>
+    <valCUC>5.4809615384615384615384615297</valCUC>
+    <valCucItem>5.4809615384615384615384615297</valCucItem>
+    <moneda>0</moneda>
+    <precio>18</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>77</id>
+    <item>Reloj con piedra</item>
+    <count>1</count>
+    <value>290 dop</value>
+    <valItem>290 dop</valItem>
+    <valCUC>5.5769230769230769230769230680</valCUC>
+    <valCucItem>5.5769230769230769230769230680</valCucItem>
+    <moneda>0</moneda>
+    <precio>18</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>78</id>
+    <item>Swaroski (Para uñas)</item>
+    <count>2</count>
+    <value>240 dop</value>
+    <valItem>120 dop</valItem>
+    <valCUC>4.6153846153846153846153846080</valCUC>
+    <valCucItem>2.3076923076923076923076923040</valCucItem>
+    <moneda>0</moneda>
+    <precio>4</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>79</id>
+    <item>Adornos de uñas</item>
+    <count>2</count>
+    <value>90 dop</value>
+    <valItem>45 dop</valItem>
+    <valCUC>1.7307692307692307692307692280</valCUC>
+    <valCucItem>0.8653846153846153846153846140</valCucItem>
+    <moneda>0</moneda>
+    <precio>2</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>80</id>
+    <item>Medias </item>
+    <count>40</count>
+    <value>1000 dop</value>
+    <valItem>25 dop</valItem>
+    <valCUC>19.230769230769230769230769200</valCUC>
+    <valCucItem>0.480769230769230769230769230</valCucItem>
+    <moneda>2</moneda>
+    <precio>25.00</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>81</id>
+    <item>Mochilas</item>
+    <count>2</count>
+    <value>700 dop</value>
+    <valItem>350 dop</valItem>
+    <valCUC>13.461538461538461538461538440</valCUC>
+    <valCucItem>6.730769230769230769230769220</valCucItem>
+    <moneda>0</moneda>
+    <precio>15</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>82</id>
+    <item>Chocolates Twix</item>
+    <count>2</count>
+    <value>60 dop</value>
+    <valItem>30 dop</valItem>
+    <valCUC>1.1538461538461538461538461520</valCUC>
+    <valCucItem>0.5769230769230769230769230760</valCucItem>
+    <moneda>0</moneda>
+    <precio>1.39</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>83</id>
+    <item>Chocolates M&amp;M</item>
+    <count>3</count>
+    <value>90 dop</value>
+    <valItem>30 dop</valItem>
+    <valCUC>1.7307692307692307692307692280</valCUC>
+    <valCucItem>0.5769230769230769230769230760</valCucItem>
+    <moneda>0</moneda>
+    <precio>1.39</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>84</id>
+    <item>Galleta Lora</item>
+    <count>1</count>
+    <value>21 dop</value>
+    <valItem>21 dop</valItem>
+    <valCUC>0.4038461538461538461538461532</valCUC>
+    <valCucItem>0.4038461538461538461538461532</valCucItem>
+    <moneda>0</moneda>
+    <precio>0.97</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>85</id>
+    <item>Choco Med</item>
+    <count>2</count>
+    <value>40 dop</value>
+    <valItem>20 dop</valItem>
+    <valCUC>0.7692307692307692307692307680</valCUC>
+    <valCucItem>0.3846153846153846153846153840</valCucItem>
+    <moneda>0</moneda>
+    <precio>0.92</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>86</id>
+    <item>Chocolate de barra</item>
+    <count>3</count>
+    <value>165 dop</value>
+    <valItem>55 dop</valItem>
+    <valCUC>3.1730769230769230769230769180</valCUC>
+    <valCucItem>1.0576923076923076923076923060</valCucItem>
+    <moneda>0</moneda>
+    <precio>2.54</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>87</id>
+    <item>Bombones</item>
+    <count>1</count>
+    <value>235 dop</value>
+    <valItem>235 dop</valItem>
+    <valCUC>4.5192307692307692307692307620</valCUC>
+    <valCucItem>4.5192307692307692307692307620</valCucItem>
+    <moneda>0</moneda>
+    <precio>8</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>88</id>
+    <item>Sapito para tanque de baño y palanca de desague</item>
+    <count>1</count>
+    <value>110 dop</value>
+    <valItem>110 dop</valItem>
+    <valCUC>2.1153846153846153846153846120</valCUC>
+    <valCucItem>2.1153846153846153846153846120</valCucItem>
+    <moneda>0</moneda>
+    <precio>4</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>89</id>
+    <item>Tenis de Hombre </item>
+    <count>1</count>
+    <value>340 dop</value>
+    <valItem>340 dop</valItem>
+    <valCUC>6.5384615384615384615384615280</valCUC>
+    <valCucItem>6.5384615384615384615384615280</valCucItem>
+    <moneda>0</moneda>
+    <precio>18</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>90</id>
+    <item>Tenis de Mujer</item>
+    <count>1</count>
+    <value>315 dop</value>
+    <valItem>315 dop</valItem>
+    <valCUC>6.0576923076923076923076922980</valCUC>
+    <valCucItem>6.0576923076923076923076922980</valCucItem>
+    <moneda>0</moneda>
+    <precio>15</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>91</id>
+    <item>Short</item>
+    <count>1</count>
+    <value>340 dop</value>
+    <valItem>340 dop</valItem>
+    <valCUC>6.5384615384615384615384615280</valCUC>
+    <valCucItem>6.5384615384615384615384615280</valCucItem>
+    <moneda>0</moneda>
+    <precio>12</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>92</id>
+    <item>Pegamento de uñas</item>
+    <count>10</count>
+    <value>100 dop</value>
+    <valItem>10 dop</valItem>
+    <valCUC>1.9230769230769230769230769200</valCUC>
+    <valCucItem>0.1923076923076923076923076920</valCucItem>
+    <moneda>2</moneda>
+    <precio>10</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>93</id>
+    <item>Creyones</item>
+    <count>6</count>
+    <value>180 dop</value>
+    <valItem>30 dop</valItem>
+    <valCUC>3.4615384615384615384615384560</valCUC>
+    <valCucItem>0.5769230769230769230769230760</valCucItem>
+    <moneda>0</moneda>
+    <precio>2</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>94</id>
+    <item>Delineadores</item>
+    <count>6</count>
+    <value>138 dop</value>
+    <valItem>23 dop</valItem>
+    <valCUC>2.6538461538461538461538461496</valCUC>
+    <valCucItem>0.4423076923076923076923076916</valCucItem>
+    <moneda>2</moneda>
+    <precio>25</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>95</id>
+    <item>Mascara de pestaña</item>
+    <count>6</count>
+    <value>108 dop</value>
+    <valItem>18 dop</valItem>
+    <valCUC>2.0769230769230769230769230736</valCUC>
+    <valCucItem>0.3461538461538461538461538456</valCucItem>
+    <moneda>2</moneda>
+    <precio>35</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>96</id>
+    <item>Toallas medianas color entero</item>
+    <count>4</count>
+    <value>200 dop</value>
+    <valItem>50 dop</valItem>
+    <valCUC>3.8461538461538461538461538400</valCUC>
+    <valCucItem>0.9615384615384615384615384600</valCucItem>
+    <moneda>0</moneda>
+    <precio>1.5</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>97</id>
+    <item>Toallitas chiquitas</item>
+    <count>12</count>
+    <value>120 dop</value>
+    <valItem>10 dop</valItem>
+    <valCUC>2.3076923076923076923076923040</valCUC>
+    <valCucItem>0.1923076923076923076923076920</valCucItem>
+    <moneda>2</moneda>
+    <precio>15</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>98</id>
+    <item>Toallitas medianas</item>
+    <count>12</count>
+    <value>250 dop</value>
+    <valItem>20.83 dop</valItem>
+    <valCUC>4.8076923076923076923076923000</valCUC>
+    <valCucItem>0.4006410256410256410256410250</valCucItem>
+    <moneda>2</moneda>
+    <precio>25</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>99</id>
+    <item>Cartera mediana</item>
+    <count>1</count>
+    <value>250 dop</value>
+    <valItem>250 dop</valItem>
+    <valCUC>4.8076923076923076923076923000</valCUC>
+    <valCucItem>4.8076923076923076923076923000</valCucItem>
+    <moneda>0</moneda>
+    <precio>12</precio>
+    <comentario />
+  </Compras>
+  <Compras>
+    <id>100</id>
+    <item>Cartera grande</item>
+    <count>1</count>
+    <value>700 dop</value>
+    <valItem>700 dop</valItem>
+    <valCUC>13.461538461538461538461538440</valCUC>
+    <valCucItem>13.461538461538461538461538440</valCucItem>
+    <moneda>0</moneda>
+    <precio>25</precio>
+    <comentario />
+  </Compras>
+  <Ventas>
+    <id>1</id>
+    <idProd>55</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>46</count>
+    <precio>1</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-14T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>2</id>
+    <idProd>54</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>8</count>
+    <precio>1.5</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-05T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>3</id>
+    <idProd>25</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>49</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-17T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>4</id>
+    <idProd>51</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>60</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>5</id>
+    <idProd>34</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>104</count>
+    <precio>1</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>6</id>
+    <idProd>35</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>4</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>7</id>
+    <idProd>32</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>40</count>
+    <precio>1</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>8</id>
+    <idProd>33</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>6</count>
+    <precio>4</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>9</id>
+    <idProd>26</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>60</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>10</id>
+    <idProd>27</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>20</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>11</id>
+    <idProd>28</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-31T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>12</id>
+    <idProd>29</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>10</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>13</id>
+    <idProd>31</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>79</count>
+    <precio>1</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>14</id>
+    <idProd>37</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>10</count>
+    <precio>1.5</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>15</id>
+    <idProd>39</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>47</count>
+    <precio>2.5</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>16</id>
+    <idProd>41</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>17</id>
+    <idProd>42</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>5</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>18</id>
+    <idProd>43</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>5</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>19</id>
+    <idProd>46</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>20</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>20</id>
+    <idProd>47</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>6</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>21</id>
+    <idProd>48</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>4</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>22</id>
+    <idProd>49</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>23</id>
+    <idProd>52</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>60</count>
+    <precio>1</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>24</id>
+    <idProd>53</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>6</count>
+    <precio>18</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>25</id>
+    <idProd>35</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+    <comentario>Para Fara</comentario>
+  </Ventas>
+  <Ventas>
+    <id>26</id>
+    <idProd>63</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario>Fara (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>27</id>
+    <idProd>1</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario>Camilo (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>28</id>
+    <idProd>22</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>22</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>29</id>
+    <idProd>64</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>2</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>30</id>
+    <idProd>65</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>31</id>
+    <idProd>66</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>4</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>32</id>
+    <idProd>73</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario>Gilda (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>33</id>
+    <idProd>82</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>34</id>
+    <idProd>82</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>35</id>
+    <idProd>23</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>5</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>36</id>
+    <idProd>83</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>3</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>37</id>
+    <idProd>24</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>38</id>
+    <idProd>70</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>6</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>39</id>
+    <idProd>80</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>2</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>40</id>
+    <idProd>87</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>41</id>
+    <idProd>45</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>6</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario>Grettel (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>42</id>
+    <idProd>85</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>2</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>43</id>
+    <idProd>84</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>44</id>
+    <idProd>86</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>3</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>45</id>
+    <idProd>88</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>46</id>
+    <idProd>71</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>2</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2020-04-08T00:00:00-04:00</fecha>
+    <comentario>Para el baño</comentario>
+  </Ventas>
+  <Ventas>
+    <id>47</id>
+    <idProd>72</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>48</id>
+    <idProd>96</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>4</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>49</id>
+    <idProd>5</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario>Evelin (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>51</id>
+    <idProd>63</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario>Evelin</comentario>
+  </Ventas>
+  <Ventas>
+    <id>52</id>
+    <idProd>62</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>9</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario>Evelin</comentario>
+  </Ventas>
+  <Ventas>
+    <id>53</id>
+    <idProd>5</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario>Orlidia (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>54</id>
+    <idProd>63</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario>Orlidia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>55</id>
+    <idProd>6</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario>Orlidia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>56</id>
+    <idProd>3</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario>Elsa (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>57</id>
+    <idProd>3</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario>Yaumara</comentario>
+  </Ventas>
+  <Ventas>
+    <id>58</id>
+    <idProd>58</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario>Elsa (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>59</id>
+    <idProd>75</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>0</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> {19 nov. Devolvio 18}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>60</id>
+    <idProd>78</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>0</count>
+    <precio>4</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> {15 feb.. Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>61</id>
+    <idProd>79</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>0</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> {15 feb.. Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>62</id>
+    <idProd>92</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>2</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> {15 feb.. Devolvio 7}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>63</id>
+    <idProd>93</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>6</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>64</id>
+    <idProd>95</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>4</count>
+    <precio>35</precio>
+    <moneda>2</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> {15 feb.. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>65</id>
+    <idProd>94</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>5</count>
+    <precio>25</precio>
+    <moneda>2</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario> {15 feb.. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>66</id>
+    <idProd>89</idProd>
+    <vendedor>Ody</vendedor>
+    <count>1</count>
+    <precio>18</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>67</id>
+    <idProd>4</idProd>
+    <vendedor>Ody</vendedor>
+    <count>1</count>
+    <precio>18</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>68</id>
+    <idProd>5</idProd>
+    <vendedor>Ody</vendedor>
+    <count>1</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>69</id>
+    <idProd>62</idProd>
+    <vendedor>Ody</vendedor>
+    <count>2</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>70</id>
+    <idProd>57</idProd>
+    <vendedor>Ody</vendedor>
+    <count>2</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>71</id>
+    <idProd>56</idProd>
+    <vendedor>Ody</vendedor>
+    <count>3</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>72</id>
+    <idProd>80</idProd>
+    <vendedor>Ody</vendedor>
+    <count>6</count>
+    <precio>25</precio>
+    <moneda>2</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>73</id>
+    <idProd>76</idProd>
+    <vendedor>Ody</vendedor>
+    <count>1</count>
+    <precio>18</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>74</id>
+    <idProd>77</idProd>
+    <vendedor>Ody</vendedor>
+    <count>1</count>
+    <precio>18</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>75</id>
+    <idProd>61</idProd>
+    <vendedor>Ody</vendedor>
+    <count>2</count>
+    <precio>60</precio>
+    <moneda>2</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>76</id>
+    <idProd>75</idProd>
+    <vendedor>Ody</vendedor>
+    <count>12</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>77</id>
+    <idProd>81</idProd>
+    <vendedor>Ody</vendedor>
+    <count>1</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>78</id>
+    <idProd>56</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>2</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario>Lorena</comentario>
+  </Ventas>
+  <Ventas>
+    <id>79</id>
+    <idProd>6</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+    <comentario>Yo mias (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>80</id>
+    <idProd>21</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>6</count>
+    <precio>7</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>81</id>
+    <idProd>19</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>82</id>
+    <idProd>20</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>3</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>83</id>
+    <idProd>10</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>84</id>
+    <idProd>20</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+    <comentario>Francis</comentario>
+  </Ventas>
+  <Ventas>
+    <id>85</id>
+    <idProd>20</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+    <comentario>Arreglo de lavadora</comentario>
+  </Ventas>
+  <Ventas>
+    <id>86</id>
+    <idProd>14</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>87</id>
+    <idProd>40</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>3</count>
+    <precio>4</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>88</id>
+    <idProd>40</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>89</id>
+    <idProd>17</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>4</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>90</id>
+    <idProd>12</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>5</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>91</id>
+    <idProd>20</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>92</id>
+    <idProd>19</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>6.5</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>93</id>
+    <idProd>17</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>4</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>94</id>
+    <idProd>9</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>95</id>
+    <idProd>80</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>11</count>
+    <precio>30</precio>
+    <moneda>2</moneda>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+    <comentario>Misley</comentario>
+  </Ventas>
+  <Ventas>
+    <id>96</id>
+    <idProd>75</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>3</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+    <comentario>Misley</comentario>
+  </Ventas>
+  <Ventas>
+    <id>97</id>
+    <idProd>63</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+    <comentario>Misley</comentario>
+  </Ventas>
+  <Ventas>
+    <id>98</id>
+    <idProd>92</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>2</moneda>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+    <comentario>Misley</comentario>
+  </Ventas>
+  <Ventas>
+    <id>99</id>
+    <idProd>92</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>2</moneda>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>100</id>
+    <idProd>17</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>101</id>
+    <idProd>16</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-03T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>102</id>
+    <idProd>16</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-03T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>103</id>
+    <idProd>56</idProd>
+    <vendedor>Ody</vendedor>
+    <count>2</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-04T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>104</id>
+    <idProd>39</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-04T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>105</id>
+    <idProd>54</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>1</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-05T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>106</id>
+    <idProd>19</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>7</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-05T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>107</id>
+    <idProd>18</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>7</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-05T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>108</id>
+    <idProd>39</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>109</id>
+    <idProd>31</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>110</id>
+    <idProd>60</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+    <comentario>Chavela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>111</id>
+    <idProd>59</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+    <comentario>Diosmira</comentario>
+  </Ventas>
+  <Ventas>
+    <id>112</id>
+    <idProd>59</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+    <comentario>Acala</comentario>
+  </Ventas>
+  <Ventas>
+    <id>113</id>
+    <idProd>36</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>10</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>114</id>
+    <idProd>9</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>115</id>
+    <idProd>50</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>10</count>
+    <precio>1</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>116</id>
+    <idProd>39</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>2.5</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+    <comentario>Amiga de Evelin</comentario>
+  </Ventas>
+  <Ventas>
+    <id>117</id>
+    <idProd>69</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-10T00:00:00-04:00</fecha>
+    <comentario>Juan</comentario>
+  </Ventas>
+  <Ventas>
+    <id>118</id>
+    <idProd>69</idProd>
+    <vendedor>Maricela</vendedor>
+    <count>1</count>
+    <precio>3</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-10T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>119</id>
+    <idProd>13</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-10T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>120</id>
+    <idProd>38</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>4</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2019-11-05T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>121</id>
+    <idProd>44</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>122</id>
+    <idProd>39</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>10</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+    <comentario>Para Chita</comentario>
+  </Ventas>
+  <Ventas>
+    <id>123</id>
+    <idProd>7</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-15T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>124</id>
+    <idProd>25</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>23</count>
+    <precio>2.6087</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-17T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>125</id>
+    <idProd>7</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-20T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>126</id>
+    <idProd>30</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>19</count>
+    <precio>15</precio>
+    <moneda>2</moneda>
+    <fecha>2019-11-28T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>127</id>
+    <idProd>56</idProd>
+    <vendedor>Ody</vendedor>
+    <count>2</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-21T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>128</id>
+    <idProd>63</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>0</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-22T00:00:00-04:00</fecha>
+    <comentario> {19 nov. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>129</id>
+    <idProd>63</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-22T00:00:00-04:00</fecha>
+    <comentario>Orlidia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>130</id>
+    <idProd>60</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-23T00:00:00-04:00</fecha>
+    <comentario>Chavela</comentario>
+  </Ventas>
+  <Ventas>
+    <id>131</id>
+    <idProd>7</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-25T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>132</id>
+    <idProd>99</idProd>
+    <vendedor>Ody</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-25T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>133</id>
+    <idProd>61</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>60</precio>
+    <moneda>2</moneda>
+    <fecha>2019-10-26T00:00:00-04:00</fecha>
+    <comentario>Gilda</comentario>
+  </Ventas>
+  <Ventas>
+    <id>134</id>
+    <idProd>58</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>16</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-26T00:00:00-04:00</fecha>
+    <comentario>Gilda</comentario>
+  </Ventas>
+  <Ventas>
+    <id>135</id>
+    <idProd>75</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-26T00:00:00-04:00</fecha>
+    <comentario>Gilda</comentario>
+  </Ventas>
+  <Ventas>
+    <id>136</id>
+    <idProd>81</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-26T00:00:00-04:00</fecha>
+    <comentario>Orlidia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>138</id>
+    <idProd>28</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2019-10-31T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>139</id>
+    <idProd>75</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-11-02T00:00:00-04:00</fecha>
+    <comentario>Grettel</comentario>
+  </Ventas>
+  <Ventas>
+    <id>140</id>
+    <idProd>8</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2019-11-04T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>141</id>
+    <idProd>38</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>6</precio>
+    <moneda>0</moneda>
+    <fecha>2019-11-05T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>142</id>
+    <idProd>7</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>290</precio>
+    <moneda>2</moneda>
+    <fecha>2019-11-07T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>143</id>
+    <idProd>7</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2019-11-09T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>144</id>
+    <idProd>7</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2019-11-11T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>145</id>
+    <idProd>30</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>10</count>
+    <precio>0</precio>
+    <moneda>2</moneda>
+    <fecha>2019-11-28T00:00:00-05:00</fecha>
+    <comentario>Para la Vi</comentario>
+  </Ventas>
+  <Ventas>
+    <id>146</id>
+    <idProd>62</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>9</precio>
+    <moneda>0</moneda>
+    <fecha>2019-11-18T00:00:00-05:00</fecha>
+    <comentario>Yaumara</comentario>
+  </Ventas>
+  <Ventas>
+    <id>147</id>
+    <idProd>15</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2019-11-23T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>148</id>
+    <idProd>13</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2019-11-26T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>149</id>
+    <idProd>30</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>2</moneda>
+    <fecha>2019-11-28T00:00:00-05:00</fecha>
+    <comentario>Para Mi</comentario>
+  </Ventas>
+  <Ventas>
+    <id>150</id>
+    <idProd>59</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2019-11-28T00:00:00-05:00</fecha>
+    <comentario>Kiko</comentario>
+  </Ventas>
+  <Ventas>
+    <id>151</id>
+    <idProd>75</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>14</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2019-11-28T00:00:00-05:00</fecha>
+    <comentario>Kiko</comentario>
+  </Ventas>
+  <Ventas>
+    <id>152</id>
+    <idProd>62</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2019-11-28T00:00:00-05:00</fecha>
+    <comentario>Misley</comentario>
+  </Ventas>
+  <Ventas>
+    <id>153</id>
+    <idProd>75</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2019-12-02T00:00:00-05:00</fecha>
+    <comentario>Francy</comentario>
+  </Ventas>
+  <Ventas>
+    <id>154</id>
+    <idProd>75</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2019-12-02T00:00:00-05:00</fecha>
+    <comentario>Rotps</comentario>
+  </Ventas>
+  <Ventas>
+    <id>155</id>
+    <idProd>3</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>3</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2019-12-09T00:00:00-05:00</fecha>
+    <comentario>Gilda</comentario>
+  </Ventas>
+  <Ventas>
+    <id>156</id>
+    <idProd>62</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>0</count>
+    <precio>7</precio>
+    <moneda>0</moneda>
+    <fecha>2019-12-09T00:00:00-05:00</fecha>
+    <comentario>Gilda {18 mar.. Devolvio 2} {18 mar.. Devolvio 2}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>157</id>
+    <idProd>63</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2019-12-09T00:00:00-05:00</fecha>
+    <comentario>Gilda</comentario>
+  </Ventas>
+  <Ventas>
+    <id>158</id>
+    <idProd>62</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>2</count>
+    <precio>7</precio>
+    <moneda>0</moneda>
+    <fecha>2019-12-11T00:00:00-05:00</fecha>
+    <comentario>Gilda</comentario>
+  </Ventas>
+  <Ventas>
+    <id>159</id>
+    <idProd>13</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2019-12-12T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>160</id>
+    <idProd>11</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2019-12-12T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>161</id>
+    <idProd>9</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2019-12-16T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>162</id>
+    <idProd>62</idProd>
+    <vendedor>Eleanis</vendedor>
+    <count>0</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2019-12-23T00:00:00-05:00</fecha>
+    <comentario> {15 feb.. Devolvio 1}</comentario>
+  </Ventas>
+  <Ventas>
+    <id>163</id>
+    <idProd>9</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>2</count>
+    <precio>13</precio>
+    <moneda>0</moneda>
+    <fecha>2019-12-29T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>164</id>
+    <idProd>9</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>0</moneda>
+    <fecha>2020-01-04T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>165</id>
+    <idProd>3</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2020-01-06T00:00:00-05:00</fecha>
+    <comentario>Aida</comentario>
+  </Ventas>
+  <Ventas>
+    <id>166</id>
+    <idProd>68</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2020-01-28T00:00:00-05:00</fecha>
+    <comentario>Gilda</comentario>
+  </Ventas>
+  <Ventas>
+    <id>167</id>
+    <idProd>18</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2020-01-29T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>168</id>
+    <idProd>18</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2020-02-04T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>169</id>
+    <idProd>75</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>3</count>
+    <precio>2</precio>
+    <moneda>0</moneda>
+    <fecha>2020-02-12T00:00:00-05:00</fecha>
+    <comentario>Aida</comentario>
+  </Ventas>
+  <Ventas>
+    <id>170</id>
+    <idProd>11</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2020-02-13T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>171</id>
+    <idProd>80</idProd>
+    <vendedor>Maribel</vendedor>
+    <count>5</count>
+    <precio>20</precio>
+    <moneda>2</moneda>
+    <fecha>2020-02-16T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>172</id>
+    <idProd>15</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2020-02-28T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>173</id>
+    <idProd>11</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2020-02-28T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>174</id>
+    <idProd>8</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2020-02-28T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>175</id>
+    <idProd>8</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2020-03-02T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>176</id>
+    <idProd>92</idProd>
+    <vendedor>Ody</vendedor>
+    <count>1</count>
+    <precio>10</precio>
+    <moneda>2</moneda>
+    <fecha>2020-03-02T00:00:00-05:00</fecha>
+    <comentario> (Pago directo)</comentario>
+  </Ventas>
+  <Ventas>
+    <id>177</id>
+    <idProd>90</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>15</precio>
+    <moneda>0</moneda>
+    <fecha>2020-03-02T00:00:00-05:00</fecha>
+    <comentario>Aime</comentario>
+  </Ventas>
+  <Ventas>
+    <id>178</id>
+    <idProd>8</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>12</precio>
+    <moneda>0</moneda>
+    <fecha>2020-03-05T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>179</id>
+    <idProd>18</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2020-03-06T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>180</id>
+    <idProd>95</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>1</count>
+    <precio>25</precio>
+    <moneda>2</moneda>
+    <fecha>2020-03-06T00:00:00-05:00</fecha>
+    <comentario>Marlene</comentario>
+  </Ventas>
+  <Ventas>
+    <id>181</id>
+    <idProd>100</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2020-03-06T00:00:00-05:00</fecha>
+    <comentario>Sonia</comentario>
+  </Ventas>
+  <Ventas>
+    <id>182</id>
+    <idProd>18</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2020-03-07T00:00:00-05:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>183</id>
+    <idProd>71</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2020-03-13T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>184</id>
+    <idProd>91</idProd>
+    <vendedor>Consumo</vendedor>
+    <count>1</count>
+    <precio>0</precio>
+    <moneda>0</moneda>
+    <fecha>2020-03-16T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>185</id>
+    <idProd>11</idProd>
+    <vendedor>Camilo</vendedor>
+    <count>1</count>
+    <precio>5</precio>
+    <moneda>0</moneda>
+    <fecha>2020-03-16T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Ventas>
+    <id>186</id>
+    <idProd>62</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>6</count>
+    <precio>8</precio>
+    <moneda>0</moneda>
+    <fecha>2020-03-19T00:00:00-04:00</fecha>
+    <comentario>Raisa</comentario>
+  </Ventas>
+  <Ventas>
+    <id>187</id>
+    <idProd>92</idProd>
+    <vendedor>Sonia</vendedor>
+    <count>3</count>
+    <precio>10</precio>
+    <moneda>2</moneda>
+    <fecha>2020-05-01T00:00:00-04:00</fecha>
+    <comentario />
+  </Ventas>
+  <Pagos>
+    <id>1</id>
+    <idVent>1</idVent>
+    <count>11</count>
+    <cuc>11</cuc>
+    <cup>0</cup>
+    <comentario>1</comentario>
+    <fecha>2019-09-29T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>3</id>
+    <idVent>8</idVent>
+    <count>1</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>8</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>4</id>
+    <idVent>3</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>6</id>
+    <idVent>2</idVent>
+    <count>2</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>2</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>7</id>
+    <idVent>15</idVent>
+    <count>3</count>
+    <cuc>7.5</cuc>
+    <cup>0</cup>
+    <comentario>15</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>8</id>
+    <idVent>26</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>9</id>
+    <idVent>27</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>10</id>
+    <idVent>28</idVent>
+    <count>22</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>11</id>
+    <idVent>29</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>12</id>
+    <idVent>30</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>13</id>
+    <idVent>32</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>14</id>
+    <idVent>33</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>15</id>
+    <idVent>34</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>16</id>
+    <idVent>35</idVent>
+    <count>5</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>17</id>
+    <idVent>36</idVent>
+    <count>3</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>18</id>
+    <idVent>37</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>19</id>
+    <idVent>38</idVent>
+    <count>6</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>20</id>
+    <idVent>39</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>21</id>
+    <idVent>40</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>22</id>
+    <idVent>41</idVent>
+    <count>6</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>23</id>
+    <idVent>42</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>24</id>
+    <idVent>43</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>25</id>
+    <idVent>44</idVent>
+    <count>3</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>26</id>
+    <idVent>45</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>27</id>
+    <idVent>46</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>28</id>
+    <idVent>47</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>29</id>
+    <idVent>48</idVent>
+    <count>4</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>30</id>
+    <idVent>49</idVent>
+    <count>2</count>
+    <cuc>30</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>31</id>
+    <idVent>53</idVent>
+    <count>2</count>
+    <cuc>30</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>32</id>
+    <idVent>54</idVent>
+    <count>0.3333</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>54 - Orlidia</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>33</id>
+    <idVent>54</idVent>
+    <count>0.3333</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>54 - Orlidia</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>34</id>
+    <idVent>56</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>35</id>
+    <idVent>58</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>36</id>
+    <idVent>8</idVent>
+    <count>1</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>8</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>37</id>
+    <idVent>5</idVent>
+    <count>10</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>5</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>38</id>
+    <idVent>23</idVent>
+    <count>2</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>23</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>39</id>
+    <idVent>57</idVent>
+    <count>0.0667</count>
+    <cuc>1</cuc>
+    <cup>0</cup>
+    <comentario>57 - Yaumara</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>40</id>
+    <idVent>79</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-09-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>41</id>
+    <idVent>80</idVent>
+    <count>6</count>
+    <cuc>42</cuc>
+    <cup>0</cup>
+    <comentario>80</comentario>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>42</id>
+    <idVent>81</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>81</comentario>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>43</id>
+    <idVent>82</idVent>
+    <count>3</count>
+    <cuc>24</cuc>
+    <cup>0</cup>
+    <comentario>82</comentario>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>44</id>
+    <idVent>83</idVent>
+    <count>2</count>
+    <cuc>20</cuc>
+    <cup>0</cup>
+    <comentario>83</comentario>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>45</id>
+    <idVent>86</idVent>
+    <count>2</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>86</comentario>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>46</id>
+    <idVent>21</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>21 - Hoelito</comentario>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>47</id>
+    <idVent>2</idVent>
+    <count>4</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>2 - Hoelito</comentario>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>48</id>
+    <idVent>88</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>88 - Hoelito</comentario>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>49</id>
+    <idVent>15</idVent>
+    <count>2</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>15</comentario>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>50</id>
+    <idVent>10</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>10 - Hoelito</comentario>
+    <fecha>2019-10-01T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>51</id>
+    <idVent>4</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>4</comentario>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>52</id>
+    <idVent>4</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>4</comentario>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>53</id>
+    <idVent>89</idVent>
+    <count>1</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>89</comentario>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>54</id>
+    <idVent>15</idVent>
+    <count>1</count>
+    <cuc>2.5</cuc>
+    <cup>0</cup>
+    <comentario>15</comentario>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>55</id>
+    <idVent>9</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>9</comentario>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>56</id>
+    <idVent>9</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>9 - Hoelito</comentario>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>57</id>
+    <idVent>4</idVent>
+    <count>3</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario>4</comentario>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>58</id>
+    <idVent>6</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>6</comentario>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>59</id>
+    <idVent>23</idVent>
+    <count>2</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>23</comentario>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>60</id>
+    <idVent>90</idVent>
+    <count>5</count>
+    <cuc>25</cuc>
+    <cup>0</cup>
+    <comentario>90</comentario>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>61</id>
+    <idVent>91</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>91</comentario>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>62</id>
+    <idVent>92</idVent>
+    <count>2</count>
+    <cuc>13</cuc>
+    <cup>0</cup>
+    <comentario>92</comentario>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>63</id>
+    <idVent>93</idVent>
+    <count>2</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>93</comentario>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>64</id>
+    <idVent>5</idVent>
+    <count>10</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>5</comentario>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>65</id>
+    <idVent>51</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>51 - Evelin</comentario>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>66</id>
+    <idVent>52</idVent>
+    <count>1</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario>52 - Evelin</comentario>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>67</id>
+    <idVent>94</idVent>
+    <count>1</count>
+    <cuc>13</cuc>
+    <cup>0</cup>
+    <comentario>94</comentario>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>68</id>
+    <idVent>99</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>0</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2019-10-02T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>69</id>
+    <idVent>3</idVent>
+    <count>4</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-10-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>70</id>
+    <idVent>8</idVent>
+    <count>2</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>8</comentario>
+    <fecha>2019-10-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>71</id>
+    <idVent>18</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>18 - Ileana</comentario>
+    <fecha>2019-10-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>72</id>
+    <idVent>23</idVent>
+    <count>10</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>23</comentario>
+    <fecha>2019-10-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>73</id>
+    <idVent>5</idVent>
+    <count>5</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>5</comentario>
+    <fecha>2019-10-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>74</id>
+    <idVent>15</idVent>
+    <count>2</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>15</comentario>
+    <fecha>2019-10-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>75</id>
+    <idVent>101</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>101</comentario>
+    <fecha>2019-10-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>76</id>
+    <idVent>1</idVent>
+    <count>3</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>1</comentario>
+    <fecha>2019-10-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>77</id>
+    <idVent>102</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>102</comentario>
+    <fecha>2019-10-03T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>78</id>
+    <idVent>7</idVent>
+    <count>5</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>7</comentario>
+    <fecha>2019-10-04T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>79</id>
+    <idVent>13</idVent>
+    <count>3</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>13</comentario>
+    <fecha>2019-10-04T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>80</id>
+    <idVent>18</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>18</comentario>
+    <fecha>2019-10-04T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>81</id>
+    <idVent>18</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>18</comentario>
+    <fecha>2019-10-04T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>82</id>
+    <idVent>5</idVent>
+    <count>15</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>5</comentario>
+    <fecha>2019-10-04T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>83</id>
+    <idVent>10</idVent>
+    <count>3</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>10 - Hoelito</comentario>
+    <fecha>2019-10-04T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>84</id>
+    <idVent>9</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>9 - Hoelito</comentario>
+    <fecha>2019-10-04T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>85</id>
+    <idVent>104</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>104 - Hoelito</comentario>
+    <fecha>2019-10-04T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>86</id>
+    <idVent>3</idVent>
+    <count>5</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-10-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>87</id>
+    <idVent>3</idVent>
+    <count>2</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>3 - De Ayer</comentario>
+    <fecha>2019-10-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>88</id>
+    <idVent>4</idVent>
+    <count>2</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>4</comentario>
+    <fecha>2019-10-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>89</id>
+    <idVent>4</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>4</comentario>
+    <fecha>2019-10-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>90</id>
+    <idVent>105</idVent>
+    <count>2</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>105</comentario>
+    <fecha>2019-10-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>91</id>
+    <idVent>106</idVent>
+    <count>2</count>
+    <cuc>14</cuc>
+    <cup>0</cup>
+    <comentario>106</comentario>
+    <fecha>2019-10-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>92</id>
+    <idVent>107</idVent>
+    <count>1</count>
+    <cuc>7</cuc>
+    <cup>0</cup>
+    <comentario>107</comentario>
+    <fecha>2019-10-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>93</id>
+    <idVent>13</idVent>
+    <count>3</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>13</comentario>
+    <fecha>2019-10-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>94</id>
+    <idVent>18</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>18</comentario>
+    <fecha>2019-10-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>95</id>
+    <idVent>3</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-10-05T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>96</id>
+    <idVent>8</idVent>
+    <count>2</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>8</comentario>
+    <fecha>2019-10-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>97</id>
+    <idVent>15</idVent>
+    <count>1</count>
+    <cuc>2.5</cuc>
+    <cup>0</cup>
+    <comentario>15</comentario>
+    <fecha>2019-10-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>100</id>
+    <idVent>12</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>12 - Hoelito</comentario>
+    <fecha>2019-10-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>101</id>
+    <idVent>17</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>17</comentario>
+    <fecha>2019-10-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>102</id>
+    <idVent>20</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>20</comentario>
+    <fecha>2019-10-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>103</id>
+    <idVent>13</idVent>
+    <count>3</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>13</comentario>
+    <fecha>2019-10-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>105</id>
+    <idVent>5</idVent>
+    <count>4</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>5</comentario>
+    <fecha>2019-10-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>106</id>
+    <idVent>4</idVent>
+    <count>2</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>4</comentario>
+    <fecha>2019-10-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>107</id>
+    <idVent>12</idVent>
+    <count>2</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>12 - Evelin</comentario>
+    <fecha>2019-10-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>108</id>
+    <idVent>18</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>18</comentario>
+    <fecha>2019-10-06T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>109</id>
+    <idVent>84</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>84 - Francis</comentario>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>110</id>
+    <idVent>14</idVent>
+    <count>6</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario>14</comentario>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>111</id>
+    <idVent>21</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>21</comentario>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>112</id>
+    <idVent>14</idVent>
+    <count>2</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>14</comentario>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>113</id>
+    <idVent>13</idVent>
+    <count>2</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>13</comentario>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>114</id>
+    <idVent>1</idVent>
+    <count>3</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>1</comentario>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>115</id>
+    <idVent>13</idVent>
+    <count>4</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>13</comentario>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>116</id>
+    <idVent>3</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>117</id>
+    <idVent>6</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>6</comentario>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>118</id>
+    <idVent>9</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>9</comentario>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>119</id>
+    <idVent>9</idVent>
+    <count>5</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>9 - Vadimir</comentario>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>120</id>
+    <idVent>17</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>17</comentario>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>121</id>
+    <idVent>17</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>17</comentario>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>122</id>
+    <idVent>1</idVent>
+    <count>10</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>1</comentario>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>123</id>
+    <idVent>24</idVent>
+    <count>1</count>
+    <cuc>18</cuc>
+    <cup>0</cup>
+    <comentario>24</comentario>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>124</id>
+    <idVent>13</idVent>
+    <count>20</count>
+    <cuc>20</cuc>
+    <cup>0</cup>
+    <comentario>13</comentario>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>125</id>
+    <idVent>108</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>108</comentario>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>126</id>
+    <idVent>17</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>17</comentario>
+    <fecha>2019-10-07T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>127</id>
+    <idVent>23</idVent>
+    <count>3</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>23</comentario>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>128</id>
+    <idVent>13</idVent>
+    <count>3</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>13</comentario>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>129</id>
+    <idVent>3</idVent>
+    <count>4</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>130</id>
+    <idVent>20</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>20</comentario>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>131</id>
+    <idVent>110</idVent>
+    <count>0.5</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>110 - Chavela</comentario>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>132</id>
+    <idVent>23</idVent>
+    <count>10</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>23</comentario>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>133</id>
+    <idVent>13</idVent>
+    <count>10</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>13</comentario>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>134</id>
+    <idVent>4</idVent>
+    <count>7</count>
+    <cuc>21</cuc>
+    <cup>0</cup>
+    <comentario>4</comentario>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>135</id>
+    <idVent>113</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>113</comentario>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>136</id>
+    <idVent>9</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>9</comentario>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>137</id>
+    <idVent>114</idVent>
+    <count>1</count>
+    <cuc>13</cuc>
+    <cup>0</cup>
+    <comentario>114</comentario>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>138</id>
+    <idVent>3</idVent>
+    <count>4</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>139</id>
+    <idVent>17</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>17</comentario>
+    <fecha>2019-10-08T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>140</id>
+    <idVent>3</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>141</id>
+    <idVent>9</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>9</comentario>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>142</id>
+    <idVent>15</idVent>
+    <count>4</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>15</comentario>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>143</id>
+    <idVent>1</idVent>
+    <count>2</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>1</comentario>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>144</id>
+    <idVent>3</idVent>
+    <count>2</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>145</id>
+    <idVent>7</idVent>
+    <count>10</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>7 - Evelin</comentario>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>146</id>
+    <idVent>15</idVent>
+    <count>3</count>
+    <cuc>7.5</cuc>
+    <cup>0</cup>
+    <comentario>15 - Evelin</comentario>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>147</id>
+    <idVent>13</idVent>
+    <count>5</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>13</comentario>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>148</id>
+    <idVent>7</idVent>
+    <count>5</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>7</comentario>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>149</id>
+    <idVent>3</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>150</id>
+    <idVent>23</idVent>
+    <count>5</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>23 - Eleanis</comentario>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>151</id>
+    <idVent>7</idVent>
+    <count>10</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>7 - Evelin</comentario>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>152</id>
+    <idVent>15</idVent>
+    <count>4</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>15</comentario>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>153</id>
+    <idVent>15</idVent>
+    <count>1</count>
+    <cuc>2.5</cuc>
+    <cup>0</cup>
+    <comentario>15</comentario>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>154</id>
+    <idVent>9</idVent>
+    <count>4</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>9</comentario>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>155</id>
+    <idVent>113</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>113</comentario>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>156</id>
+    <idVent>113</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>113</comentario>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>157</id>
+    <idVent>110</idVent>
+    <count>0.5</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>110 - Chavela</comentario>
+    <fecha>2019-10-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>158</id>
+    <idVent>13</idVent>
+    <count>2</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>13 - Evelin</comentario>
+    <fecha>2019-10-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>159</id>
+    <idVent>23</idVent>
+    <count>2</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>23 - Evelin</comentario>
+    <fecha>2019-10-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>160</id>
+    <idVent>113</idVent>
+    <count>4</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>113 - Evelin</comentario>
+    <fecha>2019-10-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>161</id>
+    <idVent>87</idVent>
+    <count>3</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>87</comentario>
+    <fecha>2019-10-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>162</id>
+    <idVent>3</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-10-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>163</id>
+    <idVent>118</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>118</comentario>
+    <fecha>2019-10-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>164</id>
+    <idVent>3</idVent>
+    <count>2</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-10-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>165</id>
+    <idVent>119</idVent>
+    <count>2</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>119 - Evelin</comentario>
+    <fecha>2019-10-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>166</id>
+    <idVent>3</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-10-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>167</id>
+    <idVent>9</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>9</comentario>
+    <fecha>2019-10-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>168</id>
+    <idVent>21</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>21</comentario>
+    <fecha>2019-10-11T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>169</id>
+    <idVent>21</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>21</comentario>
+    <fecha>2019-10-11T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>170</id>
+    <idVent>10</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>10</comentario>
+    <fecha>2019-10-11T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>171</id>
+    <idVent>15</idVent>
+    <count>2</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>15</comentario>
+    <fecha>2019-10-11T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>172</id>
+    <idVent>13</idVent>
+    <count>2</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>13</comentario>
+    <fecha>2019-10-11T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>173</id>
+    <idVent>19</idVent>
+    <count>10</count>
+    <cuc>20</cuc>
+    <cup>0</cup>
+    <comentario>19</comentario>
+    <fecha>2019-10-11T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>174</id>
+    <idVent>15</idVent>
+    <count>2</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>15</comentario>
+    <fecha>2019-10-11T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>175</id>
+    <idVent>20</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>20</comentario>
+    <fecha>2019-10-11T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>176</id>
+    <idVent>3</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>177</id>
+    <idVent>15</idVent>
+    <count>2</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>15</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>178</id>
+    <idVent>9</idVent>
+    <count>3</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>9</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>179</id>
+    <idVent>100</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>100</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>180</id>
+    <idVent>3</idVent>
+    <count>3</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>181</id>
+    <idVent>15</idVent>
+    <count>6</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>15 - Evelin</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>182</id>
+    <idVent>6</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>6 - Evelin</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>183</id>
+    <idVent>115</idVent>
+    <count>10</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>115 - Evelin</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>184</id>
+    <idVent>120</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>120 - Evelin</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>185</id>
+    <idVent>9</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>9</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>186</id>
+    <idVent>13</idVent>
+    <count>1</count>
+    <cuc>1</cuc>
+    <cup>0</cup>
+    <comentario>13</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>187</id>
+    <idVent>4</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>4</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>188</id>
+    <idVent>14</idVent>
+    <count>2</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>14</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>189</id>
+    <idVent>54</idVent>
+    <count>0.33</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>54 - Orlidia</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>190</id>
+    <idVent>55</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>55 - Orlidia</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>191</id>
+    <idVent>116</idVent>
+    <count>1</count>
+    <cuc>2.5</cuc>
+    <cup>0</cup>
+    <comentario>116 - Amiga de Evelin</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>192</id>
+    <idVent>22</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>22</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>193</id>
+    <idVent>15</idVent>
+    <count>3</count>
+    <cuc>7.5</cuc>
+    <cup>0</cup>
+    <comentario>15</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>194</id>
+    <idVent>7</idVent>
+    <count>3</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>7</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>195</id>
+    <idVent>22</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>22</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>196</id>
+    <idVent>121</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>121</comentario>
+    <fecha>2019-10-12T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>197</id>
+    <idVent>9</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>9</comentario>
+    <fecha>2019-10-13T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>198</id>
+    <idVent>15</idVent>
+    <count>1</count>
+    <cuc>2.5</cuc>
+    <cup>0</cup>
+    <comentario>15</comentario>
+    <fecha>2019-10-13T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>199</id>
+    <idVent>19</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>19</comentario>
+    <fecha>2019-10-13T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>200</id>
+    <idVent>10</idVent>
+    <count>3</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>10</comentario>
+    <fecha>2019-10-13T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>201</id>
+    <idVent>7</idVent>
+    <count>5</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>7</comentario>
+    <fecha>2019-10-13T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>202</id>
+    <idVent>2</idVent>
+    <count>2</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>2 - Eleanis</comentario>
+    <fecha>2019-10-13T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>203</id>
+    <idVent>4</idVent>
+    <count>4</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>4</comentario>
+    <fecha>2019-10-14T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>204</id>
+    <idVent>3</idVent>
+    <count>3</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-10-14T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>205</id>
+    <idVent>4</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>4</comentario>
+    <fecha>2019-10-14T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>206</id>
+    <idVent>1</idVent>
+    <count>6</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>1</comentario>
+    <fecha>2019-10-14T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>207</id>
+    <idVent>13</idVent>
+    <count>1</count>
+    <cuc>1</cuc>
+    <cup>0</cup>
+    <comentario>13</comentario>
+    <fecha>2019-10-14T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>208</id>
+    <idVent>1</idVent>
+    <count>3</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>1 -  Evelin</comentario>
+    <fecha>2019-10-14T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>209</id>
+    <idVent>10</idVent>
+    <count>10</count>
+    <cuc>20</cuc>
+    <cup>0</cup>
+    <comentario>10 - Sonia</comentario>
+    <fecha>2019-10-14T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>210</id>
+    <idVent>13</idVent>
+    <count>6</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>13</comentario>
+    <fecha>2019-10-14T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>211</id>
+    <idVent>15</idVent>
+    <count>4</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>15</comentario>
+    <fecha>2019-10-14T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>212</id>
+    <idVent>1</idVent>
+    <count>4</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>1</comentario>
+    <fecha>2019-10-14T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>213</id>
+    <idVent>13</idVent>
+    <count>5</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>13</comentario>
+    <fecha>2019-10-15T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>214</id>
+    <idVent>13</idVent>
+    <count>2</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>13 - Hoelito</comentario>
+    <fecha>2019-10-15T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>215</id>
+    <idVent>1</idVent>
+    <count>1</count>
+    <cuc>1</cuc>
+    <cup>0</cup>
+    <comentario>1 - Hoelito</comentario>
+    <fecha>2019-10-15T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>216</id>
+    <idVent>5</idVent>
+    <count>10</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>5 - Hoelito</comentario>
+    <fecha>2019-10-15T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>217</id>
+    <idVent>123</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>123</comentario>
+    <fecha>2019-10-15T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>218</id>
+    <idVent>3</idVent>
+    <count>4</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>3 - Hoelito</comentario>
+    <fecha>2019-10-15T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>219</id>
+    <idVent>13</idVent>
+    <count>4</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>13</comentario>
+    <fecha>2019-10-15T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>220</id>
+    <idVent>23</idVent>
+    <count>3</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>23</comentario>
+    <fecha>2019-10-16T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>221</id>
+    <idVent>20</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>20</comentario>
+    <fecha>2019-10-16T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>222</id>
+    <idVent>4</idVent>
+    <count>3</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario>4</comentario>
+    <fecha>2019-10-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>223</id>
+    <idVent>1</idVent>
+    <count>2</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>1</comentario>
+    <fecha>2019-10-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>224</id>
+    <idVent>20</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>20</comentario>
+    <fecha>2019-10-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>225</id>
+    <idVent>3</idVent>
+    <count>2</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-10-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>226</id>
+    <idVent>23</idVent>
+    <count>10</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>23 - Hoelito</comentario>
+    <fecha>2019-10-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>227</id>
+    <idVent>9</idVent>
+    <count>3</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>9 - Hoelito</comentario>
+    <fecha>2019-10-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>228</id>
+    <idVent>5</idVent>
+    <count>2</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>5 - Hoelito</comentario>
+    <fecha>2019-10-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>229</id>
+    <idVent>4</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>4 - Hoelito</comentario>
+    <fecha>2019-10-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>230</id>
+    <idVent>124</idVent>
+    <count>23</count>
+    <cuc>60.0001</cuc>
+    <cup>0</cup>
+    <comentario>124</comentario>
+    <fecha>2019-10-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>231</id>
+    <idVent>3</idVent>
+    <count>4</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-10-17T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>232</id>
+    <idVent>12</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>12</comentario>
+    <fecha>2019-10-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>233</id>
+    <idVent>4</idVent>
+    <count>5</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>4</comentario>
+    <fecha>2019-10-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>234</id>
+    <idVent>9</idVent>
+    <count>3</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>9 - Hoelito</comentario>
+    <fecha>2019-10-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>235</id>
+    <idVent>3</idVent>
+    <count>2</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>3</comentario>
+    <fecha>2019-10-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>236</id>
+    <idVent>15</idVent>
+    <count>6</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>15 - Hoelito</comentario>
+    <fecha>2019-10-19T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>237</id>
+    <idVent>125</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>125</comentario>
+    <fecha>2019-10-20T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>238</id>
+    <idVent>16</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>16 - Alberto</comentario>
+    <fecha>2019-10-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>239</id>
+    <idVent>4</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>4</comentario>
+    <fecha>2019-10-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>240</id>
+    <idVent>77</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>77</comentario>
+    <fecha>2019-10-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>241</id>
+    <idVent>69</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>69</comentario>
+    <fecha>2019-10-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>242</id>
+    <idVent>70</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>70</comentario>
+    <fecha>2019-10-21T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>243</id>
+    <idVent>111</idVent>
+    <count>0.5</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>111 - Diosmira</comentario>
+    <fecha>2019-10-22T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>244</id>
+    <idVent>7</idVent>
+    <count>2</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>7</comentario>
+    <fecha>2019-10-24T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>245</id>
+    <idVent>131</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>131</comentario>
+    <fecha>2019-10-25T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>246</id>
+    <idVent>70</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>70</comentario>
+    <fecha>2019-10-25T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>247</id>
+    <idVent>71</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>71</comentario>
+    <fecha>2019-10-25T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>248</id>
+    <idVent>72</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>25</cup>
+    <comentario>72</comentario>
+    <fecha>2019-10-25T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>249</id>
+    <idVent>129</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>129 - Orlidia</comentario>
+    <fecha>2019-10-26T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>250</id>
+    <idVent>1</idVent>
+    <count>1</count>
+    <cuc>1</cuc>
+    <cup>0</cup>
+    <comentario>1</comentario>
+    <fecha>2019-10-30T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>252</id>
+    <idVent>130</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>130 - Chavela</comentario>
+    <fecha>2019-10-31T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>254</id>
+    <idVent>138</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>138</comentario>
+    <fecha>2019-10-31T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>255</id>
+    <idVent>97</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>97 - Misley</comentario>
+    <fecha>2019-11-01T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>256</id>
+    <idVent>20</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>20</comentario>
+    <fecha>2019-11-01T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>257</id>
+    <idVent>11</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>11 - Hoelito</comentario>
+    <fecha>2019-11-01T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>258</id>
+    <idVent>16</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>16</comentario>
+    <fecha>2019-11-01T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>259</id>
+    <idVent>6</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>6 - Hoelito</comentario>
+    <fecha>2019-11-01T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>260</id>
+    <idVent>136</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>136 - Orlidia</comentario>
+    <fecha>2019-11-03T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>261</id>
+    <idVent>126</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>30</cup>
+    <comentario>126</comentario>
+    <fecha>2019-11-04T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>262</id>
+    <idVent>13</idVent>
+    <count>3</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>13</comentario>
+    <fecha>2019-11-04T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>263</id>
+    <idVent>140</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>140</comentario>
+    <fecha>2019-11-04T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>264</id>
+    <idVent>120</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>120</comentario>
+    <fecha>2019-11-05T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>265</id>
+    <idVent>141</idVent>
+    <count>0.3333</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>141</comentario>
+    <fecha>2019-11-05T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>266</id>
+    <idVent>141</idVent>
+    <count>0.7</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>141 - Helito</comentario>
+    <fecha>2019-11-05T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>267</id>
+    <idVent>126</idVent>
+    <count>3</count>
+    <cuc>0</cuc>
+    <cup>45</cup>
+    <comentario>126</comentario>
+    <fecha>2019-11-06T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>268</id>
+    <idVent>9</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>9</comentario>
+    <fecha>2019-11-06T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>269</id>
+    <idVent>142</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>290</cup>
+    <comentario>142</comentario>
+    <fecha>2019-11-07T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>270</id>
+    <idVent>24</idVent>
+    <count>1</count>
+    <cuc>18</cuc>
+    <cup>0</cup>
+    <comentario>24 - Hoelito</comentario>
+    <fecha>2019-11-07T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>271</id>
+    <idVent>9</idVent>
+    <count>4</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>9</comentario>
+    <fecha>2019-11-07T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>272</id>
+    <idVent>143</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>143</comentario>
+    <fecha>2019-11-09T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>273</id>
+    <idVent>4</idVent>
+    <count>15</count>
+    <cuc>45</cuc>
+    <cup>0</cup>
+    <comentario>4</comentario>
+    <fecha>2019-11-09T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>274</id>
+    <idVent>120</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>120 - Hoelito</comentario>
+    <fecha>2019-11-09T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>275</id>
+    <idVent>9</idVent>
+    <count>3</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>9</comentario>
+    <fecha>2019-11-11T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>276</id>
+    <idVent>144</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>144</comentario>
+    <fecha>2019-11-11T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>277</id>
+    <idVent>4</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>4</comentario>
+    <fecha>2019-11-11T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>278</id>
+    <idVent>23</idVent>
+    <count>13</count>
+    <cuc>13</cuc>
+    <cup>0</cup>
+    <comentario>23</comentario>
+    <fecha>2019-11-12T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>279</id>
+    <idVent>4</idVent>
+    <count>2</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>4</comentario>
+    <fecha>2019-11-12T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>280</id>
+    <idVent>9</idVent>
+    <count>4</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>9</comentario>
+    <fecha>2019-11-12T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>281</id>
+    <idVent>9</idVent>
+    <count>10</count>
+    <cuc>20</cuc>
+    <cup>0</cup>
+    <comentario>9</comentario>
+    <fecha>2019-11-12T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>282</id>
+    <idVent>9</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>9</comentario>
+    <fecha>2019-11-12T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>283</id>
+    <idVent>9</idVent>
+    <count>3</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>9</comentario>
+    <fecha>2019-11-13T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>284</id>
+    <idVent>4</idVent>
+    <count>9</count>
+    <cuc>27</cuc>
+    <cup>0</cup>
+    <comentario>4</comentario>
+    <fecha>2019-11-13T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>285</id>
+    <idVent>120</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>120</comentario>
+    <fecha>2019-11-15T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>286</id>
+    <idVent>5</idVent>
+    <count>7</count>
+    <cuc>7</cuc>
+    <cup>0</cup>
+    <comentario>5</comentario>
+    <fecha>2019-11-16T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>287</id>
+    <idVent>5</idVent>
+    <count>2</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>5</comentario>
+    <fecha>2019-11-16T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>288</id>
+    <idVent>5</idVent>
+    <count>3</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>5</comentario>
+    <fecha>2019-11-17T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>289</id>
+    <idVent>64</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>35</cup>
+    <comentario>64</comentario>
+    <fecha>2019-11-19T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>290</id>
+    <idVent>112</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>112 - Acala</comentario>
+    <fecha>2019-11-20T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>291</id>
+    <idVent>111</idVent>
+    <count>0.5</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>111 - Diosmira</comentario>
+    <fecha>2019-11-20T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>292</id>
+    <idVent>66</idVent>
+    <count>1</count>
+    <cuc>18</cuc>
+    <cup>0</cup>
+    <comentario>66</comentario>
+    <fecha>2019-11-20T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>293</id>
+    <idVent>67</idVent>
+    <count>1</count>
+    <cuc>18</cuc>
+    <cup>0</cup>
+    <comentario>67</comentario>
+    <fecha>2019-11-20T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>294</id>
+    <idVent>76</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>76</comentario>
+    <fecha>2019-11-20T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>295</id>
+    <idVent>68</idVent>
+    <count>1</count>
+    <cuc>15</cuc>
+    <cup>0</cup>
+    <comentario>68</comentario>
+    <fecha>2019-11-20T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>296</id>
+    <idVent>126</idVent>
+    <count>3</count>
+    <cuc>0</cuc>
+    <cup>45</cup>
+    <comentario>126</comentario>
+    <fecha>2019-11-22T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>297</id>
+    <idVent>147</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>147</comentario>
+    <fecha>2019-11-23T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>298</id>
+    <idVent>148</idVent>
+    <count>2</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>148</comentario>
+    <fecha>2019-11-26T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>299</id>
+    <idVent>5</idVent>
+    <count>4</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>5 - Hoelito</comentario>
+    <fecha>2019-11-26T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>300</id>
+    <idVent>126</idVent>
+    <count>4</count>
+    <cuc>0</cuc>
+    <cup>60</cup>
+    <comentario>126</comentario>
+    <fecha>2019-11-26T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>301</id>
+    <idVent>126</idVent>
+    <count>3</count>
+    <cuc>0</cuc>
+    <cup>45</cup>
+    <comentario>126</comentario>
+    <fecha>2019-11-27T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>302</id>
+    <idVent>5</idVent>
+    <count>4</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>5 - Hoelito</comentario>
+    <fecha>2019-11-28T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>303</id>
+    <idVent>24</idVent>
+    <count>1</count>
+    <cuc>18</cuc>
+    <cup>0</cup>
+    <comentario>24</comentario>
+    <fecha>2019-11-28T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>304</id>
+    <idVent>24</idVent>
+    <count>1</count>
+    <cuc>18</cuc>
+    <cup>0</cup>
+    <comentario>24</comentario>
+    <fecha>2019-11-28T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>305</id>
+    <idVent>5</idVent>
+    <count>10</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>5</comentario>
+    <fecha>2019-11-28T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>306</id>
+    <idVent>95</idVent>
+    <count>11</count>
+    <cuc>0</cuc>
+    <cup>330</cup>
+    <comentario>95 - Misley</comentario>
+    <fecha>2019-11-28T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>307</id>
+    <idVent>98</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>10</cup>
+    <comentario>98 - Misley</comentario>
+    <fecha>2019-11-28T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>308</id>
+    <idVent>24</idVent>
+    <count>2</count>
+    <cuc>36</cuc>
+    <cup>0</cup>
+    <comentario>24</comentario>
+    <fecha>2019-11-29T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>309</id>
+    <idVent>5</idVent>
+    <count>3</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>5</comentario>
+    <fecha>2019-11-30T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>310</id>
+    <idVent>5</idVent>
+    <count>1</count>
+    <cuc>1</cuc>
+    <cup>0</cup>
+    <comentario>5</comentario>
+    <fecha>2019-11-30T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>311</id>
+    <idVent>134</idVent>
+    <count>16</count>
+    <cuc>32</cuc>
+    <cup>0</cup>
+    <comentario>134 - Gilda</comentario>
+    <fecha>2019-11-30T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>312</id>
+    <idVent>135</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>135 - Gilda</comentario>
+    <fecha>2019-11-30T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>313</id>
+    <idVent>5</idVent>
+    <count>3</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>5</comentario>
+    <fecha>2019-11-30T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>314</id>
+    <idVent>126</idVent>
+    <count>4</count>
+    <cuc>0</cuc>
+    <cup>60</cup>
+    <comentario>126</comentario>
+    <fecha>2019-12-02T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>315</id>
+    <idVent>5</idVent>
+    <count>8</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>5</comentario>
+    <fecha>2019-12-04T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>316</id>
+    <idVent>5</idVent>
+    <count>3</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>5</comentario>
+    <fecha>2019-12-04T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>317</id>
+    <idVent>153</idVent>
+    <count>1</count>
+    <cuc>2</cuc>
+    <cup>0</cup>
+    <comentario>153 - Francy</comentario>
+    <fecha>2019-12-05T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>318</id>
+    <idVent>159</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>159</comentario>
+    <fecha>2019-12-12T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>319</id>
+    <idVent>160</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>160</comentario>
+    <fecha>2019-12-12T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>320</id>
+    <idVent>161</idVent>
+    <count>1</count>
+    <cuc>13</cuc>
+    <cup>0</cup>
+    <comentario>161</comentario>
+    <fecha>2019-12-16T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>321</id>
+    <idVent>57</idVent>
+    <count>0.93</count>
+    <cuc>14</cuc>
+    <cup>0</cup>
+    <comentario>57 - Yaumara</comentario>
+    <fecha>2019-12-16T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>322</id>
+    <idVent>146</idVent>
+    <count>1</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario>146 - Yaumara</comentario>
+    <fecha>2019-12-16T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>323</id>
+    <idVent>71</idVent>
+    <count>2</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>71</comentario>
+    <fecha>2019-12-17T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>324</id>
+    <idVent>103</idVent>
+    <count>2</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>103</comentario>
+    <fecha>2019-12-17T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>325</id>
+    <idVent>151</idVent>
+    <count>11</count>
+    <cuc>22</cuc>
+    <cup>0</cup>
+    <comentario>151 - Kiko</comentario>
+    <fecha>2019-12-19T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>326</id>
+    <idVent>31</idVent>
+    <count>4</count>
+    <cuc>40</cuc>
+    <cup>0</cup>
+    <comentario>31</comentario>
+    <fecha>2019-12-23T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>327</id>
+    <idVent>19</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>19</comentario>
+    <fecha>2019-12-24T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>328</id>
+    <idVent>19</idVent>
+    <count>3</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>19</comentario>
+    <fecha>2019-12-26T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>329</id>
+    <idVent>163</idVent>
+    <count>2</count>
+    <cuc>26</cuc>
+    <cup>0</cup>
+    <comentario>163</comentario>
+    <fecha>2019-12-29T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>330</id>
+    <idVent>151</idVent>
+    <count>3</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>151 - Kiko</comentario>
+    <fecha>2019-12-30T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>331</id>
+    <idVent>19</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>19</comentario>
+    <fecha>2019-12-30T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>333</id>
+    <idVent>19</idVent>
+    <count>2</count>
+    <cuc>4</cuc>
+    <cup>0</cup>
+    <comentario>19 - Ernesto</comentario>
+    <fecha>2020-01-03T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>334</id>
+    <idVent>164</idVent>
+    <count>1</count>
+    <cuc>10</cuc>
+    <cup>0</cup>
+    <comentario>164</comentario>
+    <fecha>2020-01-04T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>335</id>
+    <idVent>133</idVent>
+    <count>2</count>
+    <cuc>0</cuc>
+    <cup>120</cup>
+    <comentario>133 - Gilda</comentario>
+    <fecha>2020-01-07T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>336</id>
+    <idVent>157</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>157 - Gilda</comentario>
+    <fecha>2020-01-07T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>337</id>
+    <idVent>156</idVent>
+    <count>3</count>
+    <cuc>21</cuc>
+    <cup>0</cup>
+    <comentario>156 - Gilda</comentario>
+    <fecha>2020-01-07T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>338</id>
+    <idVent>127</idVent>
+    <count>2</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>127</comentario>
+    <fecha>2020-01-10T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>339</id>
+    <idVent>73</idVent>
+    <count>1</count>
+    <cuc>18</cuc>
+    <cup>0</cup>
+    <comentario>73</comentario>
+    <fecha>2020-01-10T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>340</id>
+    <idVent>11</idVent>
+    <count>1</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>11</comentario>
+    <fecha>2020-01-19T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>341</id>
+    <idVent>167</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>167</comentario>
+    <fecha>2020-01-29T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>342</id>
+    <idVent>165</idVent>
+    <count>0.5</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>165 - Aida</comentario>
+    <fecha>2020-01-29T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>343</id>
+    <idVent>168</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>168</comentario>
+    <fecha>2020-02-04T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>344</id>
+    <idVent>165</idVent>
+    <count>0.5</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>165 - Aida</comentario>
+    <fecha>2020-02-12T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>345</id>
+    <idVent>169</idVent>
+    <count>3</count>
+    <cuc>6</cuc>
+    <cup>0</cup>
+    <comentario>169 - Aida</comentario>
+    <fecha>2020-02-12T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>346</id>
+    <idVent>170</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>170</comentario>
+    <fecha>2020-02-13T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>347</id>
+    <idVent>65</idVent>
+    <count>5</count>
+    <cuc>0</cuc>
+    <cup>125</cup>
+    <comentario>65</comentario>
+    <fecha>2020-02-15T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>348</id>
+    <idVent>63</idVent>
+    <count>6</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>63</comentario>
+    <fecha>2020-02-15T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>349</id>
+    <idVent>64</idVent>
+    <count>3</count>
+    <cuc>0</cuc>
+    <cup>105</cup>
+    <comentario>64</comentario>
+    <fecha>2020-02-15T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>350</id>
+    <idVent>62</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>10</cup>
+    <comentario>62</comentario>
+    <fecha>2020-02-15T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>351</id>
+    <idVent>12</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>12</comentario>
+    <fecha>2020-02-17T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>352</id>
+    <idVent>96</idVent>
+    <count>1.5</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>96 - Misley</comentario>
+    <fecha>2020-02-25T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>353</id>
+    <idVent>172</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>172</comentario>
+    <fecha>2020-02-28T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>354</id>
+    <idVent>173</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>173</comentario>
+    <fecha>2020-02-28T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>355</id>
+    <idVent>72</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>25</cup>
+    <comentario>72</comentario>
+    <fecha>2020-02-28T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>356</id>
+    <idVent>174</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>174</comentario>
+    <fecha>2020-02-28T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>357</id>
+    <idVent>175</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>175</comentario>
+    <fecha>2020-03-02T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>358</id>
+    <idVent>176</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>10</cup>
+    <comentario>Pago directo</comentario>
+    <fecha>2020-03-02T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>359</id>
+    <idVent>178</idVent>
+    <count>1</count>
+    <cuc>12</cuc>
+    <cup>0</cup>
+    <comentario>178</comentario>
+    <fecha>2020-03-05T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>360</id>
+    <idVent>179</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>179</comentario>
+    <fecha>2020-03-06T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>361</id>
+    <idVent>182</idVent>
+    <count>1</count>
+    <cuc>8</cuc>
+    <cup>0</cup>
+    <comentario>182</comentario>
+    <fecha>2020-03-07T00:00:00-05:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>362</id>
+    <idVent>12</idVent>
+    <count>1</count>
+    <cuc>3</cuc>
+    <cup>0</cup>
+    <comentario>12 - Ernesto</comentario>
+    <fecha>2020-03-09T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>363</id>
+    <idVent>180</idVent>
+    <count>1</count>
+    <cuc>0</cuc>
+    <cup>25</cup>
+    <comentario>180 - Marlene</comentario>
+    <fecha>2020-03-10T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>364</id>
+    <idVent>69</idVent>
+    <count>0.125</count>
+    <cuc>1</cuc>
+    <cup>0</cup>
+    <comentario>69</comentario>
+    <fecha>2020-03-13T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>365</id>
+    <idVent>183</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>183</comentario>
+    <fecha>2020-03-13T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>366</id>
+    <idVent>185</idVent>
+    <count>1</count>
+    <cuc>5</cuc>
+    <cup>0</cup>
+    <comentario>185</comentario>
+    <fecha>2020-03-16T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>367</id>
+    <idVent>155</idVent>
+    <count>2.25</count>
+    <cuc>27</cuc>
+    <cup>0</cup>
+    <comentario>155 - Gilda</comentario>
+    <fecha>2020-03-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>368</id>
+    <idVent>158</idVent>
+    <count>1.2857</count>
+    <cuc>9</cuc>
+    <cup>0</cup>
+    <comentario>158 - Gilda</comentario>
+    <fecha>2020-03-18T00:00:00-04:00</fecha>
+  </Pagos>
+  <Pagos>
+    <id>369</id>
+    <idVent>187</idVent>
+    <count>3</count>
+    <cuc>0</cuc>
+    <cup>30</cup>
+    <comentario>187</comentario>
+    <fecha>2020-05-01T00:00:00-04:00</fecha>
+  </Pagos>
+</DataBase>

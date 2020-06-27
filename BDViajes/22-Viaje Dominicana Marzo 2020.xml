@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<DataBase xmlns="http://tempuri.org/DataBase.xsd">
+  <Presupuesto>
+    <id>1</id>
+    <source>Pasaje</source>
+    <value>444</value>
+    <moneda>0</moneda>
+    <cambio>1.1</cambio>
+  </Presupuesto>
+  <Gastos>
+    <id>1</id>
+    <descric>Pasaje</descric>
+    <cuc>444</cuc>
+    <value>444 cuc</value>
+  </Gastos>
+</DataBase>
